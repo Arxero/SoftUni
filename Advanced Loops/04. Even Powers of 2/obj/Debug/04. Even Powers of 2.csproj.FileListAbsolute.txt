@@ -1,0 +1,10 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops 1\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops 1\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops 1\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops 1\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops 1\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.pdb

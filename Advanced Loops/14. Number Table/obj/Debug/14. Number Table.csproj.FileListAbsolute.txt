@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\14. Number Table\bin\Debug\_14.Number_Table.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\14. Number Table\bin\Debug\_14.Number_Table.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\14. Number Table\bin\Debug\_14.Number_Table.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\14. Number Table\obj\Debug\_14.Number_Table.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\14. Number Table\obj\Debug\_14.Number_Table.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\14. Number Table\obj\Debug\14. Number Table.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\13. Number Pyramid\bin\Debug\_13.Number_Pyramid.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\13. Number Pyramid\obj\Debug\_13.Number_Pyramid.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\13. Number Pyramid\obj\Debug\_13.Number_Pyramid.pdb
