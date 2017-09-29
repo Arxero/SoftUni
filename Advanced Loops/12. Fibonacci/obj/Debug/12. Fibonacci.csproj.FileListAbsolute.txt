@@ -1,5 +1,0 @@
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.exe.config
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.exe
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\12. Fibonacci\bin\Debug\_12.Fibonacci.pdb
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\12. Fibonacci\obj\Debug\_12.Fibonacci.exe
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\12. Fibonacci\obj\Debug\_12.Fibonacci.pdb

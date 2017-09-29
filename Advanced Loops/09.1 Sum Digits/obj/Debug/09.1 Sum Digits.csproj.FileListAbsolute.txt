@@ -1,5 +1,0 @@
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\09.1 Sum Digits\bin\Debug\09.1 Sum Digits.exe.config
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\09.1 Sum Digits\bin\Debug\09.1 Sum Digits.exe
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\09.1 Sum Digits\bin\Debug\09.1 Sum Digits.pdb
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\09.1 Sum Digits\obj\Debug\09.1 Sum Digits.exe
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\09.1 Sum Digits\obj\Debug\09.1 Sum Digits.pdb

@@ -1,5 +1,0 @@
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.exe.config
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.exe
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\11. Enter Even Number\bin\Debug\_11.Enter_Even_Number.pdb
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\11. Enter Even Number\obj\Debug\_11.Enter_Even_Number.exe
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\11. Enter Even Number\obj\Debug\_11.Enter_Even_Number.pdb

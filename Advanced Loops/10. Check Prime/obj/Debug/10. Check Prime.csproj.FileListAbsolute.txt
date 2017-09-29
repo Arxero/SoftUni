@@ -1,5 +1,0 @@
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\10. Check Prime\bin\Debug\_10.Check_Prime.exe.config
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\10. Check Prime\bin\Debug\_10.Check_Prime.exe
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\10. Check Prime\bin\Debug\_10.Check_Prime.pdb
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\10. Check Prime\obj\Debug\_10.Check_Prime.exe
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\10. Check Prime\obj\Debug\_10.Check_Prime.pdb

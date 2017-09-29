@@ -1,5 +1,0 @@
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.exe.config
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.exe
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.pdb
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\07. Greatest Common Divisor (CGD)\obj\Debug\_07.Greatest_Common_Divisor__CGD_.exe
-C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\07. Greatest Common Divisor (CGD)\obj\Debug\_07.Greatest_Common_Divisor__CGD_.pdb
