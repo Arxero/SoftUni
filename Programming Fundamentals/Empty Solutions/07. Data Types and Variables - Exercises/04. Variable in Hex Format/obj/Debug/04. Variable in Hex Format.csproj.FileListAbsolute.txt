@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe.config
+C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.exe
+C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\04. Variable in Hex Format\bin\Debug\_04.Variable_in_Hex_Format.pdb
+C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\04. Variable in Hex Format\obj\Debug\04. Variable in Hex Format.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\04. Variable in Hex Format\obj\Debug\04. Variable in Hex Format.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.exe
+C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\04. Variable in Hex Format\obj\Debug\_04.Variable_in_Hex_Format.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe.config
+C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.exe
+C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\09. Reversed chars\bin\Debug\_09.Reversed_chars.pdb
+C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\09. Reversed chars\obj\Debug\09. Reversed chars.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\09. Reversed chars\obj\Debug\_09.Reversed_chars.exe
+C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\09. Reversed chars\obj\Debug\_09.Reversed_chars.pdb
