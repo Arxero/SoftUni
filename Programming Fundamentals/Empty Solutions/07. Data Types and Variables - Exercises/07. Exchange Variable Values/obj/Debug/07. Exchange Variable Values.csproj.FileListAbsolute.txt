@@ -1,6 +1,0 @@
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe.config
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.exe
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\07. Exchange Variable Values\bin\Debug\_07.Exchange_Variable_Values.pdb
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\07. Exchange Variable Values.csproj.CoreCompileInputs.cache
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.exe
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\07. Exchange Variable Values\obj\Debug\_07.Exchange_Variable_Values.pdb

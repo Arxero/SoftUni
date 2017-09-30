@@ -1,6 +1,0 @@
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe.config
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.exe
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\19. Thea The Photographer\bin\Debug\_19.Thea_The_Photographer.pdb
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\19. Thea The Photographer\obj\Debug\19. Thea The Photographer.csproj.CoreCompileInputs.cache
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\19. Thea The Photographer\obj\Debug\_19.Thea_The_Photographer.exe
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\19. Thea The Photographer\obj\Debug\_19.Thea_The_Photographer.pdb

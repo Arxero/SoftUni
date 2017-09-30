@@ -1,6 +1,0 @@
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe.config
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.exe
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\12. Rectangle Properties\bin\Debug\_12.Rectangle_Properties.pdb
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\12. Rectangle Properties\obj\Debug\12. Rectangle Properties.csproj.CoreCompileInputs.cache
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.exe
-C:\Users\Maverick\OneDrive\GitHub Repositories\SoftUni\Programming Fundamentals\Empty Solutions\07. Data Types and Variables - Exercises\12. Rectangle Properties\obj\Debug\_12.Rectangle_Properties.pdb
