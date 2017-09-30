@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Comparing_floats
 {
-    class Practice_Floating_Points
+    class Comparing_floats
     {
         static void Main(string[] args)
         {

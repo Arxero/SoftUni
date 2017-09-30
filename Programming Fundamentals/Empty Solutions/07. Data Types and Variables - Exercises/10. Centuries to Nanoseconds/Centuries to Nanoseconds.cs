@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Centuries_to_Nanoseconds
 {
-    class Practice_Floating_Points
+    class Centuries_to_Nanoseconds
     {
         static void Main(string[] args)
         {

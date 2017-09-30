@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Different_Integers_Size
 {
-    class Practice_Floating_Points
+    class Different_Integers_Size
     {
         static void Main(string[] args)
         {

@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Vowel_or_Digit
 {
-    class Practice_Floating_Points
+    class Vowel_or_Digit
     {
         static void Main(string[] args)
         {

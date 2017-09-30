@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Reversed_chars
 {
-    class Practice_Floating_Points
+    class Reversed_chars
     {
         static void Main(string[] args)
         {

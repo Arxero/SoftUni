@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Boolean_Variable
 {
-    class Practice_Floating_Points
+    class Boolean_Variable
     {
         static void Main(string[] args)
         {

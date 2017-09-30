@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Exchange_Variable_Values
 {
-    class Practice_Floating_Points
+    class Exchange_Variable_Values
     {
         static void Main(string[] args)
         {

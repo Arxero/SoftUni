@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Employee_Data
 {
-    class Practice_Floating_Points
+    class Employee_Data
     {
         static void Main(string[] args)
         {

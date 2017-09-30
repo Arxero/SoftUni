@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Print_Part_Of_ASCII_Table
 {
-    class Practice_Floating_Points
+    class Print_Part_Of_ASCII_Table
     {
         static void Main(string[] args)
         {

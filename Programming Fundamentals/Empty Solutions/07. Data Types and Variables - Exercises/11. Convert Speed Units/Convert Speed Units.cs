@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Convert_Speed_Units
 {
-    class Practice_Floating_Points
+    class Convert_Speed_Units
     {
         static void Main(string[] args)
         {

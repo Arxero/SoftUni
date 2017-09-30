@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Practice_Chars_And_Strings
 {
-    class Practice_Floating_Points
+    class Practice_Chars_And_Strings
     {
         static void Main(string[] args)
         {

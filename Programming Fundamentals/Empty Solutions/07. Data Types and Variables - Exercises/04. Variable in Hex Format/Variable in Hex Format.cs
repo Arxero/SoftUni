@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Variable_in_Hex_Format
 {
-    class Practice_Floating_Points
+    class Variable_in_Hex_Format
     {
         static void Main(string[] args)
         {

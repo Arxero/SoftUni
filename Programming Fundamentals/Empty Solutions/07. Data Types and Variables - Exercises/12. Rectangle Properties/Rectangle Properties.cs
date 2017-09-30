@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Rectangle_Properties
 {
-    class Practice_Floating_Points
+    class Rectangle_Properties
     {
         static void Main(string[] args)
         {

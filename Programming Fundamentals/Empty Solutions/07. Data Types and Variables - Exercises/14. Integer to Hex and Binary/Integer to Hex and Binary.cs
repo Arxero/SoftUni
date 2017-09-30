@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Integer_to_Hex_and_Binary
 {
-    class Practice_Floating_Points
+    class Integer_to_Hex_and_Binary
     {
         static void Main(string[] args)
         {

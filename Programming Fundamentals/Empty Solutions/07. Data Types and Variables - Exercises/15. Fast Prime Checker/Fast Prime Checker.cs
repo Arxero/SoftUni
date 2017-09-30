@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Practice_Floating_Points
+namespace Fast_Prime_Checker
 {
-    class Practice_Floating_Points
+    class Fast_Prime_Checker
     {
         static void Main(string[] args)
         {
