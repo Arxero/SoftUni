@@ -1,7 +1,0 @@
-C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Exercises\16. Comparing floats\bin\Debug\_16.Comparing_floats.exe.config
-C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Exercises\16. Comparing floats\bin\Debug\_16.Comparing_floats.exe
-C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Exercises\16. Comparing floats\bin\Debug\_16.Comparing_floats.pdb
-C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Exercises\16. Comparing floats\obj\Debug\16. Comparing floats.csprojResolveAssemblyReference.cache
-C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Exercises\16. Comparing floats\obj\Debug\16. Comparing floats.csproj.CoreCompileInputs.cache
-C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Exercises\16. Comparing floats\obj\Debug\_16.Comparing_floats.exe
-C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Exercises\16. Comparing floats\obj\Debug\_16.Comparing_floats.pdb
