@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\5. A Miner Task\bin\Debug\_5.A_Miner_Task.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\5. A Miner Task\bin\Debug\_5.A_Miner_Task.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\5. A Miner Task\bin\Debug\_5.A_Miner_Task.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\5. A Miner Task\obj\Debug\05. A Miner Task.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\5. A Miner Task\obj\Debug\05. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\5. A Miner Task\obj\Debug\_5.A_Miner_Task.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\5. A Miner Task\obj\Debug\_5.A_Miner_Task.pdb

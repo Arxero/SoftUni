@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\1. Most Frequent Number\bin\Debug\_1.Most_Frequent_Number.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\1. Most Frequent Number\bin\Debug\_1.Most_Frequent_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\1. Most Frequent Number\bin\Debug\_1.Most_Frequent_Number.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\1. Most Frequent Number\obj\Debug\1. Most Frequent Number.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\1. Most Frequent Number\obj\Debug\1. Most Frequent Number.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\1. Most Frequent Number\obj\Debug\_1.Most_Frequent_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\1. Most Frequent Number\obj\Debug\_1.Most_Frequent_Number.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\2. Index of Letters\bin\Debug\_2.Index_of_Letters.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\2. Index of Letters\bin\Debug\_2.Index_of_Letters.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\2. Index of Letters\bin\Debug\_2.Index_of_Letters.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\2. Index of Letters\obj\Debug\02. Index of Letters.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\2. Index of Letters\obj\Debug\_2.Index_of_Letters.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\2. Index of Letters\obj\Debug\_2.Index_of_Letters.pdb

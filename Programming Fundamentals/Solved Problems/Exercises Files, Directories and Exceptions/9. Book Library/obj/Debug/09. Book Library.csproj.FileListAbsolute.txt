@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\9. Book Library\bin\Debug\_9.Book_Library.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\9. Book Library\bin\Debug\_9.Book_Library.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\9. Book Library\bin\Debug\_9.Book_Library.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\9. Book Library\obj\Debug\09. Book Library.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\9. Book Library\obj\Debug\_9.Book_Library.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\9. Book Library\obj\Debug\_9.Book_Library.pdb

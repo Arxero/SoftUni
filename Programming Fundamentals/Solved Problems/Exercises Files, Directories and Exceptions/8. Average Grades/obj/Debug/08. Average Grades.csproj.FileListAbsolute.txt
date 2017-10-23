@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\8. Average Grades\bin\Debug\_8.Average_Grades.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\8. Average Grades\bin\Debug\_8.Average_Grades.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\8. Average Grades\bin\Debug\_8.Average_Grades.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\8. Average Grades\obj\Debug\08. Average Grades.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\8. Average Grades\obj\Debug\_8.Average_Grades.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exercises Files, Directories and Exceptions\8. Average Grades\obj\Debug\_8.Average_Grades.pdb
