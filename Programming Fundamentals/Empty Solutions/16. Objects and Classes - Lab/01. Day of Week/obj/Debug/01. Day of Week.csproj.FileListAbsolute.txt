@@ -1,0 +1,7 @@
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.exe.config
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.exe
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Lab\01. Day of Week\bin\Debug\_01.Day_of_Week.pdb
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Lab\01. Day of Week\obj\Debug\01. Day of Week.csprojResolveAssemblyReference.cache
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Lab\01. Day of Week\obj\Debug\01. Day of Week.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Lab\01. Day of Week\obj\Debug\_01.Day_of_Week.exe
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Lab\01. Day of Week\obj\Debug\_01.Day_of_Week.pdb
