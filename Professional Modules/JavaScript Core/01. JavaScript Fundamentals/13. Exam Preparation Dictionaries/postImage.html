@@ -1,0 +1,41 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <title>Postimage Size Correction</title>
+</head>
+</div>
+</div>
+
+<body>
+    <img id="postImage" alt="Image" class="postimage">
+    <script>
+        (function () {
+            //let input = `{TEXT}`
+            let id = Date.now()
+            $('#postImage').attr('id', id).hide()
+            let corsProxy = 'http://cors-proxy.htmldriven.com/?url='
+            let input = `\n[url=https://postimg.cc/image/mk56q648t/][img]https://s14.postimg.cc/mk56q648t/free-steam-key_mini-ninjas.jpg[/img][/url]`
+            input = input.replace('\n', '')
+            let URL = input.split('][')[0].slice(5)
+            let urlProxied = corsProxy + URL
+            let pattern = /https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{2,256}\.[a-z]{2,4}\b([-a-zA-Z0-9@:%_\+.~#?&\/\/=]*)(\.jpg|\.png|\.gif)/
+
+            $.ajax({
+                method: 'GET',
+                url: urlProxied,
+            }).then(function (res) {
+                let resString = JSON.stringify(res)
+                console.log(res)
+                let matches = resString.match(pattern)[0]
+                $(`#${id}`).attr('src', matches).addClass('postimage').show()
+            })
+        }())
+    </script>
+   <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fawesomecarscs%2F&tabs=timeline&width=500&height=500&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false&appId=1614827465214616" width="500" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+</body>
+
+</html>

@@ -1,0 +1,1379 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<meta name="google-site-verification" content="ap28XZYyx-Xarb_a_T0SwPvKYDGdqoJIwa5-ulQfcso" />
+    <meta charset="utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+    <title>Awesome Cars + Fun Maps - GameTracker.rs</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="author" content="Boris Vujicic turshija@gmail.com">
+    <meta name="norton-safeweb-site-verification" content="rprmjlw9amn7a884i0udviwydvd-xxabe2ftpnk9rk54h-p50eeawwpwnrgt90blbv3gamqwqmypl9tx7tj7ddf-p-k1dsexw33ib05g92cqu4cycegfpntldj57afiy" />
+
+    <meta name="description" content="Awesome Cars + Fun Maps - Counter Strike 1.6 server that is ranked 1296 out of many other servers on GameTracker.rs">
+    <meta property="og:image" content="http://static.gametracker.rs/images/gtrs_logo.png"/>
+    <link href="http://static.gametracker.rs/css/main.css?2015-02-20-17-33" media="screen" rel="stylesheet" type="text/css">
+    <style type="text/css" media="print">.dropShadow{visibility:hidden;}</style>
+    <link rel="icon" type="image/png" href="http://static.gametracker.rs/favicon.ico">
+    <link rel="search" href="http://static.gametracker.rs/opensearch.xml?2015-02-20-17-33" type="application/opensearchdescription+xml" title="GameTracker.rs" />
+<!--
+    <script type="text/javascript">
+    var fb_param = {};
+    fb_param.pixel_id = '6009926407883';
+    fb_param.value = '0.00';
+    fb_param.currency = 'EUR';
+    (function(){
+      var fpw = document.createElement('script');
+      fpw.async = true;
+      fpw.src = '//connect.facebook.net/en_US/fp.js';
+      var ref = document.getElementsByTagName('script')[0];
+      ref.parentNode.insertBefore(fpw, ref);
+    })();
+    </script>
+    <noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/offsite_event.php?id=6009926407883&amp;value=0&amp;currency=EUR" /></noscript>
+-->
+</head>
+
+<body data-page="server_info" data-sitepath="" data-staticpath="http://static.gametracker.rs" data-langs="{&quot;timeDay&quot;:&quot;day&quot;,&quot;timeHour&quot;:&quot;hour&quot;,&quot;timeMinute&quot;:&quot;minute&quot;,&quot;timeSecond&quot;:&quot;second&quot;}" data-focus="true">
+
+<div id="warper">
+<style type="text/css">
+
+</style>
+<script type="text/javascript">
+    // $(document).ready(function() {
+
+    // });
+</script>
+<div id="header">
+    <h1><a href="/">Gametracker.rs: Counter Strike, Condition Zero, Counter Strike Source, Call of Duty 2, Call of Duty 4</a></h1>
+    <ul id="navigation">
+        <li class="">
+            <a href="/" title="Go to home page">
+                Home                <span>Go to home page</span>
+            </a>
+        </li>
+        <li class="current">
+            <a class="serversDropdown" href="/servers/games/" title="Servers list">
+                Servers                <span>Servers list</span>
+            </a>
+        </li>
+        <li class="dropdownMenu ">
+            <a class="serversDropdown" href="/servers/boosted/" title="Servers list">
+                Boosted                 <span>Boosted servers</span>
+            </a>
+            <dl>
+                <dd>
+                    <a href="/servers/boosted-week/">
+                    Week
+                    <span>Boosted servers</span>
+                    </a>
+                </dd>
+                <dd>
+                    <a href="/sms_boost/">
+                    &nbsp; Boost &nbsp;
+                    <span>Boost your server</span>
+                    </a>
+                </dd>
+            </dl>
+        </li>
+        <!-- <li class="">
+            <a href="/servers/boosted/" title="Boosted servers">
+                Boosted                 <span>Boosted servers</span>
+            </a>
+        </li> -->
+        <!-- <li class="">
+            <a href="/chat/" title="Chat">
+                Chat
+                <span>Beta !</span>
+            </a>
+        </li> -->
+
+        <li class="">
+            <a href="/communities/" title="Communities list">
+                Communities                <span>Communities list</span>
+            </a>
+        </li>
+                <li class="">
+            <a href="/profile/login/" title="Login ">
+                Login                 <span>Not logged in</span>
+            </a>
+        </li>
+            </ul>
+
+    
+<ul id="scroller">
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/87.98.146.61:27015/">..:: Kosova Public Server ...</a>
+        </strong>
+        87.98.146.61:27015    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/93.123.18.76:27015/">iPlay.bg GunGame#TeamPlay ...</a>
+        </strong>
+        93.123.18.76:27015    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/91.121.51.238:27016/">Sirmium Arena ® | Collos ...</a>
+        </strong>
+        91.121.51.238:27016    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/193.192.58.53:44444/">Sirmium Arena ® | Dust2  ...</a>
+        </strong>
+        193.192.58.53:44444    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/151.80.47.10:27019/">MILF GunGame [FDL]</a>
+        </strong>
+        151.80.47.10:27019    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/151.80.47.10:27017/">MILF DeathMatch [FDL]</a>
+        </strong>
+        151.80.47.10:27017    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/151.80.47.10:11111/">MILF Public Alfa [FDL]</a>
+        </strong>
+        151.80.47.10:11111    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/178.32.49.77:27016/">.:: ORIGINAL PubLic Serve ...</a>
+        </strong>
+        178.32.49.77:27016    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/176.57.182.132:27016/">[csrevolution.eu] !!! Bas ...</a>
+        </strong>
+        176.57.182.132:27016    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/193.104.68.45:27020/">Fatality Family | Public</a>
+        </strong>
+        193.104.68.45:27020    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/193.104.68.8:27042/">Birtija Public Nis</a>
+        </strong>
+        193.104.68.8:27042    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/176.57.142.179:27035/">Ekipa Nesalomiva Knife [R ...</a>
+        </strong>
+        176.57.142.179:27035    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/176.57.188.202:27024/">Deadline COD:MW4 [KS+Para ...</a>
+        </strong>
+        176.57.188.202:27024    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/193.104.68.46:27040/">Srbija Community | PUB ®</a>
+        </strong>
+        193.104.68.46:27040    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/89.44.246.222:27015/">-=RESPAWN.AREA-GAMES.RO=- ...</a>
+        </strong>
+        89.44.246.222:27015    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/193.104.68.26:27023/">YuzNjaC! Public Alfa</a>
+        </strong>
+        193.104.68.26:27023    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/89.34.25.90:27015/">BT.BLACKGAMING.RO</a>
+        </strong>
+        89.34.25.90:27015    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/89.44.246.93:27015/">CS.ROYALCS.RO # VIP FREE  ...</a>
+        </strong>
+        89.44.246.93:27015    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/89.44.246.77:27015/">FURIEN.DEVILCS.RO # FURIE ...</a>
+        </strong>
+        89.44.246.77:27015    </li>
+        <li>
+        <strong>
+            <img alt="game-cs" class="gme" height="10" src="http://static.gametracker.rs/images/game-cs.png">
+            <a href="/server_info/176.57.188.202:27019/">::Ljuta Paprika COD:MW4 [ ...</a>
+        </strong>
+        176.57.188.202:27019    </li>
+    </ul>
+
+<!-- dummy FOUC fix -->
+<div class="simply-scroll simply-scroll-container no-js-remove">
+<div class="simply-scroll-clip">
+<div class="simply-scroll-list" style="width: 10610px; ">
+<ul class="simply-scroll-list" style="float: left; width: 5305px; ">
+</ul>
+</div>
+</div>
+</div></div>
+<div id="flash" class="notice" style='display:none' >
+	<a href="#" class="hide-flash">&times;</a>
+	<h2></h2>
+</div><div id="boost-banner-top">
+    <a href="/sms_boost/">
+        Do you want to increase the number of players on your CS 1.6 server ?<br />
+        Try BOOST !        <span>
+            <img src="http://static.gametracker.rs/images/kartice/sms.png" width="40" />
+            <!-- <img src="http://static.gametracker.rs/images/kartice/paypal.png" width="40" /> -->
+            <!-- <img src="http://static.gametracker.rs/images/kartice/visa.png" width="40" /> -->
+        </span>
+    </a>
+    <a href="/sms_boost/" class="button">Boost server</a>
+</div>
+<div id="content">
+    <div id="main">
+        <div class="game-content">
+    <div class="main-server-info">
+        <h2>Awesome Cars + Fun Maps</h2>
+        <p class="refresh" data-time="1520329896" >
+            Last refresh <strong>0</strong> ago        </p>
+        <ul class="server-info">
+            <li>
+                <img alt="" width="16" height="10" src="http://static.gametracker.rs/flags/BG.png" />
+                Bulgaria                <span class="divider">|</span>
+            </li>
+            <li>Counter Strike 1.6</li>
+        </ul>
+    </div>
+
+    <div id="inline-modals" class="ui-helper-hidden">
+        <div id="freeBoostInfoDummy">
+            <div class="info">
+                <p>FreeBoost is available only to KGB Hosting clients.</p>
+                <p>You can activate FreeBoost in game panel, and its not possible to boost any servers outside of your panel.</p>
+                <p>To get access to FreeBoost, buy Premium server with 20+ slots, or Lite server with 30+ slots.</p>
+            </div>
+        </div>
+
+        <div id="claimOwnershipDummy">
+            <div class='ownershipNotification' style="color:#f00"></div>
+            <br />
+            <div class="ownershipInstructions">
+                <h2>Claim ownership instructions:</h2>
+                <p>1. Change your server's name to GameTracker (ex: type in console amx_cvar hostname "GameTracker")</p>
+                <p>2. Check if your server is online and showing new name "GameTracker"</p>
+                <p>3. Click on a button below</p>
+            </div>
+        </div>
+
+        <div id="settingsModalDummy">
+            <form action="/process/edit_server/" method="post" data-posturl="" data-serverid="198892" data-countryid="35" data-modid="1">
+                <input type="hidden" name="serverid" value="198892" />
+                <ul>
+                    <li>
+                        <label>Site/forum:</label>
+                        <input type="text" name="website" value="awesomecs.syntrwave.com" />
+                    </li>
+                    <li>
+                        <label>Mod :</label>
+                        <select name="mod_id">
+                            <option value="">Loading...</option>
+                        </select>
+                    </li>
+                    <li>
+                        <label>Country:</label>
+                        <select name="country_id">
+                            <option value="">Loading...</option>
+                        </select>
+                    </li>
+                    <li>
+                        <label>Top15 :</label>
+                        <select name="top15">
+                            <option value="0">Off</option>
+                            <option value="1" selected="selected">Sort by score</option>
+                            <option value="2" >Sort by online time</option>
+                        </select>
+                    </li>
+                    <li>
+                        <label>Hide boost?</label>
+                        <select name="hide_boost">
+                            <option value="1">Yes</option>
+                            <option value="0" selected="selected">No</option>
+                        </select>
+                    </li>
+                </ul>
+            </form>
+        </div>
+
+        <div id="reportServerModalDummy">
+            <form class="reportForm" data-serverid="198892" action="/process/report_server/" method="post">
+                <input type="hidden" name="serverid" value="198892" />
+                <ul>
+                    <li>
+                        <label for="report-reason">Report reason:</label>
+                        <select name="reason" class="report-reason" id="report-reason">
+                            <option value="" data-warning="">-- choose report reason --</option>
+                            <option value="bots" data-warning="WARNING! If players have [bot] mark, then there is no need to report this server!">Bots</option>
+                            <option value="afk players" data-warning="Also include console screenshot (status command) in additional info.">AFK players</option>
+                            <option value="gamemenu" data-warning="Please report only gamemenu that destroys default options (new game, find servers, options, quit)">Forbidden gamemenu hack</option>
+                            <option value="ostalo" data-warning="">Other</option>
+                        </select>
+                    </li>
+                    <li>
+                        <span class="report-warning"></span>
+                    </li>
+                    <li>
+                        <label for="report-comment">Additional info</label>
+                        <textarea rows="3" cols="30" name="comment" id="report-comment"></textarea>
+                    </li>
+                </ul>
+            </form>
+        </div>
+
+    </div>
+
+    
+    <ul class="server-controls">
+                <li><a href="steam://connect/93.123.18.81:27017" class="btn">Connect (Steam)</a></li>
+        
+            </ul>
+
+    
+    <ul class="server-details" itemscope itemtype="http://schema.org/Organization">
+        <span itemprop="url" style="display:none">http://www.gametracker.rs/server_info/93.123.18.81:27017/</span>
+        <li>
+            <dl>
+                <dt>General info</dt>
+                <dd>Game:          <span>Counter Strike 1.6</span></dd>
+                <dd>Mod :           <span>Public</span></dd>
+                <dd>Name:          <span itemprop="name">Awesome Cars + Fun Maps</span></dd>
+                <dd>Online :        <span>Yes</span></dd>
+                <dd>IP address:    <span>93.123.18.81:27017</span></dd>
+
+                <dd>Added by:      <a href="/user_info/135709/inday-net/">inday.net</a></dd>
+
+                    <dd itemprop="founder" itemscope itemtype="http://schema.org/Person">
+                        Owned by:
+                        <a itemprop="name" href="/user_info/137956/feruchio/">feruchio</a>
+
+                        <span style="display:none">
+                            <span itemprop="givenName">Stanislav</span>
+                            <span itemprop="familyName">Ganev</span>
+                            <span itemprop="additionalName">feruchio</span>
+                            <span itemprop="url" style="display:none;">http://www.gametracker.rs//user_info/137956/feruchio/</span>
+                        </span>
+                    </dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt>Additional info</dt>
+                                    <dd>Site/forum:   <a target="_blank" href="http://awesomecs.syntrwave.com">awesomecs.syntrwave.com</a></dd>
+                                                        <dd>Server boosted by <span><small>(94)</small></span>:
+                            <a href="#" class="showBoosts">Show boost list</a>
+                            <div style="display:none">
+                                                                                                        <a href="/sms_info/7aba7a7e0bf4a7031fc93f0afe4a163d/" class="tooltip " title="Click for more info.<br /><br />Boost time: 03.03.2018. 17:40<br />Phone number: 35989762****<br />Payment status: ok">[the-denis-bg]</a>
+                                                                        ,                                     <a href="/sms_info/9e97c7c848f92dc5ad090c0229e1cf81/" class="tooltip " title="Click for more info.<br /><br />Boost time: 03.03.2018. 17:27<br />Phone number: 35989762****<br />Payment status: ok">[the-denis-bg</a>
+                                                                        ,                                     <a href="/sms_info/5a2417e399c3200ba2b56353f7f928e0/" class="tooltip " title="Click for more info.<br /><br />Boost time: 03.03.2018. 15:28<br />Phone number: 35988925****<br />Payment status: ok">blaze</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 03.03.2018. 14:42<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 02.03.2018. 14:43<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/ba86dbc2ba1384d0d698e57852114b37/" class="tooltip " title="Click for more info.<br /><br />Boost time: 24.02.2018. 09:10<br />Phone number: 35988341****<br />Payment status: ok">Ma3x</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 23.02.2018. 13:51<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 18.02.2018. 14:58<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 17.02.2018. 15:52<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/70dfde349fceec8e5a15136a1d09749c/" class="tooltip " title="Click for more info.<br /><br />Boost time: 16.02.2018. 13:07<br />Phone number: 3897755****<br />Payment status: ok">ayylmao</a>
+                                                                        ,                                     <a href="/sms_info/072da1459db44a89fbdc6dd95222365b/" class="tooltip " title="Click for more info.<br /><br />Boost time: 13.02.2018. 21:01<br />Phone number: 35989612****<br />Payment status: ok">BmW| I_LoVe_SeXy_GiR..</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 11.02.2018. 14:10<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 10.02.2018. 13:44<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 09.02.2018. 16:13<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/607bdaf054f548f3641ec3a79ada9a7e/" class="tooltip " title="Click for more info.<br /><br />Boost time: 08.02.2018. 23:36<br />Phone number: 3897637****<br />Payment status: ok">yoloooo</a>
+                                                                        ,                                     <a href="/sms_info/cc880595c649f6cdb86902b31990d7ef/" class="tooltip " title="Click for more info.<br /><br />Boost time: 05.02.2018. 14:46<br />Phone number: #pQfKw3gA1fkOoRaGvN75nxUds9L****<br />Payment status: ok">SaadLovesNojjyandFan..</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 04.02.2018. 15:46<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 03.02.2018. 16:00<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/153fba4595c381b598adbf7daeeb08ea/" class="tooltip " title="Click for more info.<br /><br />Boost time: 01.02.2018. 13:04<br />Phone number: 35989938****<br />Payment status: ok">Ïàòðîíààà!</a>
+                                                                        ,                                     <a href="/sms_info/b0f74245383b393aef66d124910b5047/" class="tooltip " title="Click for more info.<br /><br />Boost time: 29.01.2018. 14:57<br />Phone number: 35989381****<br />Payment status: ok">{DeserT EagLe}-WaLke..</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 28.01.2018. 15:28<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/1fc18fedec12562233188b66afa4b3c1/" class="tooltip " title="Click for more info.<br /><br />Boost time: 27.01.2018. 09:43<br />Phone number: 35989361****<br />Payment status: ok">SpeedersYT</a>
+                                                                        ,                                     <a href="/sms_info/14e3d0c3b6fe886c930f3721ba18daee/" class="tooltip " title="Click for more info.<br /><br />Boost time: 26.01.2018. 13:50<br />Phone number: 3897755****<br />Payment status: ok">saadhasahotbody-roll..</a>
+                                                                        ,                                     <a href="/sms_info/5569cda55c9fda0bf24857b3a553cff1/" class="tooltip " title="Click for more info.<br /><br />Boost time: 22.01.2018. 16:38<br />Phone number: 35988909****<br />Payment status: ok">TaZeI</a>
+                                                                        ,                                     <a href="/sms_info/c022a5ce2fa0879c1bda0accddfc6c35/" class="tooltip " title="Click for more info.<br /><br />Boost time: 21.01.2018. 14:05<br />Phone number: 35988931****<br />Payment status: ok">DEAD master</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 20.01.2018. 14:08<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 15.01.2018. 19:00<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/b9be506d4900956af6b4c42c16ef9e31/" class="tooltip " title="Click for more info.<br /><br />Boost time: 14.01.2018. 14:23<br />Phone number: 35989520****<br />Payment status: ok">The Apostle</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 13.01.2018. 16:19<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/3782c5a6e6dbd01fc1c582e9926a7a0e/" class="tooltip " title="Click for more info.<br /><br />Boost time: 12.01.2018. 15:18<br />Phone number: 3897755****<br />Payment status: ok">rollerlikessaadasafr..</a>
+                                                                        ,                                     <a href="/sms_info/7a90451a480e1ea9c0b38cbb48cdd12f/" class="tooltip " title="Click for more info.<br /><br />Boost time: 09.01.2018. 17:26<br />Phone number: 3897755****<br />Payment status: ok">happygaybirthday</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 07.01.2018. 19:32<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 06.01.2018. 13:05<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 29.12.2017. 15:53<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 17.12.2017. 16:57<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 16.12.2017. 15:08<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/18fd993ee1980e03c03cdfe02ebac1b6/" class="tooltip " title="Click for more info.<br /><br />Boost time: 11.12.2017. 14:36<br />Phone number: 35988445****<br />Payment status: ok">fun da king</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 10.12.2017. 16:42<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 09.12.2017. 13:21<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 08.12.2017. 12:21<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 08.12.2017. 07:57<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/f269cd76989130f10eca52cc9252c012/" class="tooltip " title="Click for more info.<br /><br />Boost time: 04.12.2017. 14:41<br />Phone number: 3816229****<br />Payment status: ok">ArtiseXplosion&amp;#..</a>
+                                                                        ,                                     <a href="/sms_info/b5f6c8d61f342bbb4a837423f4e378cb/" class="tooltip " title="Click for more info.<br /><br />Boost time: 03.12.2017. 10:46<br />Phone number: 35989520****<br />Payment status: ok">The Apostle</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 02.12.2017. 12:18<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 26.11.2017. 13:52<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/f9f8125be2e4aa8fdb685f084bfa5bae/" class="tooltip " title="Click for more info.<br /><br />Boost time: 25.11.2017. 12:27<br />Phone number: 3897755****<br />Payment status: ok">Daaskcuf</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 23.11.2017. 18:18<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 19.11.2017. 20:03<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/1e291d281d8b54dd3568b11c016c8e87/" class="tooltip " title="Click for more info.<br /><br />Boost time: 19.11.2017. 11:13<br />Phone number: 35989520****<br />Payment status: ok">The Apostle</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 18.11.2017. 19:11<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 12.11.2017. 19:08<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/611257f0872bd53d3429faad531b847f/" class="tooltip " title="Click for more info.<br /><br />Boost time: 11.11.2017. 19:06<br />Phone number: 3816229****<br />Payment status: ok">ArtiseXplosion</a>
+                                                                        ,                                     <a href="/sms_info/18697bca44201bfbffdad76ef90b7a9e/" class="tooltip " title="Click for more info.<br /><br />Boost time: 10.11.2017. 10:47<br />Phone number: 35989756****<br />Payment status: ok">anonimen</a>
+                                                                        ,                                     <a href="/sms_info/544160ef9ce2e48125651691e7dad08a/" class="tooltip " title="Click for more info.<br /><br />Boost time: 03.11.2017. 16:18<br />Phone number: 3897755****<br />Payment status: ok">rollerlikesitintheas..</a>
+                                                                        ,                                     <a href="/sms_info/1e500c61906ae30d4d540cc5897190a2/" class="tooltip " title="Click for more info.<br /><br />Boost time: 28.10.2017. 14:44<br />Phone number: 3897755****<br />Payment status: ok">yagsidaas</a>
+                                                                        ,                                     <a href="/sms_info/3d14bc6638fee9602d04c529f1c2f0e5/" class="tooltip " title="Click for more info.<br /><br />Boost time: 01.09.2017. 20:59<br />Phone number: 35987777****<br />Payment status: ok">Bez potpisa</a>
+                                                                        ,                                     <a href="/sms_info/b79a533b2c8486c8e757f7760c0ab11a/" class="tooltip " title="Click for more info.<br /><br />Boost time: 30.08.2017. 19:20<br />Phone number: 35988520****<br />Payment status: ok">ZomBoy!</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 19.08.2017. 19:26<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/0fd29aa3a674c3224b6641154762b78f/" class="tooltip " title="Click for more info.<br /><br />Boost time: 30.07.2017. 09:58<br />Phone number: 35988231****<br />Payment status: ok">Bez potpisa</a>
+                                                                        ,                                     <a href="/sms_info/914dc3f3dc387a6285b38ff3d24dc259/" class="tooltip " title="Click for more info.<br /><br />Boost time: 29.07.2017. 00:10<br />Phone number: 3774564****<br />Payment status: ok">SWAT</a>
+                                                                        ,                                     <a href="/sms_info/78e21005ec73044abea9487372019336/" class="tooltip " title="Click for more info.<br /><br />Boost time: 25.07.2017. 21:44<br />Phone number: 35989565****<br />Payment status: ok">Bez potpisa</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 15.07.2017. 19:11<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/4eef998a96eeeb8923f27d7ffd66249d/" class="tooltip " title="Click for more info.<br /><br />Boost time: 09.07.2017. 10:55<br />Phone number: 35987722****<br />Payment status: ok">IdealPetroff</a>
+                                                                        ,                                     <a href="/sms_info/b5bdabd0d14fc1d09c1915b4dd232235/" class="tooltip " title="Click for more info.<br /><br />Boost time: 06.07.2017. 22:22<br />Phone number: 35988231****<br />Payment status: ok">Bez potpisa</a>
+                                                                        ,                                     <a href="/sms_info/eadff932f1b59d6f3c6481964ea15240/" class="tooltip " title="Click for more info.<br /><br />Boost time: 29.06.2017. 19:35<br />Phone number: 35988231****<br />Payment status: ok">Bez potpisa</a>
+                                                                        ,                                     <a href="/sms_info/006115b1911c14358ac7f8cde6303b51/" class="tooltip " title="Click for more info.<br /><br />Boost time: 25.06.2017. 23:03<br />Phone number: 35989565****<br />Payment status: ok">Bez potpisa</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 17.06.2017. 19:45<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 20.05.2017. 19:12<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/ab7a1fd413f6815f26f65c645ad522c4/" class="tooltip " title="Click for more info.<br /><br />Boost time: 07.05.2017. 19:11<br />Phone number: #pQfKw3gA1fkOoRajpP3ESoEZDsn****<br />Payment status: ok">Saad</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 30.04.2017. 19:59<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 22.04.2017. 19:06<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/8291b1a5ffb14d547cece8dac9b6f913/" class="tooltip " title="Click for more info.<br /><br />Boost time: 20.04.2017. 18:12<br />Phone number: #pQfKw3gA1fkOoRad4xqtVuJrLy5****<br />Payment status: ok">Saad</a>
+                                                                        ,                                     <a href="/sms_info/b098bba67080487b0d6536a6fa900138/" class="tooltip " title="Click for more info.<br /><br />Boost time: 13.03.2017. 15:37<br />Phone number: 35989336****<br />Payment status: ok">LuDaKa</a>
+                                                                        ,                                     <a href="/sms_info/3cbb453aa81f8496b18c117c59e3443d/" class="tooltip " title="Click for more info.<br /><br />Boost time: 12.03.2017. 11:46<br />Phone number: 35987887****<br />Payment status: ok">MichaelDONG</a>
+                                                                        ,                                     <a href="/sms_info/2147d2048699879ced06a575a47bdfde/" class="tooltip " title="Click for more info.<br /><br />Boost time: 11.03.2017. 17:37<br />Phone number: 35988275****<br />Payment status: ok">Monkey_D.Dady</a>
+                                                                        ,                                     <a href="/sms_info/c994ae5d707409fb470fb5bb18de5847/" class="tooltip " title="Click for more info.<br /><br />Boost time: 01.02.2017. 18:54<br />Phone number: 35987937****<br />Payment status: ok">PrOxY</a>
+                                                                        ,                                     <a href="/sms_info/8883221c736ff1933b1f9982123dbcf8/" class="tooltip " title="Click for more info.<br /><br />Boost time: 31.01.2017. 10:16<br />Phone number: 35988926****<br />Payment status: ok">@-(C)rAzY-@</a>
+                                                                        ,                                     <a href="/sms_info/0780fe69be9e97c5393753e011f8ef5f/" class="tooltip " title="Click for more info.<br /><br />Boost time: 08.01.2017. 21:38<br />Phone number: 35987937****<br />Payment status: ok">PrOxY</a>
+                                                                        ,                                     <a href="/sms_info/e57f60279401cbcddc3acad094d1d9e2/" class="tooltip " title="Click for more info.<br /><br />Boost time: 22.12.2016. 18:58<br />Phone number: 38164418****<br />Payment status: ok">Diablo</a>
+                                                                        ,                                     <a href="/sms_info/252b64816efb0696280305c29894de21/" class="tooltip " title="Click for more info.<br /><br />Boost time: 22.12.2016. 10:19<br />Phone number: 35989971****<br />Payment status: ok">&#039;[Straight Outt..</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 19.12.2016. 15:48<br />Phone number: ****<br />Payment status: ok">PayPal Week</a>
+                                                                        ,                                     <a href="/sms_info/26d5dc20aab0e66fd4640859accba56e/" class="tooltip " title="Click for more info.<br /><br />Boost time: 03.12.2016. 23:15<br />Phone number: 35988742****<br />Payment status: ok">1RR3S1T1BL3</a>
+                                                                        ,                                     <a href="/sms_info/b3f3469d94838465653958e2f0ff4b1c/" class="tooltip " title="Click for more info.<br /><br />Boost time: 20.11.2016. 18:00<br />Phone number: 42077500****<br />Payment status: ok">SeDw</a>
+                                                                        ,                                     <a href="/sms_info/a950d43c236401c6fa55cfca16deb13b/" class="tooltip " title="Click for more info.<br /><br />Boost time: 03.11.2016. 19:32<br />Phone number: 35988407****<br />Payment status: ok">Ratonhnahake:ton</a>
+                                                                        ,                                     <a href="/sms_info/6dcf7da4c8cdb04788ab9b4657cb0b04/" class="tooltip " title="Click for more info.<br /><br />Boost time: 15.09.2016. 11:19<br />Phone number: 35987748****<br />Payment status: ok">Neikoooo</a>
+                                                                        ,                                     <a href="/sms_info/11900f95483e78a3ef669e3954fb593a/" class="tooltip " title="Click for more info.<br /><br />Boost time: 12.09.2016. 14:59<br />Phone number: 35989604****<br />Payment status: ok">Jihadista :[]</a>
+                                                                        ,                                     <a href="/sms_info/4f3ae2b0c74961fcb13d55965cda465c/" class="tooltip " title="Click for more info.<br /><br />Boost time: 02.09.2016. 23:38<br />Phone number: 35987797****<br />Payment status: ok">Simeon013</a>
+                                                                        ,                                     <a href="/sms_info/66bf41465cd26032087e91a35fe7599d/" class="tooltip " title="Click for more info.<br /><br />Boost time: 15.08.2016. 21:46<br />Phone number: 3897682****<br />Payment status: ok">`rezA</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 15.05.2016. 17:57<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 02.05.2016. 19:01<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="/sms_info/4d08a7553032a727e49082a4c16dfd94/" class="tooltip " title="Click for more info.<br /><br />Boost time: 19.04.2016. 20:20<br />Phone number: 35987917****<br />Payment status: ok">RusseLL</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 25.03.2016. 14:50<br />Phone number: ****<br />Payment status: ok">PayPal Week</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 19.03.2016. 20:01<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                        ,                                     <a href="#" class="tooltip " title="Click for more info.<br /><br />Boost time: 13.02.2016. 19:09<br />Phone number: ****<br />Payment status: ok">PayPal</a>
+                                                                </div>
+                        </dd>
+                        <dd>Last boost time:   <span>03.03.2018. 17:40</span></dd>
+                                    </dl>
+        </li>
+        <li>
+            <dl>
+                <dt>Players info</dt>
+                <dd>
+                    Players:
+                    <span>2/21</span>
+                                    </dd>
+                <!-- <dd>
+                    Number of players (last 24h):
+                    <span>0</span>
+                    (u izradi)
+                </dd> -->
+                <dd>
+                    Average number of players (last 12h):
+                    <span>0.83</span>
+                </dd>
+                <dd>
+                    Average number of players (last 24h):
+                    <span>4.88</span>
+                </dd>
+            </dl>
+        </li>
+        <li>
+            <dl>
+                <dt>Server rank</dt>
+                
+                                        <dd>
+                        Balcan rank:
+                        <span>319</span>
+                    </dd>
+                                        <dd>
+                        World rank:
+                        <span>1296</span>
+                    </dd>
+                    <dd>
+                        The best rank:
+                        <span>1281</span>
+                    </dd>
+                    <dd>
+                        The worst rank:
+                        <span>1388</span>
+                    </dd>
+                            </dl>
+        </li>
+                <li class="map">
+            <dl>
+                <dt>Map<br /><a href="/map_upload/cs/de_airninja/">[Upload new map image]</a></dt>
+                <dd class="map-img">
+                    <img width="160" height="120"  alt="de_airninja" src="http://banners.gametracker.rs/map/cs/de_airninja.jpg">
+                    <span>de_airninja</span>
+                </dd>
+                <dd>Last map: <span>de_airninja</span></dd>
+            </dl>
+        </li>
+                <li class="banner">
+            <dl>
+                <dt>Server banners</dt>
+                <dd>
+                    <a href="/server_banners/93.123.18.81:27017/red/">
+                        <img alt="siva" src="http://banners.gametracker.rs/93.123.18.81:27017/big/red/banner.jpg?1520330056">
+                        Show all banners                    </a>
+                </dd>
+            </dl>
+        </li>
+    </ul> <!-- kraj server-details div-a -->
+    <div class="player-list" id="players-tables">
+
+        <ul class="tables-tabs">
+            <li><a href="#table-tab-online">Online players</a></li>
+            <li><a href="#table-tab-top15">Top15 players</a></li>
+        </ul>
+
+        <div class="tables-content">
+
+            <table id="table-tab-online" class="player-list" cellpadding="0" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th class="rank">ID </th>
+                        <th>Name</th>
+                        <th></th>
+                        <th>Score</th>
+                        <th class="score">Time</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td colspan="3" class="separate" ></td>
+                    </tr>
+                </tbody>
+                <tbody>
+                    <tr class="odd">
+    <td>1</td>
+    <td class="name">
+                <a href="/player/93.123.18.81:27017/-%2BOMSONNNNNNNNNNNNNNNNN%253A%252A/">- OMSONNNNNNNNNNNNNNNNN:*</a>
+            </td>
+    <td>
+            </td>
+    <td>0</td>
+    <td>00:50:52</td>
+</tr>
+<tr class="odd">
+    <td>2</td>
+    <td class="name">
+                <a href="/player/93.123.18.81:27017/Plaku/">Plaku</a>
+            </td>
+    <td>
+            </td>
+    <td>0</td>
+    <td>00:21:16</td>
+</tr>
+                </tbody>
+            </table>
+
+            <table id="table-tab-top15" class="player-list" cellpadding="0" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th class="rank">ID </th>
+                        <th>Name</th>
+                        <th></th>
+                        <th>Score</th>
+                        <th class="score">Time</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td colspan="3" class="separate" ></td>
+                    </tr>
+                </tbody>
+                <tbody>
+                    <tr class="odd">
+    <td>1</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/LOLUMAD/">LOLUMAD</a>
+    	    </td>
+    <td></td>
+    <td>95138</td>
+    <td>1111:21:11</td>
+</tr>
+<tr class="odd">
+    <td>2</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/The%2BApostle/">The Apostle</a>
+    	    </td>
+    <td></td>
+    <td>25384</td>
+    <td>407:56:33</td>
+</tr>
+<tr class="odd">
+    <td>3</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/%252APrOkAzA%252A/">*PrOkAzA*</a>
+    	    </td>
+    <td></td>
+    <td>20405</td>
+    <td>315:43:10</td>
+</tr>
+<tr class="odd">
+    <td>4</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/TEEN%2B%2BWOLF/">TEEN  WOLF</a>
+    	    </td>
+    <td></td>
+    <td>18187</td>
+    <td>262:36:33</td>
+</tr>
+<tr class="odd">
+    <td>5</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/Jihadista%2B%253A%255B%255D/">Jihadista :[]</a>
+    	<a class="highlighted-label tooltip" title="<img class='smallAvatar' src='/avatar/161856/small/' />User: Jihadista :[] <br /><img class='smallFlag' src='http://static.gametracker.rs/flags/BG.png' /> " href="/user_info/161856/jihadista/">profile</a>    </td>
+    <td></td>
+    <td>15914</td>
+    <td>272:01:35</td>
+</tr>
+<tr class="odd">
+    <td>6</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/Nojarq/">Nojarq</a>
+    	    </td>
+    <td></td>
+    <td>15767</td>
+    <td>372:53:21</td>
+</tr>
+<tr class="odd">
+    <td>7</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/LINUX/">LINUX</a>
+    	    </td>
+    <td></td>
+    <td>15618</td>
+    <td>228:30:33</td>
+</tr>
+<tr class="odd">
+    <td>8</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/Maverick/">Maverick</a>
+    	<a class="highlighted-label tooltip" title="<img class='smallAvatar' src='/avatar/137956/small/' />User: feruchio <br /><img class='smallFlag' src='http://static.gametracker.rs/flags/BG.png' /> " href="/user_info/137956/feruchio/">profile</a>    </td>
+    <td></td>
+    <td>14485</td>
+    <td>677:13:55</td>
+</tr>
+<tr class="odd">
+    <td>9</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/%252AMr.Fantastic%252A/">*Mr.Fantastic*</a>
+    	    </td>
+    <td></td>
+    <td>14010</td>
+    <td>383:39:27</td>
+</tr>
+<tr class="odd">
+    <td>10</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/%252AMr.Bombastic%252A/">*Mr.Bombastic*</a>
+    	    </td>
+    <td></td>
+    <td>13414</td>
+    <td>517:56:48</td>
+</tr>
+<tr class="odd">
+    <td>11</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/4_-_four_-_4/">4_-_four_-_4</a>
+    	    </td>
+    <td></td>
+    <td>12410</td>
+    <td>303:22:56</td>
+</tr>
+<tr class="odd">
+    <td>12</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/LCS%2Bl%252AMegative%252A/">LCS l*Megative*</a>
+    	    </td>
+    <td></td>
+    <td>12201</td>
+    <td>177:54:13</td>
+</tr>
+<tr class="odd">
+    <td>13</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/ArtiseXplosion/">ArtiseXplosion</a>
+    	    </td>
+    <td></td>
+    <td>11412</td>
+    <td>201:59:59</td>
+</tr>
+<tr class="odd">
+    <td>14</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/Saad/">Saad</a>
+    	    </td>
+    <td></td>
+    <td>11317</td>
+    <td>606:22:51</td>
+</tr>
+<tr class="odd">
+    <td>15</td>
+    <td class="name">
+    	<a href="/player/93.123.18.81:27017/jesse_pinkman/">jesse_pinkman</a>
+    	    </td>
+    <td></td>
+    <td>11037</td>
+    <td>319:43:12</td>
+</tr>
+                </tbody>
+            </table>
+
+            <br />
+            <ul class="server-controls">
+                <li>
+                    <a class="btn" href="/server_players/93.123.18.81:27017/">
+                        All players on this server                    </a>
+                </li>
+            </ul>
+        </div>
+    </div> <!-- kraj player-list div-a -->
+</div> <!-- kraj game-content div-a -->
+    </div>  <!-- kraj main div-a -->
+
+    <div id="sidebar">
+    <div id="languageBoxContainer" class="fb-box panel">
+    <h2>Language</h2>
+    <div id="languageBox" data-sitepath="">
+
+                <li class="current" data-lang="gb">
+            <a href="#">
+                <img src="http://static.gametracker.rs/images/flags/GB.png" alt="" width="16" height="11" />
+                English            </a>
+        </li>
+                <li class="" data-lang="rs">
+            <a href="#">
+                <img src="http://static.gametracker.rs/images/flags/RS.png" alt="" width="16" height="11" />
+                Serbian            </a>
+        </li>
+                <li class="" data-lang="ro">
+            <a href="#">
+                <img src="http://static.gametracker.rs/images/flags/RO.png" alt="" width="16" height="11" />
+                Romanian            </a>
+        </li>
+                <li class="" data-lang="de">
+            <a href="#">
+                <img src="http://static.gametracker.rs/images/flags/DE.png" alt="" width="16" height="11" />
+                German            </a>
+        </li>
+                <li class="" data-lang="it">
+            <a href="#">
+                <img src="http://static.gametracker.rs/images/flags/IT.png" alt="" width="16" height="11" />
+                Italian            </a>
+        </li>
+                <li class="" data-lang="bg">
+            <a href="#">
+                <img src="http://static.gametracker.rs/images/flags/BG.png" alt="" width="16" height="11" />
+                Bulgarian            </a>
+        </li>
+        
+    </div>
+</div>
+<div class="panel shoutbox offset4" id="shoutbox-container">
+    <h2>Shoutbox </h2>
+
+    
+    <dl id="shoutboxLoader" data-serverid="198892" data-url="">
+        <!-- views/server_info/shoutbox_messages -->
+        <dt>Loading shoutbox ...</dt>
+    </dl>
+
+    
+    </div><div class="user-panel panel">
+    <h2>Member login</h2>
+    <form action="/process/login/" method="post">
+        <div class="text_field">
+            <label for="login_username">Username</label>
+            <input class="txt" id="login_username" name="username" size="30" type="text" tabindex="1" />
+        </div>
+        <div class="text_field">
+            <label for="login_password">Password</label>
+            <input class="txt" id="login_password" name="password" size="30" type="password" tabindex="2" />
+        </div>
+        <div class="submit_field">
+            <button id="login_submit" name="login" type="submit" tabindex="4">Login</button>
+        </div>
+        <div class="check_field">
+            <input id="login_remember_me" name="remember" type="checkbox" value="1" checked="checked" tabindex="3" />
+            <label for="login_remember_me">Remember me</label>
+        </div>
+    </form>
+    <ul>
+        <li>
+            <a href="/profile/registration/" tabindex="5">Registration</a>
+        </li>
+        <li>
+            <a href="/profile/forgot_password/" tabindex="6">Forgot your password?</a>
+        </li>
+    </ul>
+</div>
+
+        <div class="panel game-stats">
+        <h2>Stats</h2>
+        <div class="favorites">
+            <img src="http://chart.apis.google.com/chart?chco=d42e00,82af00,ffc600,e25a00&chd=t:9,5,4,4,4,74&chdl=awesome_cars2 (9%)|awp_snowfun2 (5%)|air_fight2 (4%)|big_city2 (4%)|car_fight (4%)|Ostale mape (74%)&chdlp=bv&chs=300x200&chf=bg,s,000000&cht=p3" />        </div>
+        <div class="stats">
+            <div class="players" id="player-stats">
+    <h3>Number of players</h3>
+    <ul class="players-tabs">
+        <li><a href="#player-tabs-day">Daily</a></li>
+        <li><a href="#player-tabs-week">Weekly</a></li>
+        <li><a href="#player-tabs-month">Monthly</a></li>
+    </ul>
+    <div class="players-content">
+        <div id="player-tabs-day">
+            <img alt="player_graph" width="258" height="168" src="http://banners.gametracker.rs/93.123.18.81:27017/graph-day/graph-day.jpg" />
+        </div>
+        <div id="player-tabs-week">
+            <img alt="player_graph_week" width="258" height="168" src="http://banners.gametracker.rs/93.123.18.81:27017/graph-week/graph-week.jpg" />
+        </div>
+        <div id="player-tabs-month">
+            <img alt="player_graph_month" width="258" height="168" src="http://banners.gametracker.rs/93.123.18.81:27017/graph-month/graph-month.jpg" />
+        </div>
+    </div>
+</div>
+<div class="rank">
+    <h3>Rank this month</h3>
+    <img alt="rank_graph" width="258" height="168" src="http://banners.gametracker.rs/93.123.18.81:27017/graph-rank/graph-rank.jpg" />
+</div>        </div>
+    </div>
+    
+    <div id="affilates">
+    <a target="_blank" rel="nofollow" href="http://www.oriontelekom.rs"><img src="http://static.gametracker.rs/images/affilates.png" /></a>
+    <!-- <ul class="clearfix">
+        <li class="telekom"><a href="http://www.mts.telekom.rs/index.php/naslovnastandard.html">telekom srbija</a></li>
+        <li class="eunet"><a href="http://www.eunet.rs/personalni-servisi">eunet</a></li>
+        <li class="verat"><a href="http://www.verat.net/sr/privatni-korisnici">telekom srbija</a></li>
+        <li class="kgb-hosting"><a href="http://www.kgb-hq.com/">eunet</a></li>
+    </ul> -->
+</div></div></div><div id="gt-perks">
+    <div>
+        <h2>Most popular</h2>
+<ul>
+            <li>
+            <small>1</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RS.png'>
+            </span>
+            <h3>
+                <a href="/server_info/87.98.241.203:27123/">
+                    CLARION - MosT WanteD [CSDM UniQueM&hellip;                </a>
+            </h3>
+        </li>
+            <li>
+            <small>2</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RS.png'>
+            </span>
+            <h3>
+                <a href="/server_info/54.38.154.35:27022/">
+                    Casino Royale Public                </a>
+            </h3>
+        </li>
+            <li>
+            <small>3</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/PL.png'>
+            </span>
+            <h3>
+                <a href="/server_info/193.33.177.54:27176/">
+                    [ONLY DD2 #2] 1shot2kill.pl [DARMOW&hellip;                </a>
+            </h3>
+        </li>
+            <li>
+            <small>4</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RS.png'>
+            </span>
+            <h3>
+                <a href="/server_info/193.104.68.100:27015/">
+                    .::MoNsTeR_EnErGy®|SjeNicA™::.                </a>
+            </h3>
+        </li>
+            <li>
+            <small>5</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RO.png'>
+            </span>
+            <h3>
+                <a href="/server_info/89.44.246.23:27015/">
+                    TM.ZeroHP.Ro                </a>
+            </h3>
+        </li>
+            <li>
+            <small>6</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RS.png'>
+            </span>
+            <h3>
+                <a href="/server_info/193.104.68.49:27040/">
+                    Global Gaming Nis                </a>
+            </h3>
+        </li>
+            <li>
+            <small>7</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/BR.png'>
+            </span>
+            <h3>
+                <a href="/server_info/177.54.152.55:27040/">
+                    [DH][SOD] #1 Segura O Dente #4FUN @&hellip;                </a>
+            </h3>
+        </li>
+            <li>
+            <small>8</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/US.png'>
+            </span>
+            <h3>
+                <a href="/server_info/193.192.58.116:27033/">
+                    .::cVs::. .::Chivas De_Dust2 Only::&hellip;                </a>
+            </h3>
+        </li>
+            <li>
+            <small>9</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RO.png'>
+            </span>
+            <h3>
+                <a href="/server_info/93.119.24.107:27015/">
+                    ACL.INDUNGI.RO #ARENA CYBER LEAGUE                </a>
+            </h3>
+        </li>
+            <li>
+            <small>10</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/UA.png'>
+            </span>
+            <h3>
+                <a href="/server_info/91.211.116.28:27015/">
+                    OLD SCHOOL CS                </a>
+            </h3>
+        </li>
+    </ul>
+    </div>
+    <div>
+        <h2>Most popular BALKAN</h2>
+<ul>
+            <li>
+            <small>1</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RS.png'>
+            </span>
+            <h3>
+                <a href="/server_info/87.98.241.203:27123/">
+                    CLARION - MosT WanteD [CSDM UniQueM&hellip;                </a>
+            </h3>
+        </li>
+            <li>
+            <small>2</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RS.png'>
+            </span>
+            <h3>
+                <a href="/server_info/54.38.154.35:27022/">
+                    Casino Royale Public                </a>
+            </h3>
+        </li>
+            <li>
+            <small>3</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RS.png'>
+            </span>
+            <h3>
+                <a href="/server_info/193.104.68.100:27015/">
+                    .::MoNsTeR_EnErGy®|SjeNicA™::.                </a>
+            </h3>
+        </li>
+            <li>
+            <small>4</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RS.png'>
+            </span>
+            <h3>
+                <a href="/server_info/193.104.68.49:27040/">
+                    Global Gaming Nis                </a>
+            </h3>
+        </li>
+            <li>
+            <small>5</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RS.png'>
+            </span>
+            <h3>
+                <a href="/server_info/87.98.241.203:27375/">
+                    .::KaLaSnjiKoV | DD2 OnLy::.                </a>
+            </h3>
+        </li>
+            <li>
+            <small>6</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RS.png'>
+            </span>
+            <h3>
+                <a href="/server_info/193.104.68.18:27015/">
+                    RespecT GaminG 2 ® | Public 24/7                </a>
+            </h3>
+        </li>
+            <li>
+            <small>7</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/BG.png'>
+            </span>
+            <h3>
+                <a href="/server_info/93.123.18.5:27016/">
+                    Bulgarska Trewa                </a>
+            </h3>
+        </li>
+            <li>
+            <small>8</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/BA.png'>
+            </span>
+            <h3>
+                <a href="/server_info/164.132.204.183:27016/">
+                    ProGaming.ba Zombie Escape Scenario                </a>
+            </h3>
+        </li>
+            <li>
+            <small>9</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RS.png'>
+            </span>
+            <h3>
+                <a href="/server_info/178.33.179.246:27017/">
+                    -=Chivas DeathMatch | De_Dust2 Only&hellip;                </a>
+            </h3>
+        </li>
+            <li>
+            <small>10</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RS.png'>
+            </span>
+            <h3>
+                <a href="/server_info/94.23.215.135:27024/">
+                    Alternative Zombie®[Free|͇̿V͇̿&hellip;                </a>
+            </h3>
+        </li>
+    </ul>
+    </div>
+    <div>
+        <h2>Just added</h2>
+<ul>
+            <li>
+            <small>1</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/_OTHER.png'>
+            </span>
+            <h3>
+                <a href="/server_info/103.245.195.22:27015/">
+                    ApnaSarbaaz Official | AutoMix Serv&hellip;                </a>
+            </h3>
+        </li>
+            <li>
+            <small>2</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/US.png'>
+            </span>
+            <h3>
+                <a href="/server_info/54.37.186.86:27025/">
+                    RGC Community | AFK ©                </a>
+            </h3>
+        </li>
+            <li>
+            <small>3</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RO.png'>
+            </span>
+            <h3>
+                <a href="/server_info/46.102.116.172:27015/">
+                    [PUBLIC] CS.PGL1.RO                </a>
+            </h3>
+        </li>
+            <li>
+            <small>4</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RO.png'>
+            </span>
+            <h3>
+                <a href="/server_info/93.119.25.38:27015/">
+                    CS.CSFREE.RO  [CLassic Server]                </a>
+            </h3>
+        </li>
+            <li>
+            <small>5</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RO.png'>
+            </span>
+            <h3>
+                <a href="/server_info/89.44.246.176:27015/">
+                    Default                </a>
+            </h3>
+        </li>
+            <li>
+            <small>6</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RS.png'>
+            </span>
+            <h3>
+                <a href="/server_info/54.38.154.34:27021/">
+                    Virtual Public 24/7                </a>
+            </h3>
+        </li>
+            <li>
+            <small>7</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/US.png'>
+            </span>
+            <h3>
+                <a href="/server_info/45.34.7.37:27015/">
+                    .::OldTimes::.[MD]Zombie-Infection                </a>
+            </h3>
+        </li>
+            <li>
+            <small>8</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/BG.png'>
+            </span>
+            <h3>
+                <a href="/server_info/94.155.232.99:27015/">
+                    Alfa-PublicBG.COM :: Knife Arena                </a>
+            </h3>
+        </li>
+            <li>
+            <small>9</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/US.png'>
+            </span>
+            <h3>
+                <a href="/server_info/162.252.57.171:27015/">
+                    INDEgames.xyz | Zombie Escape v2.5 &hellip;                </a>
+            </h3>
+        </li>
+            <li>
+            <small>10</small>
+            <span>
+                <img alt='game-cs' src='http://static.gametracker.rs/images/game-cs.png'>
+                <img width='20' height='15' src='http://static.gametracker.rs/flags/RS.png'>
+            </span>
+            <h3>
+                <a href="/server_info/151.80.47.10:33333/">
+                    MILF 2 CW [PREMIUM AMXX]                </a>
+            </h3>
+        </li>
+    </ul>
+    </div>
+</div>
+<div id="footer" data-time="1520330056">
+    <h2><a href="/">GameTracker.rs - Gaming, Counter Strike, Call of Duty....</a></h2>
+    <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/servers/games/">Games</a></li>
+        <li><a href="/servers/">Servers</a></li>
+        <li><a href="/communities/">Communities</a></li>
+        <li><a href="http://forum.kgb-hosting.com">Forum </a></li>
+
+    </ul>
+    <h3>
+        <!--
+        Copyright GameTracker.rs - Game Server Stats, Online server list, Multiplayer server rank, FPS server banners        <br />
+        -->
+        Queries: 1,
+        Generate time: 0.036 sec,
+                memcached status: Active
+    </h3>
+</div>
+
+<script src="http://static.gametracker.rs/min/index.php?g=js&amp;" type="text/javascript"></script>
+
+
+<!--
+    <script src="http://static.gametracker.rs/javascript/vendor/jquery.min.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/vendor/jquery-ui.min.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/vendor/underscore-min.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/vendor/underscore.string.min.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/sm2/script/soundmanager2-nodebug-jsmin.js?" type="text/javascript"></script>
+
+    <script src="http://static.gametracker.rs/javascript/vendor/jquery.blockui.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/vendor/jquery.tipsy.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/vendor/jquery.simplyscroll.min.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/vendor/jquery.form.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/vendor/jquery.tmpl.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/vendor/jquery.cookie.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/vendor/jquery.autoresize.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/widgets/gtchat.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/widgets/language-changer.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/vendor/select2.min.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/vendor/jquery-blink.js?" type="text/javascript"></script>
+
+    <script src="http://static.gametracker.rs/js/jquery.corner.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/js/jquery.dropshadow.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/js/custom.js?" type="text/javascript"></script>
+
+
+    <script src="http://static.gametracker.rs/javascript/app/utils.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/app/common.js?" type="text/javascript"></script>
+
+    <script src="http://static.gametracker.rs/javascript/app/home.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/app/games.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/app/servers.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/app/server_info.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/app/add_server.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/app/profile_edit.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/app/user_info.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/app/notifications.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/app/player.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/app/ticket.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/app/server_banners.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/app/community.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/app/sms_boost.js?" type="text/javascript"></script>
+    <script src="http://static.gametracker.rs/javascript/app/map_upload.js?" type="text/javascript"></script>
+-->
+
+    <!-- developer mode
+    <script src="http://static.gametracker.rs/javascript/app/developer.js?" type="text/javascript"></script>
+    -->
+
+    <!-- Forms validation -->
+    <script src="http://static.gametracker.rs/javascript/vendor/forms.turshija.js?" type="text/javascript"></script>
+
+    <!-- Google Analytics -->
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-16029482-1']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            // ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    <!-- Hotjar Tracking Code for http://www.gametracker.rs -->
+    <script>
+    (function(h,o,t,j,a,r){
+      h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+      h._hjSettings={hjid:313672,hjsv:5};
+      a=o.getElementsByTagName('head')[0];
+      r=o.createElement('script');r.async=1;
+      r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+      a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+    
+    <!-- jsecoin -->
+    <script type="text/javascript">
+        (function() {
+        var trackingurl = 'https://load.jsecoin.com/server/load/8375/gametracker.rs/0/0/';
+        var d=document, j=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        j.type='text/javascript'; j.async=true; j.defer=true; j.src=trackingurl; s.parentNode.insertBefore(j,s);
+        })();
+    </script>
+
+</div>
+
+<ul id="language" data-sitepath="">
+	
+		<li class="current" data-lang="gb">
+		<a href="#">
+			<img src="http://static.gametracker.rs/images/flags/GB.png" alt="" width="16" height="11" />
+			English		</a>
+	</li>
+		<li class="" data-lang="rs">
+		<a href="#">
+			<img src="http://static.gametracker.rs/images/flags/RS.png" alt="" width="16" height="11" />
+			Serbian		</a>
+	</li>
+		<li class="" data-lang="ro">
+		<a href="#">
+			<img src="http://static.gametracker.rs/images/flags/RO.png" alt="" width="16" height="11" />
+			Romanian		</a>
+	</li>
+		<li class="" data-lang="de">
+		<a href="#">
+			<img src="http://static.gametracker.rs/images/flags/DE.png" alt="" width="16" height="11" />
+			German		</a>
+	</li>
+		<li class="" data-lang="it">
+		<a href="#">
+			<img src="http://static.gametracker.rs/images/flags/IT.png" alt="" width="16" height="11" />
+			Italian		</a>
+	</li>
+		<li class="" data-lang="bg">
+		<a href="#">
+			<img src="http://static.gametracker.rs/images/flags/BG.png" alt="" width="16" height="11" />
+			Bulgarian		</a>
+	</li>
+	
+</ul>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d5f9806a44","applicationID":"13185551","transactionName":"Y1ADZhZQDUMHV0ZcDloaNEANHgpeAlFKGxFcRQ==","queueTime":0,"applicationTime":38,"atts":"TxcAEF5KHk0=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

@@ -1,0 +1,55 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        (function () {
+            let ads = [
+                {
+                    websiteLink: 'http://awesomecs.syntrwave.com/',
+                    websiteBaner: 'https://i.imgur.com/cmAbnZ2.gif',
+                    altText: 'Awesome Cars + Fun Map | AwesomeCS.tk'
+                },
+                {
+                    websiteLink: 'http://amxx-bg.info/',
+                    websiteBaner: 'http://i.imgur.com/xNPAxRj.png',
+                    altText: 'Amxx-bg.info New Generation in Pawn Programing'
+                },
+                {
+                    websiteLink: 'http://gameservers.bg/',
+                    websiteBaner: 'https://i.imgur.com/4ZdkzW4.png',
+                    altText: 'Gameservers.bg - Ultimate Game Servers'
+                },
+                {
+                    websiteLink: 'http://www.slackserv.com/',
+                    websiteBaner: 'http://www.slackserv.com/img/banners/banner27.gif',
+                    altText: 'Най-добрите Linux Counter-Strike Сървъри!'
+                },
+            ]
+            let randomNumber = Math.floor(Math.random() * ((ads.length - 1) - 0 + 1)) + 0
+            let randomNumber2 = Math.floor(Math.random() * ((ads.length - 1) - 0 + 1)) + 0
+            console.log(randomNumber)
+            console.log(randomNumber2)
+
+            while (randomNumber == randomNumber2) {
+                randomNumber2 = Math.floor(Math.random() * ((ads.length - 1) - 0 + 1)) + 0
+            }
+
+            //$('.panel headerads div').append($('<a>').attr('href', ads[randomNumber].websiteLink).append($('<img>').attr('src', ads[randomNumber].websiteBaner).attr('alt', ads[randomNumber].altText)))
+            //$('.panel headerads div').append($('<a>').attr('href', ads[randomNumber2].websiteLink).append($('<img>').attr('src', ads[randomNumber2].websiteBaner).attr('alt', ads[randomNumber2].altText)))
+
+            //return `<a href="${ads[randomNumber].websiteLink}"><img src="${ads[randomNumber].websiteBaner}" alt="${ads[randomNumber].altText}"></a>`
+            $('body').append($('<a>').attr('href', ads[randomNumber].websiteLink).append($('<img>').attr('src', ads[randomNumber].websiteBaner).attr('alt', ads[randomNumber].altText).attr('width', '100%').css('padding-right', '10px')))
+            $('body').append($('<a>').attr('href', ads[randomNumber2].websiteLink).append($('<img>').attr('src', ads[randomNumber2].websiteBaner).attr('alt', ads[randomNumber2].altText).attr('width', '100%')))
+        })()
+    </script>
+</body>
+
+</html>

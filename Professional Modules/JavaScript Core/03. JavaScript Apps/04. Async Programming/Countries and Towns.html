@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Countries</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <style>
+        #results {
+            background-color: #FFFFFF;
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+        }
+
+        #results tr {
+            background-color: #AAAAAA;
+            padding: 5vh;
+            font-size: 1.5vw;
+        }
+
+        #results tr:nth-child(odd) {
+            background-color: #808080;
+        }
+
+        #results tr:first-child {
+            background-color: #111111;
+            color: rgb(81, 255, 0);
+            font-weight: bold;
+            font-size: 2vw;
+        }
+
+        #results tr th {
+            padding: 1vw;
+        }
+
+        #results tr td {
+            padding: 1vw;
+            transition: font-size 0.2s;
+        }
+
+        #results tr:not(:first-child):hover {
+            background-color: #F0F8FF;
+            color: #000000;
+            font-size: 2.25vw;
+        }
+    </style>
+
+</head>
+
+<body>
+    <button id="btnCountriesList">List Countries</button>
+    <button id="btnCountriesEdit">Edit Countries</button>
+    <button id="btnTownList">List Towns by Country</button>
+    <button id="btnCrud">CRUD Towns</button>
+
+    <div id="countries" style="display:none">
+        <table id="results">
+            <tr>
+                <th>Country</th>
+            </tr>
+        </table>
+    </div>
+    <script src="countries.js"></script>
+    <script>attachEvents()</script>
+</body>
+
+</html>

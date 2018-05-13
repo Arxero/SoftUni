@@ -1,0 +1,10 @@
+https://fervent-torvalds-f0ec7c.netlify.com/
+SeemIt SPA Exam from 20 August 2017
+
+So I know this is not the homework we had, but I genuinely did not saw a point to do the homework
+with handlebars and JS Patterns since I am not even that good with pure JQuery. And this time I think
+it came out as a better version since I devided it into 3 files just like Nikola did in Book Library.
+
+Sincerely,
+Maverick (Arxero)
+You can find me any time at our little Community > http://awesomecs.syntrwave.com/

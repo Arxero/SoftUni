@@ -1,0 +1,1 @@
+function multiplier(a, b){console.log(a * b);}
