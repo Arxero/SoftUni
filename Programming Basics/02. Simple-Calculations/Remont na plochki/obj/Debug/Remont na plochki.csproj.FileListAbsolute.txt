@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Remont na plochki\bin\Debug\Remont na plochki.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Remont na plochki\bin\Debug\Remont na plochki.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Remont na plochki\bin\Debug\Remont na plochki.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Remont na plochki\obj\Debug\Remont na plochki.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Remont na plochki\obj\Debug\Remont na plochki.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Remont na plochki\obj\Debug\Remont na plochki.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\05. Invalid Number\bin\Debug\_05.Invalid_Number.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\05. Invalid Number\bin\Debug\_05.Invalid_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\05. Invalid Number\bin\Debug\_05.Invalid_Number.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\05. Invalid Number\obj\Debug\_05.Invalid_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\05. Invalid Number\obj\Debug\_05.Invalid_Number.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\05. Invalid Number\obj\Debug\05. Invalid Number.csprojResolveAssemblyReference.cache

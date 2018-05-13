@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\12. Speed Info\bin\Debug\_12.Speed_Info.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\12. Speed Info\bin\Debug\_12.Speed_Info.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\12. Speed Info\bin\Debug\_12.Speed_Info.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\12. Speed Info\obj\Debug\_12.Speed_Info.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\12. Speed Info\obj\Debug\_12.Speed_Info.pdb

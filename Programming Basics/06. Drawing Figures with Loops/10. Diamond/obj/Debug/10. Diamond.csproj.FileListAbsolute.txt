@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\10. Diamond\bin\Debug\_10.Diamond.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\10. Diamond\bin\Debug\_10.Diamond.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\10. Diamond\bin\Debug\_10.Diamond.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\10. Diamond\obj\Debug\_10.Diamond.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\10. Diamond\obj\Debug\_10.Diamond.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\10. Diamond\obj\Debug\10. Diamond.csprojResolveAssemblyReference.cache

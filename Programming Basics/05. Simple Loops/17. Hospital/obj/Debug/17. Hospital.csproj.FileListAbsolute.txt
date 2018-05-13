@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\17. Hospital\bin\Debug\_17.Hospital.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\17. Hospital\bin\Debug\_17.Hospital.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\17. Hospital\bin\Debug\_17.Hospital.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\17. Hospital\obj\Debug\17. Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\17. Hospital\obj\Debug\_17.Hospital.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\17. Hospital\obj\Debug\_17.Hospital.pdb

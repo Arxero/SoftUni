@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\25. Parichna Nagrada\bin\Debug\_25.Parichna_Nagrada.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\25. Parichna Nagrada\bin\Debug\_25.Parichna_Nagrada.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\25. Parichna Nagrada\bin\Debug\_25.Parichna_Nagrada.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\25. Parichna Nagrada\obj\Debug\_25.Parichna_Nagrada.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\25. Parichna Nagrada\obj\Debug\_25.Parichna_Nagrada.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\19. SoftUni Logo\bin\Debug\_19.SoftUni_Logo.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\19. SoftUni Logo\bin\Debug\_19.SoftUni_Logo.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\19. SoftUni Logo\bin\Debug\_19.SoftUni_Logo.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\19. SoftUni Logo\obj\Debug\_19.SoftUni_Logo.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\19. SoftUni Logo\obj\Debug\_19.SoftUni_Logo.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\19. SoftUni Logo\obj\Debug\19. SoftUni Logo.csprojResolveAssemblyReference.cache

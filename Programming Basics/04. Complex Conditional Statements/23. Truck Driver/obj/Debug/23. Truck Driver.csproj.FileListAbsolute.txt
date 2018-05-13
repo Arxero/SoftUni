@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\23. Truck Driver\bin\Debug\_23.Truck_Driver.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\23. Truck Driver\bin\Debug\_23.Truck_Driver.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\23. Truck Driver\bin\Debug\_23.Truck_Driver.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\23. Truck Driver\obj\Debug\23. Truck Driver.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\23. Truck Driver\obj\Debug\_23.Truck_Driver.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\23. Truck Driver\obj\Debug\_23.Truck_Driver.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\15. Journey\bin\Debug\_15.Journey.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\15. Journey\bin\Debug\_15.Journey.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\15. Journey\bin\Debug\_15.Journey.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\15. Journey\obj\Debug\15. Journey.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\15. Journey\obj\Debug\_15.Journey.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\15. Journey\obj\Debug\_15.Journey.pdb

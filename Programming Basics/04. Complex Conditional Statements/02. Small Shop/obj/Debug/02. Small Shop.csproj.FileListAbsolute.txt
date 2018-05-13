@@ -1,0 +1,11 @@
+c:\users\maverick\documents\visual studio 2017\Projects\02. Small Shop\bin\Debug\_02.Small_Shop.exe.config
+c:\users\maverick\documents\visual studio 2017\Projects\02. Small Shop\bin\Debug\_02.Small_Shop.exe
+c:\users\maverick\documents\visual studio 2017\Projects\02. Small Shop\bin\Debug\_02.Small_Shop.pdb
+c:\users\maverick\documents\visual studio 2017\Projects\02. Small Shop\obj\Debug\_02.Small_Shop.exe
+c:\users\maverick\documents\visual studio 2017\Projects\02. Small Shop\obj\Debug\_02.Small_Shop.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\02. Small Shop\bin\Debug\_02.Small_Shop.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\02. Small Shop\bin\Debug\_02.Small_Shop.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\02. Small Shop\bin\Debug\_02.Small_Shop.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\02. Small Shop\obj\Debug\02. Small Shop.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\02. Small Shop\obj\Debug\_02.Small_Shop.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\02. Small Shop\obj\Debug\_02.Small_Shop.pdb

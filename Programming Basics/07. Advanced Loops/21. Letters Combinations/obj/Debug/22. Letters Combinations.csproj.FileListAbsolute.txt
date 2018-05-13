@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\21. Letters Combinations\bin\Debug\_21.Letters_Combinations.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\21. Letters Combinations\bin\Debug\_21.Letters_Combinations.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\21. Letters Combinations\bin\Debug\_21.Letters_Combinations.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\21. Letters Combinations\obj\Debug\_21.Letters_Combinations.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\21. Letters Combinations\obj\Debug\_21.Letters_Combinations.pdb

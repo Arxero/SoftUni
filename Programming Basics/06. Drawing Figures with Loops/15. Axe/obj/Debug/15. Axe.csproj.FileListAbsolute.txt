@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\15. Axe\bin\Debug\_15.Axe.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\15. Axe\bin\Debug\_15.Axe.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\15. Axe\bin\Debug\_15.Axe.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\15. Axe\obj\Debug\15. Axe.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\15. Axe\obj\Debug\_15.Axe.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\15. Axe\obj\Debug\_15.Axe.pdb

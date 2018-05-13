@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\Match Tickets\bin\Debug\Match Tickets.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\Match Tickets\bin\Debug\Match Tickets.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\Match Tickets\bin\Debug\Match Tickets.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\Match Tickets\obj\Debug\Match Tickets.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\Match Tickets\obj\Debug\Match Tickets.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\Match Tickets\obj\Debug\17. Match Tickets.csprojResolveAssemblyReference.cache

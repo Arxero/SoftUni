@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\18. Hotel Room\bin\Debug\_18.Hotel_Room.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\18. Hotel Room\bin\Debug\_18.Hotel_Room.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\18. Hotel Room\bin\Debug\_18.Hotel_Room.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\18. Hotel Room\obj\Debug\18. Hotel Room.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\18. Hotel Room\obj\Debug\_18.Hotel_Room.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\18. Hotel Room\obj\Debug\_18.Hotel_Room.pdb

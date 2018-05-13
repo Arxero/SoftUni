@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\12. Peperuda\bin\Debug\_12.Peperuda.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\12. Peperuda\bin\Debug\_12.Peperuda.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\12. Peperuda\bin\Debug\_12.Peperuda.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\12. Peperuda\obj\Debug\12. Peperuda.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\12. Peperuda\obj\Debug\_12.Peperuda.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\12. Peperuda\obj\Debug\_12.Peperuda.pdb

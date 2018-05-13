@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\12.1 Currency Converter\bin\Debug\12.1 Currency Converter.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\12.1 Currency Converter\bin\Debug\12.1 Currency Converter.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\12.1 Currency Converter\bin\Debug\12.1 Currency Converter.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\12.1 Currency Converter\obj\Debug\12.1 Currency Converter.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\12.1 Currency Converter\obj\Debug\12.1 Currency Converter.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\12.1 Currency Converter\obj\Debug\12.1 Currency Converter.csprojResolveAssemblyReference.cache

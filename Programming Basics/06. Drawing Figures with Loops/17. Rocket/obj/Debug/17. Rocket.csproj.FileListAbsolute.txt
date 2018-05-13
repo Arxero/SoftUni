@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\17. Rocket\bin\Debug\_17.Rocket.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\17. Rocket\bin\Debug\_17.Rocket.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\17. Rocket\bin\Debug\_17.Rocket.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\17. Rocket\obj\Debug\17. Rocket.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\17. Rocket\obj\Debug\_17.Rocket.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\17. Rocket\obj\Debug\_17.Rocket.pdb

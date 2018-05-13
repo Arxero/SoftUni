@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\17. Special Numbers\bin\Debug\_17.Special_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\17. Special Numbers\bin\Debug\_17.Special_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\17. Special Numbers\bin\Debug\_17.Special_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\17. Special Numbers\obj\Debug\_17.Special_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\17. Special Numbers\obj\Debug\_17.Special_Numbers.pdb

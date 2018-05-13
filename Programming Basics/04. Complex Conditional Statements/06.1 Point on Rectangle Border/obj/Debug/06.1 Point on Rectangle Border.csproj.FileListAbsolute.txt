@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\06.1 Point on Rectangle Border\bin\Debug\06.1 Point on Rectangle Border.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\06.1 Point on Rectangle Border\bin\Debug\06.1 Point on Rectangle Border.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\06.1 Point on Rectangle Border\bin\Debug\06.1 Point on Rectangle Border.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\06.1 Point on Rectangle Border\obj\Debug\06.1 Point on Rectangle Border.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\06.1 Point on Rectangle Border\obj\Debug\06.1 Point on Rectangle Border.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\06.1 Point on Rectangle Border\obj\Debug\06.1 Point on Rectangle Border.pdb

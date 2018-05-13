@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Dnevna Pechalba\bin\Debug\Dnevna Pechalba.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Dnevna Pechalba\bin\Debug\Dnevna Pechalba.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Dnevna Pechalba\bin\Debug\Dnevna Pechalba.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Dnevna Pechalba\obj\Debug\Dnevna Pechalba.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Dnevna Pechalba\obj\Debug\Dnevna Pechalba.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Dnevna Pechalba\obj\Debug\Dnevna Pechalba.pdb

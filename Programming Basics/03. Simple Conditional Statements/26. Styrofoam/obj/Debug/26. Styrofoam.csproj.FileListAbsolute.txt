@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\26. Styrofoam\bin\Debug\_26.Styrofoam.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\26. Styrofoam\bin\Debug\_26.Styrofoam.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\26. Styrofoam\bin\Debug\_26.Styrofoam.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\26. Styrofoam\obj\Debug\_26.Styrofoam.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\26. Styrofoam\obj\Debug\_26.Styrofoam.pdb

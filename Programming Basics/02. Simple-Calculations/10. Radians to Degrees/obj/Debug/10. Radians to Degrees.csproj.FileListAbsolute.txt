@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\10. Radians to Degrees\bin\Debug\_10.Radians_to_Degrees.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\10. Radians to Degrees\bin\Debug\_10.Radians_to_Degrees.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\10. Radians to Degrees\bin\Debug\_10.Radians_to_Degrees.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\10. Radians to Degrees\obj\Debug\_10.Radians_to_Degrees.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\10. Radians to Degrees\obj\Debug\_10.Radians_to_Degrees.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\24. School Camp\bin\Debug\_24.School_Camp.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\24. School Camp\bin\Debug\_24.School_Camp.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\24. School Camp\bin\Debug\_24.School_Camp.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\24. School Camp\obj\Debug\24. School Camp.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\24. School Camp\obj\Debug\_24.School_Camp.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\24. School Camp\obj\Debug\_24.School_Camp.pdb

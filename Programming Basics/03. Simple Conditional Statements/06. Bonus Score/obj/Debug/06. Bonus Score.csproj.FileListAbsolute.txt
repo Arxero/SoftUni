@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\06. Bonus Score\bin\Debug\_06.Bonus_Score.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\06. Bonus Score\bin\Debug\_06.Bonus_Score.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\06. Bonus Score\bin\Debug\_06.Bonus_Score.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\06. Bonus Score\obj\Debug\_06.Bonus_Score.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\06. Bonus Score\obj\Debug\_06.Bonus_Score.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\06. Bonus Score\obj\Debug\06. Bonus Score.csprojResolveAssemblyReference.cache

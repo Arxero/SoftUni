@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\18. Stop Number\bin\Debug\_18.Stop_Number.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\18. Stop Number\bin\Debug\_18.Stop_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\18. Stop Number\bin\Debug\_18.Stop_Number.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\18. Stop Number\obj\Debug\_18.Stop_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\18. Stop Number\obj\Debug\_18.Stop_Number.pdb

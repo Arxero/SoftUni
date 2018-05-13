@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.pdb

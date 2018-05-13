@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\19. Transport Price\bin\Debug\_19.Transport_Price.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\19. Transport Price\bin\Debug\_19.Transport_Price.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\19. Transport Price\bin\Debug\_19.Transport_Price.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\19. Transport Price\obj\Debug\19. Transport Price.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\19. Transport Price\obj\Debug\_19.Transport_Price.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\19. Transport Price\obj\Debug\_19.Transport_Price.pdb

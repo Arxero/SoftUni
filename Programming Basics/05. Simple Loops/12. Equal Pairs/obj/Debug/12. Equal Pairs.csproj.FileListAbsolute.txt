@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\12. Equal Pairs\bin\Debug\_12.Equal_Pairs.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\12. Equal Pairs\obj\Debug\12. Equal Pairs.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\12. Equal Pairs\obj\Debug\_12.Equal_Pairs.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\12. Equal Pairs\obj\Debug\_12.Equal_Pairs.pdb

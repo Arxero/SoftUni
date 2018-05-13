@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\03. Square of Stars\bin\Debug\_03.Square_of_Stars.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\03. Square of Stars\bin\Debug\_03.Square_of_Stars.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\03. Square of Stars\bin\Debug\_03.Square_of_Stars.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\03. Square of Stars\obj\Debug\_03.Square_of_Stars.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\03. Square of Stars\obj\Debug\_03.Square_of_Stars.pdb

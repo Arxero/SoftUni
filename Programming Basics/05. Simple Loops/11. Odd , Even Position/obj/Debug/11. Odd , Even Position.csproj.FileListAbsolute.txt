@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\11. Odd , Even Position\bin\Debug\_11.Odd___Even_Position.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\11. Odd , Even Position\bin\Debug\_11.Odd___Even_Position.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\11. Odd , Even Position\bin\Debug\_11.Odd___Even_Position.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\11. Odd , Even Position\obj\Debug\11. Odd , Even Position.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\11. Odd , Even Position\obj\Debug\_11.Odd___Even_Position.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\11. Odd , Even Position\obj\Debug\_11.Odd___Even_Position.pdb

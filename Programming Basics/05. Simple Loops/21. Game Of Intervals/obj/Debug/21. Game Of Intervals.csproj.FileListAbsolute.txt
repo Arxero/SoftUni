@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\21. Game Of Intervals\bin\Debug\_21.Game_Of_Intervals.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\21. Game Of Intervals\bin\Debug\_21.Game_Of_Intervals.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\21. Game Of Intervals\bin\Debug\_21.Game_Of_Intervals.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\21. Game Of Intervals\obj\Debug\_21.Game_Of_Intervals.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\21. Game Of Intervals\obj\Debug\_21.Game_Of_Intervals.pdb

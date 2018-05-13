@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\24. Cup\bin\Debug\_24.Cup.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\24. Cup\bin\Debug\_24.Cup.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\24. Cup\bin\Debug\_24.Cup.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\24. Cup\obj\Debug\_24.Cup.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\24. Cup\obj\Debug\_24.Cup.pdb

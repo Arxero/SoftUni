@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\left an righ 2\bin\Debug\left an righ 2.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\left an righ 2\bin\Debug\left an righ 2.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\left an righ 2\bin\Debug\left an righ 2.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\left an righ 2\obj\Debug\left an righ 2.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\left an righ 2\obj\Debug\left an righ 2.pdb

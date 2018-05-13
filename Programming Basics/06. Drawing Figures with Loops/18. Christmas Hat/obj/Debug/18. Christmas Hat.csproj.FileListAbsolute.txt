@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\18. Christmas Hat\bin\Debug\_18.Christmas_Hat.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\18. Christmas Hat\bin\Debug\_18.Christmas_Hat.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\18. Christmas Hat\bin\Debug\_18.Christmas_Hat.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\18. Christmas Hat\obj\Debug\_18.Christmas_Hat.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\18. Christmas Hat\obj\Debug\_18.Christmas_Hat.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\09. House\bin\Debug\_09.House.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\09. House\bin\Debug\_09.House.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\09. House\bin\Debug\_09.House.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\09. House\obj\Debug\_09.House.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\09. House\obj\Debug\_09.House.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\09. House\obj\Debug\09. House.csprojResolveAssemblyReference.cache

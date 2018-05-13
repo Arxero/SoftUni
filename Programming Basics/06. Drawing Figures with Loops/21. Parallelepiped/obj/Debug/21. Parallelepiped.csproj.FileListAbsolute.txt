@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\21. Parallelepiped\bin\Debug\_21.Parallelepiped.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\21. Parallelepiped\bin\Debug\_21.Parallelepiped.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\21. Parallelepiped\bin\Debug\_21.Parallelepiped.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\21. Parallelepiped\obj\Debug\_21.Parallelepiped.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\21. Parallelepiped\obj\Debug\_21.Parallelepiped.pdb

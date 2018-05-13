@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\21. Max Combination\bin\Debug\_21.Max_Combination.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\21. Max Combination\bin\Debug\_21.Max_Combination.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\21. Max Combination\bin\Debug\_21.Max_Combination.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\21. Max Combination\obj\Debug\_21.Max_Combination.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\21. Max Combination\obj\Debug\_21.Max_Combination.pdb

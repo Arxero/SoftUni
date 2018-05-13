@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\13. Histogram\bin\Debug\_13.Histogram.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\13. Histogram\bin\Debug\_13.Histogram.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\13. Histogram\bin\Debug\_13.Histogram.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\13. Histogram\obj\Debug\13. Histogram.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\13. Histogram\obj\Debug\_13.Histogram.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\13. Histogram\obj\Debug\_13.Histogram.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\13. Area of Figures\bin\Debug\_13.Area_of_Figures.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\13. Area of Figures\bin\Debug\_13.Area_of_Figures.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\13. Area of Figures\bin\Debug\_13.Area_of_Figures.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\13. Area of Figures\obj\Debug\13. Area of Figures.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\13. Area of Figures\obj\Debug\_13.Area_of_Figures.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\13. Area of Figures\obj\Debug\_13.Area_of_Figures.pdb

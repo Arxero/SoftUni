@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\27. Toy Shop\bin\Debug\_27.Toy_Shop.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\27. Toy Shop\bin\Debug\_27.Toy_Shop.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\27. Toy Shop\bin\Debug\_27.Toy_Shop.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\27. Toy Shop\obj\Debug\_27.Toy_Shop.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\27. Toy Shop\obj\Debug\_27.Toy_Shop.pdb

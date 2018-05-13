@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\06. Circle Area and Perimeter\bin\Debug\_06.Circle_Area_and_Perimeter.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\06. Circle Area and Perimeter\bin\Debug\_06.Circle_Area_and_Perimeter.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\06. Circle Area and Perimeter\bin\Debug\_06.Circle_Area_and_Perimeter.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\06. Circle Area and Perimeter\obj\Debug\_06.Circle_Area_and_Perimeter.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\06. Circle Area and Perimeter\obj\Debug\_06.Circle_Area_and_Perimeter.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\23. Bills\bin\Debug\_23.Bills.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\23. Bills\bin\Debug\_23.Bills.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\23. Bills\bin\Debug\_23.Bills.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\23. Bills\obj\Debug\_23.Bills.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\23. Bills\obj\Debug\_23.Bills.pdb

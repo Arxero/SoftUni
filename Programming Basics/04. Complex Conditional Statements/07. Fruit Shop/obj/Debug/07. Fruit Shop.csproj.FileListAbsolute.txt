@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\07. Fruit Shop\obj\Debug\07. Fruit Shop.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\07. Fruit Shop\obj\Debug\_07.Fruit_Shop.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\07. Fruit Shop\obj\Debug\_07.Fruit_Shop.pdb

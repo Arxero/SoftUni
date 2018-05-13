@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\20. Grades\bin\Debug\_20.Grades.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\20. Grades\bin\Debug\_20.Grades.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\20. Grades\bin\Debug\_20.Grades.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\20. Grades\obj\Debug\20. Grades.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\20. Grades\obj\Debug\_20.Grades.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\20. Grades\obj\Debug\_20.Grades.pdb

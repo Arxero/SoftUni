@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\20. Firma\bin\Debug\_20.Firma.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\20. Firma\bin\Debug\_20.Firma.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\20. Firma\bin\Debug\_20.Firma.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\20. Firma\obj\Debug\20. Firma.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\20. Firma\obj\Debug\_20.Firma.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\20. Firma\obj\Debug\_20.Firma.pdb

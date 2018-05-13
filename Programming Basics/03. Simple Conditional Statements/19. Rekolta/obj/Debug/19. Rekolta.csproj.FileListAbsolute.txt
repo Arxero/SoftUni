@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\19. Rekolta\obj\Debug\19. Rekolta.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\19. Rekolta\bin\Debug\_19.Rekolta.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\19. Rekolta\bin\Debug\_19.Rekolta.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\19. Rekolta\bin\Debug\_19.Rekolta.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\19. Rekolta\obj\Debug\_19.Rekolta.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\19. Rekolta\obj\Debug\_19.Rekolta.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\25. Control Number\bin\Debug\_25.Control_Number.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\25. Control Number\bin\Debug\_25.Control_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\25. Control Number\bin\Debug\_25.Control_Number.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\25. Control Number\obj\Debug\_25.Control_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\25. Control Number\obj\Debug\_25.Control_Number.pdb

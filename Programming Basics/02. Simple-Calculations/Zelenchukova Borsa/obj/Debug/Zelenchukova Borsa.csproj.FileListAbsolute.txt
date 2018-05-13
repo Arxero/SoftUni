@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Zelenchukova Borsa\bin\Debug\Zelenchukova Borsa.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Zelenchukova Borsa\bin\Debug\Zelenchukova Borsa.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Zelenchukova Borsa\bin\Debug\Zelenchukova Borsa.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Zelenchukova Borsa\obj\Debug\Zelenchukova Borsa.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Zelenchukova Borsa\obj\Debug\Zelenchukova Borsa.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Zelenchukova Borsa\obj\Debug\Zelenchukova Borsa.pdb

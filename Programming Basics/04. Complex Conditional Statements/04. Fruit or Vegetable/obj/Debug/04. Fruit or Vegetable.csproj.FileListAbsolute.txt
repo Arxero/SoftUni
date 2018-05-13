@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\04. Fruit or Vegetable\obj\Debug\04. Fruit or Vegetable.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\04. Fruit or Vegetable\obj\Debug\_04.Fruit_or_Vegetable.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\04. Fruit or Vegetable\obj\Debug\_04.Fruit_or_Vegetable.pdb

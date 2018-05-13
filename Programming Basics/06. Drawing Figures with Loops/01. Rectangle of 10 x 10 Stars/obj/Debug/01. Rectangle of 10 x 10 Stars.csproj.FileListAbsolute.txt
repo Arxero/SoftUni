@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\bin\Debug\_01.Rectangle_of_10_x_10_Stars.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\bin\Debug\_01.Rectangle_of_10_x_10_Stars.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\bin\Debug\_01.Rectangle_of_10_x_10_Stars.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\obj\Debug\_01.Rectangle_of_10_x_10_Stars.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\01. Rectangle of 10 x 10 Stars\obj\Debug\_01.Rectangle_of_10_x_10_Stars.pdb

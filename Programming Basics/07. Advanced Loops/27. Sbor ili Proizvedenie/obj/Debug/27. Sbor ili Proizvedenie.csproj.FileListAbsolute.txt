@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\27. Sbor ili Proizvedenie\bin\Debug\_27.Sbor_ili_Proizvedenie.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\27. Sbor ili Proizvedenie\bin\Debug\_27.Sbor_ili_Proizvedenie.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\27. Sbor ili Proizvedenie\bin\Debug\_27.Sbor_ili_Proizvedenie.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\27. Sbor ili Proizvedenie\obj\Debug\27. Sbor ili Proizvedenie.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\27. Sbor ili Proizvedenie\obj\Debug\_27.Sbor_ili_Proizvedenie.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\27. Sbor ili Proizvedenie\obj\Debug\_27.Sbor_ili_Proizvedenie.pdb

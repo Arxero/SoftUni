@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.pdb

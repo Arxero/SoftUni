@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\07. 2D Rectangle Area\bin\Debug\07. 2D Rectangle Area.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\07. 2D Rectangle Area\bin\Debug\07. 2D Rectangle Area.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\07. 2D Rectangle Area\bin\Debug\07. 2D Rectangle Area.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\07. 2D Rectangle Area\obj\Debug\07. 2D Rectangle Area.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\07. 2D Rectangle Area\obj\Debug\07. 2D Rectangle Area.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\07. 2D Rectangle Area\obj\Debug\07. 2D Rectangle Area.pdb

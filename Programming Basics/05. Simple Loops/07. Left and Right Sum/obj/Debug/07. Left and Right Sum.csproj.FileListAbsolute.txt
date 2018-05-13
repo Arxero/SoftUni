@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\07. Left and Right Sum\bin\Debug\_07.Left_and_Right_Sum.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\07. Left and Right Sum\obj\Debug\07. Left and Right Sum.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\07. Left and Right Sum\obj\Debug\_07.Left_and_Right_Sum.pdb

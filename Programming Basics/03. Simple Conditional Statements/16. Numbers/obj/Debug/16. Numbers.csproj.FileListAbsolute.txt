@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\16. Numbers\bin\Debug\_16.Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\16. Numbers\bin\Debug\_16.Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\16. Numbers\bin\Debug\_16.Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\16. Numbers\obj\Debug\_16.Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\16. Numbers\obj\Debug\_16.Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\16. Numbers\obj\Debug\16. Numbers.csprojResolveAssemblyReference.cache

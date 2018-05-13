@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\22. Flower Shop\bin\Debug\_22.Flower_Shop.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\22. Flower Shop\bin\Debug\_22.Flower_Shop.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\22. Flower Shop\bin\Debug\_22.Flower_Shop.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\22. Flower Shop\obj\Debug\_22.Flower_Shop.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\22. Flower Shop\obj\Debug\_22.Flower_Shop.pdb

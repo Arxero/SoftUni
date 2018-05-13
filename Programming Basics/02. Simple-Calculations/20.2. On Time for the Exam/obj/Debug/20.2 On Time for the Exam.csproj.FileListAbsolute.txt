@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\20.2. On Time for the Exam\bin\Debug\_20._2.On_Time_for_the_Exam.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\20.2. On Time for the Exam\bin\Debug\_20._2.On_Time_for_the_Exam.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\20.2. On Time for the Exam\bin\Debug\_20._2.On_Time_for_the_Exam.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\20.2. On Time for the Exam\obj\Debug\20.2 On Time for the Exam.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\20.2. On Time for the Exam\obj\Debug\_20._2.On_Time_for_the_Exam.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\20.2. On Time for the Exam\obj\Debug\_20._2.On_Time_for_the_Exam.pdb

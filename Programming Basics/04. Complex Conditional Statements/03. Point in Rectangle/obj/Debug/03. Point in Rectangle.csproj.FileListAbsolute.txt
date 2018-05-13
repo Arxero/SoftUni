@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\03. Point in Rectangle\obj\Debug\03. Point in Rectangle.csprojResolveAssemblyReference.cache

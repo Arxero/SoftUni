@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\25. Fruit Cocktails\bin\Debug\_25.Fruit_Cocktails.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\25. Fruit Cocktails\bin\Debug\_25.Fruit_Cocktails.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\25. Fruit Cocktails\bin\Debug\_25.Fruit_Cocktails.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\25. Fruit Cocktails\obj\Debug\25. Fruit Cocktails.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\25. Fruit Cocktails\obj\Debug\_25.Fruit_Cocktails.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\25. Fruit Cocktails\obj\Debug\_25.Fruit_Cocktails.pdb

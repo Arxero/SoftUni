@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\22. Crown\bin\Debug\_22.Crown.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\22. Crown\bin\Debug\_22.Crown.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\22. Crown\bin\Debug\_22.Crown.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\22. Crown\obj\Debug\22. Crown.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\22. Crown\obj\Debug\_22.Crown.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\22. Crown\obj\Debug\_22.Crown.pdb

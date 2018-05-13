@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\25. Cups\bin\Debug\_25.Cups.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\25. Cups\bin\Debug\_25.Cups.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\25. Cups\bin\Debug\_25.Cups.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\25. Cups\obj\Debug\25. Cups.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\25. Cups\obj\Debug\_25.Cups.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\25. Cups\obj\Debug\_25.Cups.pdb

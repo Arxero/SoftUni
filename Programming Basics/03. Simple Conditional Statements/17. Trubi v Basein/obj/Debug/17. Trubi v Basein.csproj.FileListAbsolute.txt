@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\17. Trubi v Basein\bin\Debug\_17.Trubi_v_Basein.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\17. Trubi v Basein\bin\Debug\_17.Trubi_v_Basein.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\17. Trubi v Basein\bin\Debug\_17.Trubi_v_Basein.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\17. Trubi v Basein\obj\Debug\17. Trubi v Basein.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\17. Trubi v Basein\obj\Debug\_17.Trubi_v_Basein.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\17. Trubi v Basein\obj\Debug\_17.Trubi_v_Basein.pdb

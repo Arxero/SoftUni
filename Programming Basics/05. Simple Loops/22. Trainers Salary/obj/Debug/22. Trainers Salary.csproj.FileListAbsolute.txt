@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\22. Trainers Salary\bin\Debug\_22.Trainers_Salary.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\22. Trainers Salary\bin\Debug\_22.Trainers_Salary.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\22. Trainers Salary\bin\Debug\_22.Trainers_Salary.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\22. Trainers Salary\obj\Debug\22. Trainers Salary.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\22. Trainers Salary\obj\Debug\_22.Trainers_Salary.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\22. Trainers Salary\obj\Debug\_22.Trainers_Salary.pdb

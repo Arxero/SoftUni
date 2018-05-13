@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\19. Numbers\bin\Debug\_19.Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\19. Numbers\bin\Debug\_19.Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\19. Numbers\bin\Debug\_19.Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\19. Numbers\obj\Debug\_19.Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\19. Numbers\obj\Debug\_19.Numbers.pdb

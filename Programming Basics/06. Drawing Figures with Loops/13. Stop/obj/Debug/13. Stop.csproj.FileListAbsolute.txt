@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\13. Stop\bin\Debug\_13.Stop.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\13. Stop\bin\Debug\_13.Stop.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\13. Stop\bin\Debug\_13.Stop.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\13. Stop\obj\Debug\13. Stop.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\13. Stop\obj\Debug\_13.Stop.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\13. Stop\obj\Debug\_13.Stop.pdb

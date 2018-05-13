@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\05. Numbers to 9\bin\Debug\_05.Numbers_to_9.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\05. Numbers to 9\bin\Debug\_05.Numbers_to_9.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\05. Numbers to 9\bin\Debug\_05.Numbers_to_9.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\05. Numbers to 9\obj\Debug\_05.Numbers_to_9.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\05. Numbers to 9\obj\Debug\_05.Numbers_to_9.pdb

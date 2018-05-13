@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\10. Animal Type\bin\Debug\_10.Animal_Type.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\10. Animal Type\bin\Debug\_10.Animal_Type.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\10. Animal Type\bin\Debug\_10.Animal_Type.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\10. Animal Type\obj\Debug\_10.Animal_Type.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\10. Animal Type\obj\Debug\_10.Animal_Type.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\10. Animal Type\obj\Debug\10. Animal Type.csprojResolveAssemblyReference.cache

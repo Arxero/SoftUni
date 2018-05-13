@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\26. Number Generator\bin\Debug\_26.Number_Generator.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\26. Number Generator\bin\Debug\_26.Number_Generator.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\26. Number Generator\bin\Debug\_26.Number_Generator.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\26. Number Generator\obj\Debug\_26.Number_Generator.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\26. Number Generator\obj\Debug\_26.Number_Generator.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\26. Number Generator\obj\Debug\26. Number Generator.csprojResolveAssemblyReference.cache

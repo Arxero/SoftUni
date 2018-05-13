@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\11. Cinema\bin\Debug\_11.Cinema.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\11. Cinema\bin\Debug\_11.Cinema.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\11. Cinema\bin\Debug\_11.Cinema.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\11. Cinema\obj\Debug\11. Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\11. Cinema\obj\Debug\_11.Cinema.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\11. Cinema\obj\Debug\_11.Cinema.pdb

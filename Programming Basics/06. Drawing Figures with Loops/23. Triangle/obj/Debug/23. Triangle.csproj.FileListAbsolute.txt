@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\23. Triangle\bin\Debug\_23.Triangle.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\23. Triangle\bin\Debug\_23.Triangle.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\23. Triangle\bin\Debug\_23.Triangle.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\23. Triangle\obj\Debug\23. Triangle.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\23. Triangle\obj\Debug\_23.Triangle.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\23. Triangle\obj\Debug\_23.Triangle.pdb

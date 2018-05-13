@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\11. Equal Words\bin\Debug\_11.Equal_Words.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\11. Equal Words\bin\Debug\_11.Equal_Words.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\11. Equal Words\bin\Debug\_11.Equal_Words.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\11. Equal Words\obj\Debug\_11.Equal_Words.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\11. Equal Words\obj\Debug\_11.Equal_Words.pdb

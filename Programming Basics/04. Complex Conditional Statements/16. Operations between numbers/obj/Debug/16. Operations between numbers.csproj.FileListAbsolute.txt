@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\16. Operations between numbers\bin\Debug\_16.Operations_between_numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\16. Operations between numbers\bin\Debug\_16.Operations_between_numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\16. Operations between numbers\bin\Debug\_16.Operations_between_numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\16. Operations between numbers\obj\Debug\16. Operations between numbers.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\16. Operations between numbers\obj\Debug\_16.Operations_between_numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\16. Operations between numbers\obj\Debug\_16.Operations_between_numbers.pdb

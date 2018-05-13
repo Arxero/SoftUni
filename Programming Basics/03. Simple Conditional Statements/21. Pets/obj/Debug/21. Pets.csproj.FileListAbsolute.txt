@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\21. Pets\bin\Debug\_21.Pets.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\21. Pets\bin\Debug\_21.Pets.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\21. Pets\bin\Debug\_21.Pets.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\21. Pets\obj\Debug\21. Pets.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\21. Pets\obj\Debug\_21.Pets.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\21. Pets\obj\Debug\_21.Pets.pdb

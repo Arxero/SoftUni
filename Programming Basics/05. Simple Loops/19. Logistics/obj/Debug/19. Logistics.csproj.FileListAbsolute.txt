@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\19. Logistics\bin\Debug\_19.Logistics.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\19. Logistics\bin\Debug\_19.Logistics.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\19. Logistics\bin\Debug\_19.Logistics.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\19. Logistics\obj\Debug\_19.Logistics.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\19. Logistics\obj\Debug\_19.Logistics.pdb

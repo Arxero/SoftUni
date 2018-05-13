@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\01. Rectangle of N x N Stars\bin\Debug\_01.Rectangle_of_N_x_N_Stars.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\01. Rectangle of N x N Stars\bin\Debug\_01.Rectangle_of_N_x_N_Stars.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\01. Rectangle of N x N Stars\bin\Debug\_01.Rectangle_of_N_x_N_Stars.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\01. Rectangle of N x N Stars\obj\Debug\01. Rectangle of N x N Stars.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\01. Rectangle of N x N Stars\obj\Debug\_01.Rectangle_of_N_x_N_Stars.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\01. Rectangle of N x N Stars\obj\Debug\_01.Rectangle_of_N_x_N_Stars.pdb

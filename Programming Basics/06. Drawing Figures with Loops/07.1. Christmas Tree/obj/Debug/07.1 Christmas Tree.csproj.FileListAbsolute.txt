@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\07.1. Christmas Tree\bin\Debug\_07._1.Christmas_Tree.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\07.1. Christmas Tree\bin\Debug\_07._1.Christmas_Tree.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\07.1. Christmas Tree\bin\Debug\_07._1.Christmas_Tree.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\07.1. Christmas Tree\obj\Debug\_07._1.Christmas_Tree.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\07.1. Christmas Tree\obj\Debug\_07._1.Christmas_Tree.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\07.1. Christmas Tree\obj\Debug\07.1 Christmas Tree.csprojResolveAssemblyReference.cache

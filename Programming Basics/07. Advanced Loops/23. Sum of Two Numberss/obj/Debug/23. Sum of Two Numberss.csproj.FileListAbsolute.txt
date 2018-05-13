@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\23. Sum of Two Numberss\bin\Debug\_23.Sum_of_Two_Numberss.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\23. Sum of Two Numberss\bin\Debug\_23.Sum_of_Two_Numberss.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\23. Sum of Two Numberss\bin\Debug\_23.Sum_of_Two_Numberss.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\23. Sum of Two Numberss\obj\Debug\_23.Sum_of_Two_Numberss.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\23. Sum of Two Numberss\obj\Debug\_23.Sum_of_Two_Numberss.pdb

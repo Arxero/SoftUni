@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\15. Umnata Lili\bin\Debug\_15.Umnata_Lili.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\15. Umnata Lili\bin\Debug\_15.Umnata_Lili.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\15. Umnata Lili\bin\Debug\_15.Umnata_Lili.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\15. Umnata Lili\obj\Debug\15. Umnata Lili.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\15. Umnata Lili\obj\Debug\_15.Umnata_Lili.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\15. Umnata Lili\obj\Debug\_15.Umnata_Lili.pdb

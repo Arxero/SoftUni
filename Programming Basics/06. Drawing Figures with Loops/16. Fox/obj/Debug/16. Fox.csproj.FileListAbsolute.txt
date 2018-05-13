@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\16. Fox\bin\Debug\_16.Fox.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\16. Fox\bin\Debug\_16.Fox.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\16. Fox\bin\Debug\_16.Fox.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\16. Fox\obj\Debug\16. Fox.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\16. Fox\obj\Debug\_16.Fox.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\16. Fox\obj\Debug\_16.Fox.pdb

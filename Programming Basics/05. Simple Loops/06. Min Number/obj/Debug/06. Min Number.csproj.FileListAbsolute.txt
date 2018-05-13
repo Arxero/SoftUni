@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\06. Min Number\bin\Debug\_06.Min_Number.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\06. Min Number\bin\Debug\_06.Min_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\06. Min Number\bin\Debug\_06.Min_Number.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\06. Min Number\obj\Debug\_06.Min_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\06. Min Number\obj\Debug\_06.Min_Number.pdb

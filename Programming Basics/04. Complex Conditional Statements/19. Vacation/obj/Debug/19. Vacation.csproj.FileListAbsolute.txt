@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\19. Vacation\bin\Debug\_19.Vacation.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\19. Vacation\bin\Debug\_19.Vacation.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\19. Vacation\bin\Debug\_19.Vacation.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\19. Vacation\obj\Debug\19. Vacation.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\19. Vacation\obj\Debug\_19.Vacation.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\19. Vacation\obj\Debug\_19.Vacation.pdb

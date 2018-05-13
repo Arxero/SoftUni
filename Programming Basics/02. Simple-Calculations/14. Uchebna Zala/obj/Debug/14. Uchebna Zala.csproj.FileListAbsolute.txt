@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\14. Uchebna Zala\bin\Debug\_14.Uchebna_Zala.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\14. Uchebna Zala\bin\Debug\_14.Uchebna_Zala.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\14. Uchebna Zala\bin\Debug\_14.Uchebna_Zala.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\14. Uchebna Zala\obj\Debug\14. Uchebna Zala.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\14. Uchebna Zala\obj\Debug\_14.Uchebna_Zala.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\14. Uchebna Zala\obj\Debug\_14.Uchebna_Zala.pdb

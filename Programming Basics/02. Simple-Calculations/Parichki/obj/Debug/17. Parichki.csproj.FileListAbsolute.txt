@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Parichki\bin\Debug\Parichki.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Parichki\bin\Debug\Parichki.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Parichki\bin\Debug\Parichki.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Parichki\obj\Debug\17. Parichki.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Parichki\obj\Debug\Parichki.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Parichki\obj\Debug\Parichki.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\06. Rhombus of Stars\bin\Debug\_06.Rhombus_of_Stars.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\06. Rhombus of Stars\bin\Debug\_06.Rhombus_of_Stars.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\06. Rhombus of Stars\bin\Debug\_06.Rhombus_of_Stars.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\06. Rhombus of Stars\obj\Debug\06. Rhombus of Stars.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\06. Rhombus of Stars\obj\Debug\_06.Rhombus_of_Stars.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\06. Rhombus of Stars\obj\Debug\_06.Rhombus_of_Stars.pdb

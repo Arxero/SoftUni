@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\Drawing Figures with Loops\bin\Debug\Drawing Figures with Loops.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\Drawing Figures with Loops\bin\Debug\Drawing Figures with Loops.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\Drawing Figures with Loops\bin\Debug\Drawing Figures with Loops.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\Drawing Figures with Loops\obj\Debug\01. Rectangle of 10 x 10 Stars.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\Drawing Figures with Loops\obj\Debug\Drawing Figures with Loops.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\Drawing Figures with Loops\obj\Debug\Drawing Figures with Loops.pdb

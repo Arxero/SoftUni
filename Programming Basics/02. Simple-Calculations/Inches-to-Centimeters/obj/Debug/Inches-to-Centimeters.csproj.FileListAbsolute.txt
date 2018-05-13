@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Inches-to-Centimeters\bin\Debug\Inches-to-Centimeters.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple-Calculations\Inches-to-Centimeters\obj\Debug\Inches-to-Centimeters.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\24. Work hours\bin\Debug\_24.Work_hours.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\24. Work hours\bin\Debug\_24.Work_hours.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\24. Work hours\bin\Debug\_24.Work_hours.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\24. Work hours\obj\Debug\_24.Work_hours.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\24. Work hours\obj\Debug\_24.Work_hours.pdb

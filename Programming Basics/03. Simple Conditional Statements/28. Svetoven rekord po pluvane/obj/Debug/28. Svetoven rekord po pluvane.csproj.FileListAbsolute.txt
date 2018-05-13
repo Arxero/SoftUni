@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\28. Svetoven rekord po pluvane\bin\Debug\_28.Svetoven_rekord_po_pluvane.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\28. Svetoven rekord po pluvane\bin\Debug\_28.Svetoven_rekord_po_pluvane.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\28. Svetoven rekord po pluvane\bin\Debug\_28.Svetoven_rekord_po_pluvane.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\28. Svetoven rekord po pluvane\obj\Debug\28. Svetoven rekord po pluvane.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\28. Svetoven rekord po pluvane\obj\Debug\_28.Svetoven_rekord_po_pluvane.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\28. Svetoven rekord po pluvane\obj\Debug\_28.Svetoven_rekord_po_pluvane.pdb

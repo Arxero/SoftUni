@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\07. Sum Seconds\bin\Debug\_07.Sum_Seconds.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\07. Sum Seconds\bin\Debug\_07.Sum_Seconds.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\07. Sum Seconds\bin\Debug\_07.Sum_Seconds.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\07. Sum Seconds\obj\Debug\07. Sum Seconds.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\07. Sum Seconds\obj\Debug\_07.Sum_Seconds.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\07. Sum Seconds\obj\Debug\_07.Sum_Seconds.pdb

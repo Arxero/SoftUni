@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\28. Group Name\bin\Debug\_28.Group_Name.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\28. Group Name\bin\Debug\_28.Group_Name.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\28. Group Name\bin\Debug\_28.Group_Name.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\28. Group Name\obj\Debug\28. Group Name.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\28. Group Name\obj\Debug\_28.Group_Name.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\28. Group Name\obj\Debug\_28.Group_Name.pdb

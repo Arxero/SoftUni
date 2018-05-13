@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\01. Personal Titles\bin\Debug\_01.Personal_Titles.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\01. Personal Titles\bin\Debug\_01.Personal_Titles.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\01. Personal Titles\bin\Debug\_01.Personal_Titles.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\01. Personal Titles\obj\Debug\_01.Personal_Titles.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\01. Personal Titles\obj\Debug\_01.Personal_Titles.pdb

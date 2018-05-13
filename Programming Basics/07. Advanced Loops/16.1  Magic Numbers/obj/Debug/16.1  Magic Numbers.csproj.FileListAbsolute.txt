@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\16.1  Magic Numbers\bin\Debug\16.1  Magic Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\16.1  Magic Numbers\bin\Debug\16.1  Magic Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\16.1  Magic Numbers\bin\Debug\16.1  Magic Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\16.1  Magic Numbers\obj\Debug\16.1  Magic Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\16.1  Magic Numbers\obj\Debug\16.1  Magic Numbers.pdb

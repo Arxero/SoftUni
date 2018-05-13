@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\09. Sum Digits\obj\Debug\_09.Sum_Digits.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\09. Sum Digits\obj\Debug\_09.Sum_Digits.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\09. Sum Digits\obj\Debug\09. Sum Digits.csprojResolveAssemblyReference.cache

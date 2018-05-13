@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\26. Energy Loss\bin\Debug\_26.Energy_Loss.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\26. Energy Loss\bin\Debug\_26.Energy_Loss.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\26. Energy Loss\bin\Debug\_26.Energy_Loss.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\26. Energy Loss\obj\Debug\26. Energy Loss.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\26. Energy Loss\obj\Debug\_26.Energy_Loss.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\26. Energy Loss\obj\Debug\_26.Energy_Loss.pdb

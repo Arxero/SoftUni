@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\26. Final Competition\obj\Debug\26. Final Competition.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\26. Final Competition\bin\Debug\_26.Final_Competition.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\26. Final Competition\bin\Debug\_26.Final_Competition.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\26. Final Competition\bin\Debug\_26.Final_Competition.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\26. Final Competition\obj\Debug\_26.Final_Competition.exe
+C:\Users\Maverick\OneDrive\C# Projects\Complex Conditional Statements\26. Final Competition\obj\Debug\_26.Final_Competition.pdb

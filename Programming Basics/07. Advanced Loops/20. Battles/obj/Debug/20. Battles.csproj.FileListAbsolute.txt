@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\20. Battles\bin\Debug\_20.Battles.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\20. Battles\bin\Debug\_20.Battles.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\20. Battles\bin\Debug\_20.Battles.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\20. Battles\obj\Debug\_20.Battles.exe
+C:\Users\Maverick\OneDrive\C# Projects\Advanced Loops\20. Battles\obj\Debug\_20.Battles.pdb

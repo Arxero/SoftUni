@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\Simple Loops\bin\Debug\Simple Loops.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\Simple Loops\bin\Debug\Simple Loops.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\Simple Loops\bin\Debug\Simple Loops.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\Simple Loops\obj\Debug\01. Numbers from 1 to 100.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\Simple Loops\obj\Debug\Simple Loops.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\Simple Loops\obj\Debug\Simple Loops.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\18. SoftUni Camp\obj\Debug\18. SoftUni Camp.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\18. SoftUni Camp\bin\Debug\_18.SoftUni_Camp.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\18. SoftUni Camp\bin\Debug\_18.SoftUni_Camp.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\18. SoftUni Camp\bin\Debug\_18.SoftUni_Camp.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\18. SoftUni Camp\obj\Debug\_18.SoftUni_Camp.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Loops\18. SoftUni Camp\obj\Debug\_18.SoftUni_Camp.pdb

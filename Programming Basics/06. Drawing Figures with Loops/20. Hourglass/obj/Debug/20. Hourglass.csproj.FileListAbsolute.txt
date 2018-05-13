@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\20. Hourglass\bin\Debug\_20.Hourglass.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\20. Hourglass\bin\Debug\_20.Hourglass.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\20. Hourglass\bin\Debug\_20.Hourglass.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\20. Hourglass\obj\Debug\20. Hourglass.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\20. Hourglass\obj\Debug\_20.Hourglass.exe
+C:\Users\Maverick\OneDrive\C# Projects\Drawing Figures with Loops\20. Hourglass\obj\Debug\_20.Hourglass.pdb

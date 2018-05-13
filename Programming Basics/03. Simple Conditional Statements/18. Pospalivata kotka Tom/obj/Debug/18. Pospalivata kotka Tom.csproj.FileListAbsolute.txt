@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\18. Pospalivata kotka Tom\bin\Debug\_18.Pospalivata_kotka_Tom.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\18. Pospalivata kotka Tom\bin\Debug\_18.Pospalivata_kotka_Tom.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\18. Pospalivata kotka Tom\bin\Debug\_18.Pospalivata_kotka_Tom.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\18. Pospalivata kotka Tom\obj\Debug\18. Pospalivata kotka Tom.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\18. Pospalivata kotka Tom\obj\Debug\_18.Pospalivata_kotka_Tom.exe
+C:\Users\Maverick\OneDrive\C# Projects\Simple Conditional Statements\18. Pospalivata kotka Tom\obj\Debug\_18.Pospalivata_kotka_Tom.pdb
