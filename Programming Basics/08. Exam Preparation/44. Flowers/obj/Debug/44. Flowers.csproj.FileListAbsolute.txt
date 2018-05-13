@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\44. Flowers\bin\Debug\_44.Flowers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\44. Flowers\bin\Debug\_44.Flowers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\44. Flowers\bin\Debug\_44.Flowers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\44. Flowers\obj\Debug\44. Flowers.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\44. Flowers\obj\Debug\44. Flowers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\44. Flowers\obj\Debug\_44.Flowers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\44. Flowers\obj\Debug\_44.Flowers.pdb

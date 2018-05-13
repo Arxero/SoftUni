@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\83. Group Name\bin\Debug\_83.Group_Name.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\83. Group Name\bin\Debug\_83.Group_Name.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\83. Group Name\bin\Debug\_83.Group_Name.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\83. Group Name\obj\Debug\83. Group Name.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\83. Group Name\obj\Debug\83. Group Name.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\83. Group Name\obj\Debug\_83.Group_Name.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\83. Group Name\obj\Debug\_83.Group_Name.pdb

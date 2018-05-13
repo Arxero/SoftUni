@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\37\bin\Debug\37.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\37\bin\Debug\37.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\37\bin\Debug\37.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\37\obj\Debug\37. Flower Shop.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\37\obj\Debug\37.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\37\obj\Debug\37.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\42. Programming Basics Exam - 18 December 2016 - Distance\bin\Debug\_42.Programming_Basics_Exam___18_December_2016___Distance.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\42. Programming Basics Exam - 18 December 2016 - Distance\bin\Debug\_42.Programming_Basics_Exam___18_December_2016___Distance.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\42. Programming Basics Exam - 18 December 2016 - Distance\bin\Debug\_42.Programming_Basics_Exam___18_December_2016___Distance.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\42. Programming Basics Exam - 18 December 2016 - Distance\obj\Debug\42. Programming Basics Exam - 18 December 2016 - Distance.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\42. Programming Basics Exam - 18 December 2016 - Distance\obj\Debug\42. Programming Basics Exam - 18 December 2016 - Distance.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\42. Programming Basics Exam - 18 December 2016 - Distance\obj\Debug\_42.Programming_Basics_Exam___18_December_2016___Distance.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\42. Programming Basics Exam - 18 December 2016 - Distance\obj\Debug\_42.Programming_Basics_Exam___18_December_2016___Distance.pdb

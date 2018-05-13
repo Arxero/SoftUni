@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\41. Max Combination\bin\Debug\_41.Max_Combination.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\41. Max Combination\bin\Debug\_41.Max_Combination.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\41. Max Combination\bin\Debug\_41.Max_Combination.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\41. Max Combination\obj\Debug\41. Max Combination.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\41. Max Combination\obj\Debug\_41.Max_Combination.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\41. Max Combination\obj\Debug\_41.Max_Combination.pdb

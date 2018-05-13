@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\65. Control Number\bin\Debug\_65.Control_Number.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\65. Control Number\bin\Debug\_65.Control_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\65. Control Number\bin\Debug\_65.Control_Number.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\65. Control Number\obj\Debug\65. Control Number.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\65. Control Number\obj\Debug\_65.Control_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\65. Control Number\obj\Debug\_65.Control_Number.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\65. Control Number\obj\Debug\65. Control Number.csprojResolveAssemblyReference.cache

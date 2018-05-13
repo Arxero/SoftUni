@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\25. Firma\bin\Debug\_25.Firma.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\25. Firma\bin\Debug\_25.Firma.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\25. Firma\bin\Debug\_25.Firma.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\25. Firma\obj\Debug\25. Firma.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\25. Firma\obj\Debug\_25.Firma.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\25. Firma\obj\Debug\_25.Firma.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\27. Bolnica\bin\Debug\_27.Bolnica.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\27. Bolnica\bin\Debug\_27.Bolnica.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\27. Bolnica\bin\Debug\_27.Bolnica.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\27. Bolnica\obj\Debug\27. Bolnica.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\27. Bolnica\obj\Debug\27. Bolnica.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\27. Bolnica\obj\Debug\_27.Bolnica.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\27. Bolnica\obj\Debug\_27.Bolnica.pdb

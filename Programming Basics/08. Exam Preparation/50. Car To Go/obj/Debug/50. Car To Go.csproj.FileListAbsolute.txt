@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\50. Car To Go\bin\Debug\_50.Car_To_Go.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\50. Car To Go\bin\Debug\_50.Car_To_Go.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\50. Car To Go\bin\Debug\_50.Car_To_Go.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\50. Car To Go\obj\Debug\50. Car To Go.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\50. Car To Go\obj\Debug\_50.Car_To_Go.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\50. Car To Go\obj\Debug\_50.Car_To_Go.pdb

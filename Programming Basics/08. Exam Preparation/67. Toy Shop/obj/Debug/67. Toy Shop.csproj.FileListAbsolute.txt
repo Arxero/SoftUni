@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\67. Toy Shop\bin\Debug\_67.Toy_Shop.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\67. Toy Shop\bin\Debug\_67.Toy_Shop.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\67. Toy Shop\bin\Debug\_67.Toy_Shop.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\67. Toy Shop\obj\Debug\67. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\67. Toy Shop\obj\Debug\_67.Toy_Shop.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\67. Toy Shop\obj\Debug\_67.Toy_Shop.pdb

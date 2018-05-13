@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\66. Programming Basics Exam - 7 May 2017 - Alcohol Market\bin\Debug\_66.Programming_Basics_Exam___7_May_2017___Alcohol_Market.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\66. Programming Basics Exam - 7 May 2017 - Alcohol Market\bin\Debug\_66.Programming_Basics_Exam___7_May_2017___Alcohol_Market.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\66. Programming Basics Exam - 7 May 2017 - Alcohol Market\bin\Debug\_66.Programming_Basics_Exam___7_May_2017___Alcohol_Market.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\66. Programming Basics Exam - 7 May 2017 - Alcohol Market\obj\Debug\66. Programming Basics Exam - 7 May 2017 - Alcohol Market.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\66. Programming Basics Exam - 7 May 2017 - Alcohol Market\obj\Debug\66. Programming Basics Exam - 7 May 2017 - Alcohol Market.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\66. Programming Basics Exam - 7 May 2017 - Alcohol Market\obj\Debug\_66.Programming_Basics_Exam___7_May_2017___Alcohol_Market.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\66. Programming Basics Exam - 7 May 2017 - Alcohol Market\obj\Debug\_66.Programming_Basics_Exam___7_May_2017___Alcohol_Market.pdb

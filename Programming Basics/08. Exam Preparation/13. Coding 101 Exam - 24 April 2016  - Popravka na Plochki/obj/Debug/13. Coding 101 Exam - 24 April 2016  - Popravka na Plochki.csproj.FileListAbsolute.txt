@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\13. Coding 101 Exam - 24 April 2016  - Popravka na Plochki\bin\Debug\_13.Coding_101_Exam___24_April_2016____Popravka_na_Plochki.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\13. Coding 101 Exam - 24 April 2016  - Popravka na Plochki\bin\Debug\_13.Coding_101_Exam___24_April_2016____Popravka_na_Plochki.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\13. Coding 101 Exam - 24 April 2016  - Popravka na Plochki\bin\Debug\_13.Coding_101_Exam___24_April_2016____Popravka_na_Plochki.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\13. Coding 101 Exam - 24 April 2016  - Popravka na Plochki\obj\Debug\13. Coding 101 Exam - 24 April 2016  - Popravka na Plochki.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\13. Coding 101 Exam - 24 April 2016  - Popravka na Plochki\obj\Debug\13. Coding 101 Exam - 24 April 2016  - Popravka na Plochki.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\13. Coding 101 Exam - 24 April 2016  - Popravka na Plochki\obj\Debug\_13.Coding_101_Exam___24_April_2016____Popravka_na_Plochki.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\13. Coding 101 Exam - 24 April 2016  - Popravka na Plochki\obj\Debug\_13.Coding_101_Exam___24_April_2016____Popravka_na_Plochki.pdb

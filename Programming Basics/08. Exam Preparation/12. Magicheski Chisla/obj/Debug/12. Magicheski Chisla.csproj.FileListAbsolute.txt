@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\12. Magicheski Chisla\bin\Debug\_12.Magicheski_Chisla.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\12. Magicheski Chisla\bin\Debug\_12.Magicheski_Chisla.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\12. Magicheski Chisla\bin\Debug\_12.Magicheski_Chisla.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\12. Magicheski Chisla\obj\Debug\12. Magicheski Chisla.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\12. Magicheski Chisla\obj\Debug\_12.Magicheski_Chisla.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\12. Magicheski Chisla\obj\Debug\_12.Magicheski_Chisla.pdb

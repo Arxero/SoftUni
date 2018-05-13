@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\77. Sbor ili Prozivedenie\bin\Debug\_77.Sbor_ili_Prozivedenie.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\77. Sbor ili Prozivedenie\bin\Debug\_77.Sbor_ili_Prozivedenie.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\77. Sbor ili Prozivedenie\bin\Debug\_77.Sbor_ili_Prozivedenie.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\77. Sbor ili Prozivedenie\obj\Debug\77. Sbor ili Prozivedenie.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\77. Sbor ili Prozivedenie\obj\Debug\_77.Sbor_ili_Prozivedenie.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\77. Sbor ili Prozivedenie\obj\Debug\_77.Sbor_ili_Prozivedenie.pdb

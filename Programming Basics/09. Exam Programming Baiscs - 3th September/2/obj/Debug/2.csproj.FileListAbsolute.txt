@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Programming Baiscs - 3th September\2\bin\Debug\2.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Programming Baiscs - 3th September\2\bin\Debug\2.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Programming Baiscs - 3th September\2\bin\Debug\2.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Programming Baiscs - 3th September\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Programming Baiscs - 3th September\2\obj\Debug\2.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Programming Baiscs - 3th September\2\obj\Debug\2.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Programming Baiscs - 3th September\2\obj\Debug\2.csprojResolveAssemblyReference.cache

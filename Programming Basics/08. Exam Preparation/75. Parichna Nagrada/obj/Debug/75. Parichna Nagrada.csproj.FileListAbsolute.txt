@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\75. Parichna Nagrada\bin\Debug\_75.Parichna_Nagrada.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\75. Parichna Nagrada\bin\Debug\_75.Parichna_Nagrada.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\75. Parichna Nagrada\bin\Debug\_75.Parichna_Nagrada.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\75. Parichna Nagrada\obj\Debug\75. Parichna Nagrada.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\75. Parichna Nagrada\obj\Debug\_75.Parichna_Nagrada.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\75. Parichna Nagrada\obj\Debug\_75.Parichna_Nagrada.pdb

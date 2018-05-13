@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\58. Hourglass\bin\Debug\_58.Hourglass.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\58. Hourglass\bin\Debug\_58.Hourglass.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\58. Hourglass\bin\Debug\_58.Hourglass.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\58. Hourglass\obj\Debug\58. Hourglass.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\58. Hourglass\obj\Debug\_58.Hourglass.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\58. Hourglass\obj\Debug\_58.Hourglass.pdb

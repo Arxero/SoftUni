@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\57. Trainers Salary\bin\Debug\_57.Trainers_Salary.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\57. Trainers Salary\bin\Debug\_57.Trainers_Salary.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\57. Trainers Salary\bin\Debug\_57.Trainers_Salary.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\57. Trainers Salary\obj\Debug\57. Trainers Salary.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\57. Trainers Salary\obj\Debug\_57.Trainers_Salary.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\57. Trainers Salary\obj\Debug\_57.Trainers_Salary.pdb

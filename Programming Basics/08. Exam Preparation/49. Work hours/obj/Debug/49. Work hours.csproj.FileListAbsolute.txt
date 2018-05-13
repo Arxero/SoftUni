@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\49. Work hours\bin\Debug\_49.Work_hours.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\49. Work hours\bin\Debug\_49.Work_hours.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\49. Work hours\bin\Debug\_49.Work_hours.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\49. Work hours\obj\Debug\49. Work hours.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\49. Work hours\obj\Debug\_49.Work_hours.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\49. Work hours\obj\Debug\_49.Work_hours.pdb

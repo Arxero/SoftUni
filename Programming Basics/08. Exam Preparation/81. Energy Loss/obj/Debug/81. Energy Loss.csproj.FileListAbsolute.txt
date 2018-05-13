@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\81. Energy Loss\bin\Debug\_81.Energy_Loss.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\81. Energy Loss\bin\Debug\_81.Energy_Loss.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\81. Energy Loss\bin\Debug\_81.Energy_Loss.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\81. Energy Loss\obj\Debug\81. Energy Loss.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\81. Energy Loss\obj\Debug\_81.Energy_Loss.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\81. Energy Loss\obj\Debug\_81.Energy_Loss.pdb

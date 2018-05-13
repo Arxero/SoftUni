@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\70. Crown\bin\Debug\_70.Crown.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\70. Crown\bin\Debug\_70.Crown.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\70. Crown\bin\Debug\_70.Crown.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\70. Crown\obj\Debug\70. Crown.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\70. Crown\obj\Debug\_70.Crown.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\70. Crown\obj\Debug\_70.Crown.pdb

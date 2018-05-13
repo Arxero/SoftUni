@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\56. Vacation\bin\Debug\_56.Vacation.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\56. Vacation\bin\Debug\_56.Vacation.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\56. Vacation\bin\Debug\_56.Vacation.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\56. Vacation\obj\Debug\56. Vacation.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\56. Vacation\obj\Debug\56. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\56. Vacation\obj\Debug\_56.Vacation.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\56. Vacation\obj\Debug\_56.Vacation.pdb

@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\11. Peperuda\bin\Debug\_11.Peperuda.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\11. Peperuda\bin\Debug\_11.Peperuda.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\11. Peperuda\bin\Debug\_11.Peperuda.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\11. Peperuda\obj\Debug\_11.Peperuda.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\11. Peperuda\obj\Debug\_11.Peperuda.pdb

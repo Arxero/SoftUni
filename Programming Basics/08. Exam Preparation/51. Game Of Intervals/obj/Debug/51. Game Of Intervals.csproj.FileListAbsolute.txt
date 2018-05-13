@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\51. Game Of Intervals\bin\Debug\_51.Game_Of_Intervals.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\51. Game Of Intervals\bin\Debug\_51.Game_Of_Intervals.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\51. Game Of Intervals\bin\Debug\_51.Game_Of_Intervals.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\51. Game Of Intervals\obj\Debug\51. Game Of Intervals.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\51. Game Of Intervals\obj\Debug\51. Game Of Intervals.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\51. Game Of Intervals\obj\Debug\_51.Game_Of_Intervals.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\51. Game Of Intervals\obj\Debug\_51.Game_Of_Intervals.pdb

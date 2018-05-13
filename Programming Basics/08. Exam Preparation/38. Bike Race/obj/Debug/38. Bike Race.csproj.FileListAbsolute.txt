@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\38. Bike Race\bin\Debug\_38.Bike_Race.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\38. Bike Race\bin\Debug\_38.Bike_Race.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\38. Bike Race\bin\Debug\_38.Bike_Race.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\38. Bike Race\obj\Debug\38. Bike Race.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\38. Bike Race\obj\Debug\_38.Bike_Race.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\38. Bike Race\obj\Debug\_38.Bike_Race.pdb

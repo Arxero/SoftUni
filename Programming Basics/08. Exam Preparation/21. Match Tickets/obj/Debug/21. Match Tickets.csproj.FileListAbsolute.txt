@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\21. Match Tickets\bin\Debug\_21.Match_Tickets.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\21. Match Tickets\bin\Debug\_21.Match_Tickets.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\21. Match Tickets\bin\Debug\_21.Match_Tickets.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\21. Match Tickets\obj\Debug\21. Match Tickets.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\21. Match Tickets\obj\Debug\21. Match Tickets.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\21. Match Tickets\obj\Debug\_21.Match_Tickets.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\21. Match Tickets\obj\Debug\_21.Match_Tickets.pdb

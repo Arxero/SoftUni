@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\05. Draw Fort\bin\Debug\_05.Draw_Fort.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\05. Draw Fort\bin\Debug\_05.Draw_Fort.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\05. Draw Fort\bin\Debug\_05.Draw_Fort.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\05. Draw Fort\obj\Debug\_05.Draw_Fort.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\05. Draw Fort\obj\Debug\_05.Draw_Fort.pdb

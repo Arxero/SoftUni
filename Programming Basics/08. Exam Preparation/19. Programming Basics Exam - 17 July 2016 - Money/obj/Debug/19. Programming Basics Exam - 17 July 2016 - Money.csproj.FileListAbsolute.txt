@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\19. Programming Basics Exam - 17 July 2016 - Money\bin\Debug\_19.Programming_Basics_Exam___17_July_2016___Money.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\19. Programming Basics Exam - 17 July 2016 - Money\bin\Debug\_19.Programming_Basics_Exam___17_July_2016___Money.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\19. Programming Basics Exam - 17 July 2016 - Money\bin\Debug\_19.Programming_Basics_Exam___17_July_2016___Money.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\19. Programming Basics Exam - 17 July 2016 - Money\obj\Debug\19. Programming Basics Exam - 17 July 2016 - Money.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\19. Programming Basics Exam - 17 July 2016 - Money\obj\Debug\19. Programming Basics Exam - 17 July 2016 - Money.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\19. Programming Basics Exam - 17 July 2016 - Money\obj\Debug\_19.Programming_Basics_Exam___17_July_2016___Money.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\19. Programming Basics Exam - 17 July 2016 - Money\obj\Debug\_19.Programming_Basics_Exam___17_July_2016___Money.pdb

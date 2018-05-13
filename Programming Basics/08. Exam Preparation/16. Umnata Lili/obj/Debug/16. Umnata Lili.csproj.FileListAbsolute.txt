@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\16. Umnata Lili\bin\Debug\_16.Umnata_Lili.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\16. Umnata Lili\bin\Debug\_16.Umnata_Lili.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\16. Umnata Lili\bin\Debug\_16.Umnata_Lili.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\16. Umnata Lili\obj\Debug\16. Umnata Lili.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\16. Umnata Lili\obj\Debug\16. Umnata Lili.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\16. Umnata Lili\obj\Debug\_16.Umnata_Lili.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\16. Umnata Lili\obj\Debug\_16.Umnata_Lili.pdb

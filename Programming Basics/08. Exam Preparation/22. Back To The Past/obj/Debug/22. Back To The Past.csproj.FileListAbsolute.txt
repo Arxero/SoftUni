@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\22. Back To The Past\bin\Debug\_22.Back_To_The_Past.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\22. Back To The Past\bin\Debug\_22.Back_To_The_Past.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\22. Back To The Past\bin\Debug\_22.Back_To_The_Past.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\22. Back To The Past\obj\Debug\22. Back To The Past.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\22. Back To The Past\obj\Debug\_22.Back_To_The_Past.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\22. Back To The Past\obj\Debug\_22.Back_To_The_Past.pdb

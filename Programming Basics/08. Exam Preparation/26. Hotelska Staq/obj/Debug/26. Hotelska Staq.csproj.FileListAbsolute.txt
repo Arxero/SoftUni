@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\26. Hotelska Staq\bin\Debug\_26.Hotelska_Staq.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\26. Hotelska Staq\bin\Debug\_26.Hotelska_Staq.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\26. Hotelska Staq\bin\Debug\_26.Hotelska_Staq.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\26. Hotelska Staq\obj\Debug\26. Hotelska Staq.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\26. Hotelska Staq\obj\Debug\26. Hotelska Staq.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\26. Hotelska Staq\obj\Debug\_26.Hotelska_Staq.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\26. Hotelska Staq\obj\Debug\_26.Hotelska_Staq.pdb

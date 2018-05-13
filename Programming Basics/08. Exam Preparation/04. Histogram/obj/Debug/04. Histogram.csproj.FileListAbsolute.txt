@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\04. Histogram\bin\Debug\_04.Histogram.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\04. Histogram\bin\Debug\_04.Histogram.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\04. Histogram\bin\Debug\_04.Histogram.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\04. Histogram\obj\Debug\_04.Histogram.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\04. Histogram\obj\Debug\_04.Histogram.pdb

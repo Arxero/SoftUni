@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\32. Vacation\bin\Debug\_32.Vacation.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\32. Vacation\bin\Debug\_32.Vacation.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\32. Vacation\bin\Debug\_32.Vacation.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\32. Vacation\obj\Debug\32. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\32. Vacation\obj\Debug\_32.Vacation.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\32. Vacation\obj\Debug\_32.Vacation.pdb

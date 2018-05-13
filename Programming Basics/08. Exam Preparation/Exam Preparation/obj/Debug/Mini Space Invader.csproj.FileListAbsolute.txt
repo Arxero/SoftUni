@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\Exam Preparation\bin\Debug\Exam Preparation.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\Exam Preparation\bin\Debug\Exam Preparation.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\Exam Preparation\bin\Debug\Exam Preparation.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\Exam Preparation\obj\Debug\Exam Preparation.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\Exam Preparation\obj\Debug\Exam Preparation.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\Exam Preparation\obj\Debug\Mini Space Invader.csprojResolveAssemblyReference.cache

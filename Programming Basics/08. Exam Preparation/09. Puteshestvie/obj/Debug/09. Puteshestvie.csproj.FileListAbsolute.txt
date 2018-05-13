@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\09. Puteshestvie\bin\Debug\_09.Puteshestvie.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\09. Puteshestvie\bin\Debug\_09.Puteshestvie.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\09. Puteshestvie\bin\Debug\_09.Puteshestvie.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\09. Puteshestvie\obj\Debug\09. Puteshestvie.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\09. Puteshestvie\obj\Debug\_09.Puteshestvie.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\09. Puteshestvie\obj\Debug\_09.Puteshestvie.pdb

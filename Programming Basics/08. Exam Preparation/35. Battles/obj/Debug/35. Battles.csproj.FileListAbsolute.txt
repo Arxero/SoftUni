@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\35. Battles\bin\Debug\_35.Battles.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\35. Battles\bin\Debug\_35.Battles.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\35. Battles\bin\Debug\_35.Battles.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\35. Battles\obj\Debug\35. Battles.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\35. Battles\obj\Debug\_35.Battles.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\35. Battles\obj\Debug\_35.Battles.pdb

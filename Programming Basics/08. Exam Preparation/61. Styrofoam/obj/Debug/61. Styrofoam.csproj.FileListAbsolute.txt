@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\61. Styrofoam\bin\Debug\_61.Styrofoam.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\61. Styrofoam\bin\Debug\_61.Styrofoam.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\61. Styrofoam\bin\Debug\_61.Styrofoam.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\61. Styrofoam\obj\Debug\61. Styrofoam.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\61. Styrofoam\obj\Debug\_61.Styrofoam.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\61. Styrofoam\obj\Debug\_61.Styrofoam.pdb

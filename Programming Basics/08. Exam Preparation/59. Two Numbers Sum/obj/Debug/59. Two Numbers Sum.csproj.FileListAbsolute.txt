@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\59. Two Numbers Sum\bin\Debug\_59.Two_Numbers_Sum.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\59. Two Numbers Sum\bin\Debug\_59.Two_Numbers_Sum.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\59. Two Numbers Sum\bin\Debug\_59.Two_Numbers_Sum.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\59. Two Numbers Sum\obj\Debug\59. Two Numbers Sum.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\59. Two Numbers Sum\obj\Debug\_59.Two_Numbers_Sum.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\59. Two Numbers Sum\obj\Debug\_59.Two_Numbers_Sum.pdb

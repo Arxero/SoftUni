@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\55. Cups\bin\Debug\_55.Cups.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\55. Cups\bin\Debug\_55.Cups.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\55. Cups\bin\Debug\_55.Cups.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\55. Cups\obj\Debug\55. Cups.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\55. Cups\obj\Debug\_55.Cups.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\55. Cups\obj\Debug\_55.Cups.pdb

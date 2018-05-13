@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\29. Cifri\bin\Debug\_29.Cifri.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\29. Cifri\bin\Debug\_29.Cifri.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\29. Cifri\bin\Debug\_29.Cifri.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\29. Cifri\obj\Debug\29. Cifri.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\29. Cifri\obj\Debug\_29.Cifri.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\29. Cifri\obj\Debug\_29.Cifri.pdb

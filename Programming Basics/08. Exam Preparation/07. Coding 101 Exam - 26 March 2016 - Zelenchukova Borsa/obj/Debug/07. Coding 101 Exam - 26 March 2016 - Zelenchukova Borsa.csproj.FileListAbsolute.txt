@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\07. Coding 101 Exam - 26 March 2016 - Zelenchukova Borsa\bin\Debug\_07.Coding_101_Exam___26_March_2016___Zelenchukova_Borsa.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\07. Coding 101 Exam - 26 March 2016 - Zelenchukova Borsa\bin\Debug\_07.Coding_101_Exam___26_March_2016___Zelenchukova_Borsa.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\07. Coding 101 Exam - 26 March 2016 - Zelenchukova Borsa\bin\Debug\_07.Coding_101_Exam___26_March_2016___Zelenchukova_Borsa.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\07. Coding 101 Exam - 26 March 2016 - Zelenchukova Borsa\obj\Debug\07. Coding 101 Exam - 26 March 2016 - Zelenchukova Borsa.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\07. Coding 101 Exam - 26 March 2016 - Zelenchukova Borsa\obj\Debug\_07.Coding_101_Exam___26_March_2016___Zelenchukova_Borsa.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\07. Coding 101 Exam - 26 March 2016 - Zelenchukova Borsa\obj\Debug\_07.Coding_101_Exam___26_March_2016___Zelenchukova_Borsa.pdb

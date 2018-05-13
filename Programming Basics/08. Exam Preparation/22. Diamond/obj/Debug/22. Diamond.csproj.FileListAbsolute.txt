@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\22. Diamond\bin\Debug\_22.Diamond.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\22. Diamond\bin\Debug\_22.Diamond.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\22. Diamond\bin\Debug\_22.Diamond.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\22. Diamond\obj\Debug\22. Diamond.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\22. Diamond\obj\Debug\_22.Diamond.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\22. Diamond\obj\Debug\_22.Diamond.pdb

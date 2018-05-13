@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\76 . Triugalnik\bin\Debug\_76.Triugalnik.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\76 . Triugalnik\bin\Debug\_76.Triugalnik.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\76 . Triugalnik\bin\Debug\_76.Triugalnik.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\76 . Triugalnik\obj\Debug\76 . Triugalnik.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\76 . Triugalnik\obj\Debug\_76.Triugalnik.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\76 . Triugalnik\obj\Debug\_76.Triugalnik.pdb

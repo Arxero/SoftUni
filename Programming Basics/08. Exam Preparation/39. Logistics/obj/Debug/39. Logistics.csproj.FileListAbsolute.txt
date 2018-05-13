@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\39. Logistics\bin\Debug\_39.Logistics.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\39. Logistics\bin\Debug\_39.Logistics.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\39. Logistics\bin\Debug\_39.Logistics.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\39. Logistics\obj\Debug\39. Logistics.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\39. Logistics\obj\Debug\_39.Logistics.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\39. Logistics\obj\Debug\_39.Logistics.pdb

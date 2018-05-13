@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\33. SoftUni Camp\bin\Debug\_33.SoftUni_Camp.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\33. SoftUni Camp\bin\Debug\_33.SoftUni_Camp.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\33. SoftUni Camp\bin\Debug\_33.SoftUni_Camp.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\33. SoftUni Camp\obj\Debug\33. SoftUni Camp.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\33. SoftUni Camp\obj\Debug\_33.SoftUni_Camp.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\33. SoftUni Camp\obj\Debug\_33.SoftUni_Camp.pdb

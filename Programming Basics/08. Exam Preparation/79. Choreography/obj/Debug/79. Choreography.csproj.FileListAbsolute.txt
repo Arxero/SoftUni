@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\79. Choreography\bin\Debug\_79.Choreography.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\79. Choreography\bin\Debug\_79.Choreography.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\79. Choreography\bin\Debug\_79.Choreography.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\79. Choreography\obj\Debug\79. Choreography.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\79. Choreography\obj\Debug\_79.Choreography.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\79. Choreography\obj\Debug\_79.Choreography.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\47. Letters Combinations\bin\Debug\_47.Letters_Combinations.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\47. Letters Combinations\bin\Debug\_47.Letters_Combinations.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\47. Letters Combinations\bin\Debug\_47.Letters_Combinations.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\47. Letters Combinations\obj\Debug\47. Letters Combinations.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\47. Letters Combinations\obj\Debug\47. Letters Combinations.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\47. Letters Combinations\obj\Debug\_47.Letters_Combinations.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\47. Letters Combinations\obj\Debug\_47.Letters_Combinations.pdb

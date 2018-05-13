@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\20. Harvest\bin\Debug\_20.Harvest.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\20. Harvest\bin\Debug\_20.Harvest.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\20. Harvest\bin\Debug\_20.Harvest.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\20. Harvest\obj\Debug\20. Harvest.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\20. Harvest\obj\Debug\_20.Harvest.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\20. Harvest\obj\Debug\_20.Harvest.pdb

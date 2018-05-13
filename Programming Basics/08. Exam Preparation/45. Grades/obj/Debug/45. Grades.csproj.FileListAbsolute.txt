@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\45. Grades\bin\Debug\_45.Grades.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\45. Grades\bin\Debug\_45.Grades.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\45. Grades\bin\Debug\_45.Grades.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\45. Grades\obj\Debug\45. Grades.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\45. Grades\obj\Debug\_45.Grades.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\45. Grades\obj\Debug\_45.Grades.pdb

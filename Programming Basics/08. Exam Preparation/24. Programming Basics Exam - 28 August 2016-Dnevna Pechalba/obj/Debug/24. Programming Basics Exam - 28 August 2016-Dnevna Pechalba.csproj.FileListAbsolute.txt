@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\24. Programming Basics Exam - 28 August 2016-Dnevna Pechalba\bin\Debug\_24.Programming_Basics_Exam___28_August_2016_Dnevna_Pechalba.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\24. Programming Basics Exam - 28 August 2016-Dnevna Pechalba\bin\Debug\_24.Programming_Basics_Exam___28_August_2016_Dnevna_Pechalba.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\24. Programming Basics Exam - 28 August 2016-Dnevna Pechalba\bin\Debug\_24.Programming_Basics_Exam___28_August_2016_Dnevna_Pechalba.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\24. Programming Basics Exam - 28 August 2016-Dnevna Pechalba\obj\Debug\24. Programming Basics Exam - 28 August 2016-Dnevna Pechalba.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\24. Programming Basics Exam - 28 August 2016-Dnevna Pechalba\obj\Debug\_24.Programming_Basics_Exam___28_August_2016_Dnevna_Pechalba.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\24. Programming Basics Exam - 28 August 2016-Dnevna Pechalba\obj\Debug\_24.Programming_Basics_Exam___28_August_2016_Dnevna_Pechalba.pdb

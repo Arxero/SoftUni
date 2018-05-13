@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\17. Stop\bin\Debug\_17.Stop.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\17. Stop\bin\Debug\_17.Stop.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\17. Stop\bin\Debug\_17.Stop.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\17. Stop\obj\Debug\17. Stop.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\17. Stop\obj\Debug\17. Stop.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\17. Stop\obj\Debug\_17.Stop.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\17. Stop\obj\Debug\_17.Stop.pdb

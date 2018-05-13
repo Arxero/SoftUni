@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\14. Pospalivata kotka Tom\bin\Debug\_14.Pospalivata_kotka_Tom.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\14. Pospalivata kotka Tom\bin\Debug\_14.Pospalivata_kotka_Tom.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\14. Pospalivata kotka Tom\bin\Debug\_14.Pospalivata_kotka_Tom.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\14. Pospalivata kotka Tom\obj\Debug\14. Pospalivata kotka Tom.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\14. Pospalivata kotka Tom\obj\Debug\_14.Pospalivata_kotka_Tom.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\14. Pospalivata kotka Tom\obj\Debug\_14.Pospalivata_kotka_Tom.pdb

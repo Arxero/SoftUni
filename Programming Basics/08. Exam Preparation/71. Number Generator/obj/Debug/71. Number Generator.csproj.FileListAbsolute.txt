@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\71. Number Generator\bin\Debug\_71.Number_Generator.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\71. Number Generator\bin\Debug\_71.Number_Generator.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\71. Number Generator\bin\Debug\_71.Number_Generator.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\71. Number Generator\obj\Debug\71. Number Generator.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\71. Number Generator\obj\Debug\_71.Number_Generator.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\71. Number Generator\obj\Debug\_71.Number_Generator.pdb

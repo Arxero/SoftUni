@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\31. Pets\bin\Debug\_31.Pets.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\31. Pets\bin\Debug\_31.Pets.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\31. Pets\bin\Debug\_31.Pets.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\31. Pets\obj\Debug\31. Pets.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\31. Pets\obj\Debug\31. Pets.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\31. Pets\obj\Debug\_31.Pets.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\31. Pets\obj\Debug\_31.Pets.pdb

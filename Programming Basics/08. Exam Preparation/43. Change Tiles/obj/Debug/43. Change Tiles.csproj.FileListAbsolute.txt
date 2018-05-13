@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\43. Change Tiles\bin\Debug\_43.Change_Tiles.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\43. Change Tiles\bin\Debug\_43.Change_Tiles.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\43. Change Tiles\bin\Debug\_43.Change_Tiles.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\43. Change Tiles\obj\Debug\43. Change Tiles.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\43. Change Tiles\obj\Debug\_43.Change_Tiles.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\43. Change Tiles\obj\Debug\_43.Change_Tiles.pdb

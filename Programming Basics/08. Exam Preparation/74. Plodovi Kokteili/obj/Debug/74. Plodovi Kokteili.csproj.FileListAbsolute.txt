@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\74. Plodovi Kokteili\bin\Debug\_74.Plodovi_Kokteili.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\74. Plodovi Kokteili\bin\Debug\_74.Plodovi_Kokteili.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\74. Plodovi Kokteili\bin\Debug\_74.Plodovi_Kokteili.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\74. Plodovi Kokteili\obj\Debug\74. Plodovi Kokteili.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\74. Plodovi Kokteili\obj\Debug\_74.Plodovi_Kokteili.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\74. Plodovi Kokteili\obj\Debug\_74.Plodovi_Kokteili.pdb

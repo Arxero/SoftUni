@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\02. Transport Price\bin\Debug\_02.Transport_Price.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\02. Transport Price\bin\Debug\_02.Transport_Price.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\02. Transport Price\bin\Debug\_02.Transport_Price.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\02. Transport Price\obj\Debug\_02.Transport_Price.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\02. Transport Price\obj\Debug\_02.Transport_Price.pdb

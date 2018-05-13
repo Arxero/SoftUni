@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\63. Bills\bin\Debug\_63.Bills.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\63. Bills\bin\Debug\_63.Bills.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\63. Bills\bin\Debug\_63.Bills.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\63. Bills\obj\Debug\63. Bills.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\63. Bills\obj\Debug\63. Bills.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\63. Bills\obj\Debug\_63.Bills.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\63. Bills\obj\Debug\_63.Bills.pdb

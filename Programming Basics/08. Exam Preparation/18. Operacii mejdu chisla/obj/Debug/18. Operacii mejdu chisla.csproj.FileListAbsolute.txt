@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\18. Operacii mejdu chisla\bin\Debug\_18.Operacii_mejdu_chisla.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\18. Operacii mejdu chisla\bin\Debug\_18.Operacii_mejdu_chisla.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\18. Operacii mejdu chisla\bin\Debug\_18.Operacii_mejdu_chisla.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\18. Operacii mejdu chisla\obj\Debug\18. Operacii mejdu chisla.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\18. Operacii mejdu chisla\obj\Debug\18. Operacii mejdu chisla.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\18. Operacii mejdu chisla\obj\Debug\_18.Operacii_mejdu_chisla.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\18. Operacii mejdu chisla\obj\Debug\_18.Operacii_mejdu_chisla.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\40. Rocket\bin\Debug\_40.Rocket.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\40. Rocket\bin\Debug\_40.Rocket.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\40. Rocket\bin\Debug\_40.Rocket.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\40. Rocket\obj\Debug\40. Rocket.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\40. Rocket\obj\Debug\40. Rocket.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\40. Rocket\obj\Debug\_40.Rocket.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\40. Rocket\obj\Debug\_40.Rocket.pdb

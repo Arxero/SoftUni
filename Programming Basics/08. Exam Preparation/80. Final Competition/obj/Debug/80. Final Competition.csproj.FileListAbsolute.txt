@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\80. Final Competition\bin\Debug\_80.Final_Competition.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\80. Final Competition\bin\Debug\_80.Final_Competition.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\80. Final Competition\bin\Debug\_80.Final_Competition.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\80. Final Competition\obj\Debug\80. Final Competition.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\80. Final Competition\obj\Debug\_80.Final_Competition.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\80. Final Competition\obj\Debug\_80.Final_Competition.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\28. Bradva\bin\Debug\_28.Bradva.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\28. Bradva\bin\Debug\_28.Bradva.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\28. Bradva\bin\Debug\_28.Bradva.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\28. Bradva\obj\Debug\28. Bradva.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\28. Bradva\obj\Debug\28. Bradva.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\28. Bradva\obj\Debug\_28.Bradva.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\28. Bradva\obj\Debug\_28.Bradva.pdb

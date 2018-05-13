@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\73. Svetoven Record po Pluvane\bin\Debug\_73.Svetoven_Record_po_Pluvane.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\73. Svetoven Record po Pluvane\bin\Debug\_73.Svetoven_Record_po_Pluvane.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\73. Svetoven Record po Pluvane\bin\Debug\_73.Svetoven_Record_po_Pluvane.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\73. Svetoven Record po Pluvane\obj\Debug\73. Svetoven Record po Pluvane.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\73. Svetoven Record po Pluvane\obj\Debug\_73.Svetoven_Record_po_Pluvane.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\73. Svetoven Record po Pluvane\obj\Debug\_73.Svetoven_Record_po_Pluvane.pdb

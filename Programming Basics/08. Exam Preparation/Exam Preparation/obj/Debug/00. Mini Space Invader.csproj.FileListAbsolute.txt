@@ -1,0 +1,4 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\Exam Preparation\obj\Debug\00. Mini Space Invader.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\Exam Preparation\obj\Debug\00. Mini Space Invader.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\Exam Preparation\obj\Debug\Exam Preparation.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\Exam Preparation\obj\Debug\Exam Preparation.pdb

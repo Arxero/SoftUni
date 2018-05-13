@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\46. Christmas Hat\bin\Debug\_46.Christmas_Hat.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\46. Christmas Hat\bin\Debug\_46.Christmas_Hat.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\46. Christmas Hat\bin\Debug\_46.Christmas_Hat.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\46. Christmas Hat\obj\Debug\46. Christmas Hat.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\46. Christmas Hat\obj\Debug\_46.Christmas_Hat.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\46. Christmas Hat\obj\Debug\_46.Christmas_Hat.pdb

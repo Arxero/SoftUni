@@ -1,0 +1,5 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\10. Delenie bez Ostatuk\bin\Debug\_10.Delenie_bez_Ostatuk.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\10. Delenie bez Ostatuk\bin\Debug\_10.Delenie_bez_Ostatuk.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\10. Delenie bez Ostatuk\bin\Debug\_10.Delenie_bez_Ostatuk.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\10. Delenie bez Ostatuk\obj\Debug\_10.Delenie_bez_Ostatuk.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\10. Delenie bez Ostatuk\obj\Debug\_10.Delenie_bez_Ostatuk.pdb

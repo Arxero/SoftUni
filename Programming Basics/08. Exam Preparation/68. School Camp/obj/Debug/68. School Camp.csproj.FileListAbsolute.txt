@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\68. School Camp\bin\Debug\_68.School_Camp.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\68. School Camp\bin\Debug\_68.School_Camp.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\68. School Camp\bin\Debug\_68.School_Camp.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\68. School Camp\obj\Debug\68. School Camp.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\68. School Camp\obj\Debug\68. School Camp.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\68. School Camp\obj\Debug\_68.School_Camp.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\68. School Camp\obj\Debug\_68.School_Camp.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\64. Parallelepiped\bin\Debug\_64.Parallelepiped.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\64. Parallelepiped\bin\Debug\_64.Parallelepiped.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\64. Parallelepiped\bin\Debug\_64.Parallelepiped.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\64. Parallelepiped\obj\Debug\64. Parallelepiped.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\64. Parallelepiped\obj\Debug\64. Parallelepiped.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\64. Parallelepiped\obj\Debug\_64.Parallelepiped.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\64. Parallelepiped\obj\Debug\_64.Parallelepiped.pdb

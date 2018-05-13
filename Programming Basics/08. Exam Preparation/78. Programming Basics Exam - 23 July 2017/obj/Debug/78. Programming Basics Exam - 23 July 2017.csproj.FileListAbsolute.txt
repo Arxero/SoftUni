@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\78. Programming Basics Exam - 23 July 2017\bin\Debug\_78.Programming_Basics_Exam___23_July_2017.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\78. Programming Basics Exam - 23 July 2017\bin\Debug\_78.Programming_Basics_Exam___23_July_2017.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\78. Programming Basics Exam - 23 July 2017\bin\Debug\_78.Programming_Basics_Exam___23_July_2017.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\78. Programming Basics Exam - 23 July 2017\obj\Debug\78. Programming Basics Exam - 23 July 2017.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\78. Programming Basics Exam - 23 July 2017\obj\Debug\78. Programming Basics Exam - 23 July 2017.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\78. Programming Basics Exam - 23 July 2017\obj\Debug\_78.Programming_Basics_Exam___23_July_2017.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\78. Programming Basics Exam - 23 July 2017\obj\Debug\_78.Programming_Basics_Exam___23_July_2017.pdb

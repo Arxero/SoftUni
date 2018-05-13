@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\01. Exam - 6 March 2016 01. Training Lab\obj\Debug\01. Exam - 6 March 2016 01. Training Lab.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\01. Exam - 6 March 2016 01. Training Lab\bin\Debug\_01.Exam___6_March_2016_01.Training_Lab.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\01. Exam - 6 March 2016 01. Training Lab\bin\Debug\_01.Exam___6_March_2016_01.Training_Lab.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\01. Exam - 6 March 2016 01. Training Lab\bin\Debug\_01.Exam___6_March_2016_01.Training_Lab.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\01. Exam - 6 March 2016 01. Training Lab\obj\Debug\_01.Exam___6_March_2016_01.Training_Lab.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\01. Exam - 6 March 2016 01. Training Lab\obj\Debug\_01.Exam___6_March_2016_01.Training_Lab.pdb

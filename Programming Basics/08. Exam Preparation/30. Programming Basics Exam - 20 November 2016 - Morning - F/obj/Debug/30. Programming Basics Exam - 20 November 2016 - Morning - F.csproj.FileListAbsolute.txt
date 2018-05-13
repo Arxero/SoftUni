@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\30. Programming Basics Exam - 20 November 2016 - Morning - F\bin\Debug\_30.Programming_Basics_Exam___20_November_2016___Morning___F.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\30. Programming Basics Exam - 20 November 2016 - Morning - F\bin\Debug\_30.Programming_Basics_Exam___20_November_2016___Morning___F.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\30. Programming Basics Exam - 20 November 2016 - Morning - F\bin\Debug\_30.Programming_Basics_Exam___20_November_2016___Morning___F.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\30. Programming Basics Exam - 20 November 2016 - Morning - F\obj\Debug\30. Programming Basics Exam - 20 November 2016 - Morning - F.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\30. Programming Basics Exam - 20 November 2016 - Morning - F\obj\Debug\30. Programming Basics Exam - 20 November 2016 - Morning - F.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\30. Programming Basics Exam - 20 November 2016 - Morning - F\obj\Debug\_30.Programming_Basics_Exam___20_November_2016___Morning___F.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\30. Programming Basics Exam - 20 November 2016 - Morning - F\obj\Debug\_30.Programming_Basics_Exam___20_November_2016___Morning___F.pdb

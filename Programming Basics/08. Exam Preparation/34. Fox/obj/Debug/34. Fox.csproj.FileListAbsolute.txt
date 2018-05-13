@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\34. Fox\bin\Debug\_34.Fox.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\34. Fox\bin\Debug\_34.Fox.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\34. Fox\bin\Debug\_34.Fox.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\34. Fox\obj\Debug\34. Fox.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\34. Fox\obj\Debug\_34.Fox.exe
+C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\34. Fox\obj\Debug\_34.Fox.pdb
