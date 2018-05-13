@@ -1,7 +1,0 @@
-C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\36. Programming Basics Exam - 20 November 2016 - Evening - H\bin\Debug\_36.Programming_Basics_Exam___20_November_2016___Evening___H.exe.config
-C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\36. Programming Basics Exam - 20 November 2016 - Evening - H\bin\Debug\_36.Programming_Basics_Exam___20_November_2016___Evening___H.exe
-C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\36. Programming Basics Exam - 20 November 2016 - Evening - H\bin\Debug\_36.Programming_Basics_Exam___20_November_2016___Evening___H.pdb
-C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\36. Programming Basics Exam - 20 November 2016 - Evening - H\obj\Debug\36. Programming Basics Exam - 20 November 2016 - Evening - H.csprojResolveAssemblyReference.cache
-C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\36. Programming Basics Exam - 20 November 2016 - Evening - H\obj\Debug\36. Programming Basics Exam - 20 November 2016 - Evening - H.csproj.CoreCompileInputs.cache
-C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\36. Programming Basics Exam - 20 November 2016 - Evening - H\obj\Debug\_36.Programming_Basics_Exam___20_November_2016___Evening___H.exe
-C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\36. Programming Basics Exam - 20 November 2016 - Evening - H\obj\Debug\_36.Programming_Basics_Exam___20_November_2016___Evening___H.pdb

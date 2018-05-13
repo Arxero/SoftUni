@@ -1,7 +1,0 @@
-C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\60. Programming Basics Exam - 19 March 2017 - Evening\bin\Debug\_60.Programming_Basics_Exam___19_March_2017___Evening.exe.config
-C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\60. Programming Basics Exam - 19 March 2017 - Evening\bin\Debug\_60.Programming_Basics_Exam___19_March_2017___Evening.exe
-C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\60. Programming Basics Exam - 19 March 2017 - Evening\bin\Debug\_60.Programming_Basics_Exam___19_March_2017___Evening.pdb
-C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\60. Programming Basics Exam - 19 March 2017 - Evening\obj\Debug\60. Programming Basics Exam - 19 March 2017 - Evening.csprojResolveAssemblyReference.cache
-C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\60. Programming Basics Exam - 19 March 2017 - Evening\obj\Debug\60. Programming Basics Exam - 19 March 2017 - Evening.csproj.CoreCompileInputs.cache
-C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\60. Programming Basics Exam - 19 March 2017 - Evening\obj\Debug\_60.Programming_Basics_Exam___19_March_2017___Evening.exe
-C:\Users\Maverick\OneDrive\C# Projects\Exam Preparation\60. Programming Basics Exam - 19 March 2017 - Evening\obj\Debug\_60.Programming_Basics_Exam___19_March_2017___Evening.pdb
