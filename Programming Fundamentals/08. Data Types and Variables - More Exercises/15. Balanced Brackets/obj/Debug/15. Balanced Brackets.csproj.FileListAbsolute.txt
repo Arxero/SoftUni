@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\_15.Balanced_Brackets.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\_15.Balanced_Brackets.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\_15.Balanced_Brackets.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\15. Balanced Brackets.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\_15.Balanced_Brackets.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\_15.Balanced_Brackets.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\06. Catch the Thief\bin\Debug\_06.Catch_the_Thief.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\06. Catch the Thief\bin\Debug\_06.Catch_the_Thief.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\06. Catch the Thief\bin\Debug\_06.Catch_the_Thief.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\06. Catch the Thief.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\06. Catch the Thief.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\_06.Catch_the_Thief.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\06. Catch the Thief\obj\Debug\_06.Catch_the_Thief.pdb

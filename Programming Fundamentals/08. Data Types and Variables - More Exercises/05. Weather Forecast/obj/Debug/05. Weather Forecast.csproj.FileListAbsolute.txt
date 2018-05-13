@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\05. Weather Forecast\obj\Debug\05. Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\05. Weather Forecast\obj\Debug\_05.Weather_Forecast.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\05. Weather Forecast\obj\Debug\_05.Weather_Forecast.pdb

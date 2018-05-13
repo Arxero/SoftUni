@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\04. Tourist Information\bin\Debug\_04.Tourist_Information.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\04. Tourist Information\bin\Debug\_04.Tourist_Information.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\04. Tourist Information\bin\Debug\_04.Tourist_Information.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\04. Tourist Information\obj\Debug\04. Tourist Information.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\04. Tourist Information\obj\Debug\_04.Tourist_Information.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - More Exercises\04. Tourist Information\obj\Debug\_04.Tourist_Information.pdb
