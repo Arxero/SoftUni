@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\27. Use Your Chains, Buddy\bin\Debug\_27.Use_Your_Chains__Buddy.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\27. Use Your Chains, Buddy\bin\Debug\_27.Use_Your_Chains__Buddy.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\27. Use Your Chains, Buddy\bin\Debug\_27.Use_Your_Chains__Buddy.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\27. Use Your Chains, Buddy\obj\Debug\27. Use Your Chains, Buddy +.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\27. Use Your Chains, Buddy\obj\Debug\_27.Use_Your_Chains__Buddy.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\27. Use Your Chains, Buddy\obj\Debug\_27.Use_Your_Chains__Buddy.pdb

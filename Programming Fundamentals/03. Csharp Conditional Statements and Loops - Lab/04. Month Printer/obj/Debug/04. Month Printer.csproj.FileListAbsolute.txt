@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\04. Month Printer\bin\Debug\_04.Month_Printer.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\04. Month Printer\bin\Debug\_04.Month_Printer.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\04. Month Printer\bin\Debug\_04.Month_Printer.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\04. Month Printer\obj\Debug\04. Month Printer.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\04. Month Printer\obj\Debug\04. Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\04. Month Printer\obj\Debug\_04.Month_Printer.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\04. Month Printer\obj\Debug\_04.Month_Printer.pdb

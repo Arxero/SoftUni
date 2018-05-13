@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Lab\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Lab\05. Rounding Numbers\obj\Debug\05. Rounding Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Lab\05. Rounding Numbers\obj\Debug\05. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Lab\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Lab\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.pdb

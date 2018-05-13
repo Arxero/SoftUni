@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\03. Text Filter\bin\Debug\_03.Text_Filter.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\03. Text Filter\bin\Debug\_03.Text_Filter.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\03. Text Filter\bin\Debug\_03.Text_Filter.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\03. Text Filter\obj\Debug\03. Text Filter.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\03. Text Filter\obj\Debug\03. Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\03. Text Filter\obj\Debug\_03.Text_Filter.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\03. Text Filter\obj\Debug\_03.Text_Filter.pdb

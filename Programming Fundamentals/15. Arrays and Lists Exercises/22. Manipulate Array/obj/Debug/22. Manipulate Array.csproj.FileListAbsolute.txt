@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\22. Manipulate Array\bin\Debug\_22.Manipulate_Array.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\22. Manipulate Array\bin\Debug\_22.Manipulate_Array.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\22. Manipulate Array\bin\Debug\_22.Manipulate_Array.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\22. Manipulate Array\obj\Debug\22. Manipulate Array.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\22. Manipulate Array\obj\Debug\_22.Manipulate_Array.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\22. Manipulate Array\obj\Debug\_22.Manipulate_Array.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\22. Manipulate Array\obj\Debug\22. Manipulate Array.csprojResolveAssemblyReference.cache

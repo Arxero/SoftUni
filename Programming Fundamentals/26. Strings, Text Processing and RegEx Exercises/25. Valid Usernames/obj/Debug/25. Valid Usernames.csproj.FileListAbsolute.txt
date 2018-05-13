@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\25. Valid Usernames\bin\Debug\_25.Valid_Usernames.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\25. Valid Usernames\bin\Debug\_25.Valid_Usernames.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\25. Valid Usernames\bin\Debug\_25.Valid_Usernames.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\25. Valid Usernames\obj\Debug\25. Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\25. Valid Usernames\obj\Debug\_25.Valid_Usernames.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\25. Valid Usernames\obj\Debug\_25.Valid_Usernames.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\40. Longest Increasing Subsequence\bin\Debug\_40.Longest_Increasing_Subsequence.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\40. Longest Increasing Subsequence\bin\Debug\_40.Longest_Increasing_Subsequence.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\40. Longest Increasing Subsequence\bin\Debug\_40.Longest_Increasing_Subsequence.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\40. Longest Increasing Subsequence\obj\Debug\40. Longest Increasing Subsequence.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\40. Longest Increasing Subsequence\obj\Debug\_40.Longest_Increasing_Subsequence.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\40. Longest Increasing Subsequence\obj\Debug\_40.Longest_Increasing_Subsequence.pdb

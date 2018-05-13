@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\09. Multiply Evens by Odds\bin\Debug\_09.Multiply_Evens_by_Odds.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\09. Multiply Evens by Odds\bin\Debug\_09.Multiply_Evens_by_Odds.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\09. Multiply Evens by Odds\bin\Debug\_09.Multiply_Evens_by_Odds.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\09. Multiply Evens by Odds\obj\Debug\09. Multiply Evens by Odds.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\09. Multiply Evens by Odds\obj\Debug\09. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\09. Multiply Evens by Odds\obj\Debug\_09.Multiply_Evens_by_Odds.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\09. Multiply Evens by Odds\obj\Debug\_09.Multiply_Evens_by_Odds.pdb

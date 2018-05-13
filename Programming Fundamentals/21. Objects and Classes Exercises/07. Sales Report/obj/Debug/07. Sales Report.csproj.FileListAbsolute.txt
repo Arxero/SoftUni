@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\07. Sales Report\bin\Debug\_07.Sales_Report.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\07. Sales Report\bin\Debug\_07.Sales_Report.exe
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\07. Sales Report\bin\Debug\_07.Sales_Report.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\07. Sales Report\obj\Debug\07. Sales Report.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\07. Sales Report\obj\Debug\07. Sales Report.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\07. Sales Report\obj\Debug\_07.Sales_Report.exe
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\07. Sales Report\obj\Debug\_07.Sales_Report.pdb

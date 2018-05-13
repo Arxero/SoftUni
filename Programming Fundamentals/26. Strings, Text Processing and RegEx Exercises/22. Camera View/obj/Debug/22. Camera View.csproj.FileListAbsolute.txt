@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\22. Camera View\bin\Debug\_22.Camera_View.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\22. Camera View\bin\Debug\_22.Camera_View.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\22. Camera View\bin\Debug\_22.Camera_View.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\22. Camera View\obj\Debug\22. Camera View.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\22. Camera View\obj\Debug\_22.Camera_View.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\22. Camera View\obj\Debug\_22.Camera_View.pdb

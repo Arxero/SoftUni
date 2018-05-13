@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\15. Legendary Farming\bin\Debug\_15.Legendary_Farming.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\15. Legendary Farming\bin\Debug\_15.Legendary_Farming.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\15. Legendary Farming\bin\Debug\_15.Legendary_Farming.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\15. Legendary Farming\obj\Debug\15. Legendary Farming.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\15. Legendary Farming\obj\Debug\15. Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\15. Legendary Farming\obj\Debug\_15.Legendary_Farming.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\15. Legendary Farming\obj\Debug\_15.Legendary_Farming.pdb

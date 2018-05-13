@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\05. Sort Numbers\obj\Debug\05. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.pdb

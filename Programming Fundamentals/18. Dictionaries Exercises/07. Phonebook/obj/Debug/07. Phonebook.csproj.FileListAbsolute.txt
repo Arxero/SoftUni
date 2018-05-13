@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\07. Phonebook\bin\Debug\_07.Phonebook.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\07. Phonebook\bin\Debug\_07.Phonebook.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\07. Phonebook\bin\Debug\_07.Phonebook.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\07. Phonebook\obj\Debug\07. Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\07. Phonebook\obj\Debug\_07.Phonebook.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\07. Phonebook\obj\Debug\_07.Phonebook.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\07. Phonebook\obj\Debug\07. Phonebook.csprojResolveAssemblyReference.cache

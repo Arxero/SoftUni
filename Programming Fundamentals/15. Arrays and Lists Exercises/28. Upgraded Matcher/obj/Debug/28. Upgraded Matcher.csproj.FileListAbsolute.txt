@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\28. Upgraded Matcher\bin\Debug\_28.Upgraded_Matcher.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\28. Upgraded Matcher\bin\Debug\_28.Upgraded_Matcher.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\28. Upgraded Matcher\bin\Debug\_28.Upgraded_Matcher.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\28. Upgraded Matcher\obj\Debug\28. Upgraded Matcher.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\28. Upgraded Matcher\obj\Debug\28. Upgraded Matcher.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\28. Upgraded Matcher\obj\Debug\_28.Upgraded_Matcher.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\28. Upgraded Matcher\obj\Debug\_28.Upgraded_Matcher.pdb

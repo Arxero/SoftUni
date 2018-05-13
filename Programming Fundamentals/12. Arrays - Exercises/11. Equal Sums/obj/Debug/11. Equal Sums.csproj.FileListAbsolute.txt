@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Exercises\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Exercises\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Exercises\11. Equal Sums\bin\Debug\_11.Equal_Sums.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Exercises\11. Equal Sums\obj\Debug\11. Equal Sums.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Exercises\11. Equal Sums\obj\Debug\11. Equal Sums.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Exercises\11. Equal Sums\obj\Debug\_11.Equal_Sums.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Exercises\11. Equal Sums\obj\Debug\_11.Equal_Sums.pdb

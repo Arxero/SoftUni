@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\36. Count Numbers\bin\Debug\_36.Count_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\36. Count Numbers\bin\Debug\_36.Count_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\36. Count Numbers\bin\Debug\_36.Count_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\36. Count Numbers\obj\Debug\36. Count Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\36. Count Numbers\obj\Debug\_36.Count_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\36. Count Numbers\obj\Debug\_36.Count_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\36. Count Numbers\obj\Debug\36. Count Numbers.csprojResolveAssemblyReference.cache

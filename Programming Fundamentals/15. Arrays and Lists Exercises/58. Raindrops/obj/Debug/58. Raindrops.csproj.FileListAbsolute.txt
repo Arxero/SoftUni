@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\58. Raindrops\bin\Debug\_58.Raindrops.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\58. Raindrops\bin\Debug\_58.Raindrops.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\58. Raindrops\bin\Debug\_58.Raindrops.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\58. Raindrops\obj\Debug\58. Raindrops.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\58. Raindrops\obj\Debug\58. Raindrops.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\58. Raindrops\obj\Debug\_58.Raindrops.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\58. Raindrops\obj\Debug\_58.Raindrops.pdb

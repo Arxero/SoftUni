@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\02. Passed or Failed\bin\Debug\_02.Passed_or_Failed.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\02. Passed or Failed\bin\Debug\_02.Passed_or_Failed.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\02. Passed or Failed\bin\Debug\_02.Passed_or_Failed.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\02. Passed or Failed\obj\Debug\02. Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\02. Passed or Failed\obj\Debug\_02.Passed_or_Failed.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\02. Passed or Failed\obj\Debug\_02.Passed_or_Failed.pdb

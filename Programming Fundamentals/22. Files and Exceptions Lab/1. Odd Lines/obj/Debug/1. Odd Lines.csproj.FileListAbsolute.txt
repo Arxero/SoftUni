@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Files and Exceptions\1. Odd Lines\bin\Debug\_1.Odd_Lines.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Files and Exceptions\1. Odd Lines\bin\Debug\_1.Odd_Lines.exe
+C:\Users\Maverick\OneDrive\C# Projects\Files and Exceptions\1. Odd Lines\bin\Debug\_1.Odd_Lines.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Files and Exceptions\1. Odd Lines\obj\Debug\1. Odd Lines.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Files and Exceptions\1. Odd Lines\obj\Debug\1. Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Files and Exceptions\1. Odd Lines\obj\Debug\_1.Odd_Lines.exe
+C:\Users\Maverick\OneDrive\C# Projects\Files and Exceptions\1. Odd Lines\obj\Debug\_1.Odd_Lines.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\30. Hornet Armada\bin\Debug\_30.Hornet_Armada.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\30. Hornet Armada\bin\Debug\_30.Hornet_Armada.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\30. Hornet Armada\bin\Debug\_30.Hornet_Armada.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\30. Hornet Armada\obj\Debug\30. Hornet Armada.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\30. Hornet Armada\obj\Debug\30. Hornet Armada.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\30. Hornet Armada\obj\Debug\_30.Hornet_Armada.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\30. Hornet Armada\obj\Debug\_30.Hornet_Armada.pdb

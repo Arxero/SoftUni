@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\12. User Logs\bin\Debug\_12.User_Logs.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\12. User Logs\bin\Debug\_12.User_Logs.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\12. User Logs\bin\Debug\_12.User_Logs.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\12. User Logs\obj\Debug\12. User Logs.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\12. User Logs\obj\Debug\12. User Logs.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\12. User Logs\obj\Debug\_12.User_Logs.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\12. User Logs\obj\Debug\_12.User_Logs.pdb

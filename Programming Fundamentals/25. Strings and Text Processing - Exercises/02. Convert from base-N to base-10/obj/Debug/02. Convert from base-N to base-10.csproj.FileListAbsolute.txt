@@ -1,0 +1,6 @@
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.exe.config
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.exe
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.pdb
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\02. Convert from base-N to base-10\obj\Debug\02. Convert from base-N to base-10.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\02. Convert from base-N to base-10\obj\Debug\_02.Convert_from_base_N_to_base_10.exe
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\02. Convert from base-N to base-10\obj\Debug\_02.Convert_from_base_N_to_base_10.pdb

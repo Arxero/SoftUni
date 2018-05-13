@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\19. Odd Filter\bin\Debug\_19.Odd_Filter.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\19. Odd Filter\bin\Debug\_19.Odd_Filter.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\19. Odd Filter\bin\Debug\_19.Odd_Filter.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\19. Odd Filter\obj\Debug\19. Odd Filter.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\19. Odd Filter\obj\Debug\_19.Odd_Filter.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\19. Odd Filter\obj\Debug\_19.Odd_Filter.pdb

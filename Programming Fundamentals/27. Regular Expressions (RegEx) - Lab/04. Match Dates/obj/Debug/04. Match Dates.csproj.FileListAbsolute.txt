@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\04. Match Dates\bin\Debug\_04.Match_Dates.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\04. Match Dates\bin\Debug\_04.Match_Dates.exe
+C:\Users\Maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\04. Match Dates\bin\Debug\_04.Match_Dates.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\04. Match Dates\obj\Debug\04. Match Dates.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\04. Match Dates\obj\Debug\04. Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\04. Match Dates\obj\Debug\_04.Match_Dates.exe
+C:\Users\Maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\04. Match Dates\obj\Debug\_04.Match_Dates.pdb

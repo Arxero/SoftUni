@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\38. Trainegram\bin\Debug\_38.Trainegram.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\38. Trainegram\bin\Debug\_38.Trainegram.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\38. Trainegram\bin\Debug\_38.Trainegram.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\38. Trainegram\obj\Debug\38. Trainegram.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\38. Trainegram\obj\Debug\_38.Trainegram.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\38. Trainegram\obj\Debug\_38.Trainegram.pdb

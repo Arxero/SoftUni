@@ -1,0 +1,6 @@
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\07. Multiply big number\bin\Debug\_07.Multiply_big_number.exe.config
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\07. Multiply big number\bin\Debug\_07.Multiply_big_number.exe
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\07. Multiply big number\bin\Debug\_07.Multiply_big_number.pdb
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\07. Multiply big number\obj\Debug\07. Multiply big number.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\07. Multiply big number\obj\Debug\_07.Multiply_big_number.exe
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\07. Multiply big number\obj\Debug\_07.Multiply_big_number.pdb

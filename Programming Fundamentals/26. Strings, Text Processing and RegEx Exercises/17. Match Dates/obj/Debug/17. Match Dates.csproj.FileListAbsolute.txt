@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\17. Match Dates\bin\Debug\_17.Match_Dates.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\17. Match Dates\bin\Debug\_17.Match_Dates.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\17. Match Dates\bin\Debug\_17.Match_Dates.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\17. Match Dates\obj\Debug\17. Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\17. Match Dates\obj\Debug\_17.Match_Dates.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\17. Match Dates\obj\Debug\_17.Match_Dates.pdb

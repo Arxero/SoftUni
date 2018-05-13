@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Lab\03. Employee Data\bin\Debug\_03.Employee_Data.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Lab\03. Employee Data\bin\Debug\_03.Employee_Data.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Lab\03. Employee Data\bin\Debug\_03.Employee_Data.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Lab\03. Employee Data\obj\Debug\03. Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Lab\03. Employee Data\obj\Debug\_03.Employee_Data.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Lab\03. Employee Data\obj\Debug\_03.Employee_Data.pdb

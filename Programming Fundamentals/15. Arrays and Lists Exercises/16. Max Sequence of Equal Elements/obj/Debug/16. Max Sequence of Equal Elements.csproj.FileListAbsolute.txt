@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\16. Max Sequence of Equal Elements\bin\Debug\_16.Max_Sequence_of_Equal_Elements.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\16. Max Sequence of Equal Elements\bin\Debug\_16.Max_Sequence_of_Equal_Elements.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\16. Max Sequence of Equal Elements\bin\Debug\_16.Max_Sequence_of_Equal_Elements.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\16. Max Sequence of Equal Elements\obj\Debug\16. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\16. Max Sequence of Equal Elements\obj\Debug\16. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\16. Max Sequence of Equal Elements\obj\Debug\_16.Max_Sequence_of_Equal_Elements.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\16. Max Sequence of Equal Elements\obj\Debug\_16.Max_Sequence_of_Equal_Elements.pdb

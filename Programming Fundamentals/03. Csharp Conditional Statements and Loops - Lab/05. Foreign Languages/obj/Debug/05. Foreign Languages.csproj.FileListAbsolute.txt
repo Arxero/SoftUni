@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\05. Foreign Languages\bin\Debug\_05.Foreign_Languages.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\05. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\_05.Foreign_Languages.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\05. Foreign Languages\obj\Debug\_05.Foreign_Languages.pdb

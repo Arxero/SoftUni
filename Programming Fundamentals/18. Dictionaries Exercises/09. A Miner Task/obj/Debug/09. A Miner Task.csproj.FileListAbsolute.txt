@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\09. A Miner Task\bin\Debug\_09.A_Miner_Task.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\09. A Miner Task\bin\Debug\_09.A_Miner_Task.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\09. A Miner Task\bin\Debug\_09.A_Miner_Task.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\09. A Miner Task\obj\Debug\09. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\09. A Miner Task\obj\Debug\_09.A_Miner_Task.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\09. A Miner Task\obj\Debug\_09.A_Miner_Task.pdb

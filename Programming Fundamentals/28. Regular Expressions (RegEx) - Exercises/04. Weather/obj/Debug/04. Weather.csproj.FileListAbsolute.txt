@@ -1,0 +1,7 @@
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\04. Weather\bin\Debug\_04.Weather.exe.config
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\04. Weather\bin\Debug\_04.Weather.exe
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\04. Weather\bin\Debug\_04.Weather.pdb
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\04. Weather\obj\Debug\04. Weather.csprojResolveAssemblyReference.cache
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\04. Weather\obj\Debug\04. Weather.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\04. Weather\obj\Debug\_04.Weather.exe
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\04. Weather\obj\Debug\_04.Weather.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\36. Anonymous Cache\bin\Debug\_36.Anonymous_Cache.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\36. Anonymous Cache\bin\Debug\_36.Anonymous_Cache.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\36. Anonymous Cache\bin\Debug\_36.Anonymous_Cache.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\36. Anonymous Cache\obj\Debug\36. Anonymous Cache.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\36. Anonymous Cache\obj\Debug\36. Anonymous Cache.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\36. Anonymous Cache\obj\Debug\_36.Anonymous_Cache.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\36. Anonymous Cache\obj\Debug\_36.Anonymous_Cache.pdb

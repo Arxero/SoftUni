@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\07. Count Numbers\obj\Debug\07. Count Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\07. Count Numbers\obj\Debug\_07.Count_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\07. Count Numbers\obj\Debug\_07.Count_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\07. Count Numbers\obj\Debug\07. Count Numbers.csprojResolveAssemblyReference.cache

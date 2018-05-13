@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\39. Search for a Number\bin\Debug\_39.Search_for_a_Number.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\39. Search for a Number\bin\Debug\_39.Search_for_a_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\39. Search for a Number\bin\Debug\_39.Search_for_a_Number.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\39. Search for a Number\obj\Debug\39. Search for a Number.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\39. Search for a Number\obj\Debug\39. Search for a Number.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\39. Search for a Number\obj\Debug\_39.Search_for_a_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\39. Search for a Number\obj\Debug\_39.Search_for_a_Number.pdb

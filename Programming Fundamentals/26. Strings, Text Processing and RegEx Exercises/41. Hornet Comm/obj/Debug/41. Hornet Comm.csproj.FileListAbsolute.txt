@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\41. Hornet Comm\obj\Debug\41. Hornet Comm.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\41. Hornet Comm\obj\Debug\41. Hornet Comm.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\41. Hornet Comm\obj\Debug\_41.Hornet_Comm.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\41. Hornet Comm\obj\Debug\_41.Hornet_Comm.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\41. Hornet Comm\bin\Debug\_41.Hornet_Comm.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\41. Hornet Comm\bin\Debug\_41.Hornet_Comm.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\41. Hornet Comm\bin\Debug\_41.Hornet_Comm.pdb

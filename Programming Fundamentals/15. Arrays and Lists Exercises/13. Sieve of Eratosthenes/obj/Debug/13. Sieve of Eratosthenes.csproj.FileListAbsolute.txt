@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\13. Sieve of Eratosthenes\bin\Debug\_13.Sieve_of_Eratosthenes.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\13. Sieve of Eratosthenes\bin\Debug\_13.Sieve_of_Eratosthenes.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\13. Sieve of Eratosthenes\bin\Debug\_13.Sieve_of_Eratosthenes.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\13. Sieve of Eratosthenes\obj\Debug\13. Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\13. Sieve of Eratosthenes\obj\Debug\13. Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\13. Sieve of Eratosthenes\obj\Debug\_13.Sieve_of_Eratosthenes.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\13. Sieve of Eratosthenes\obj\Debug\_13.Sieve_of_Eratosthenes.pdb

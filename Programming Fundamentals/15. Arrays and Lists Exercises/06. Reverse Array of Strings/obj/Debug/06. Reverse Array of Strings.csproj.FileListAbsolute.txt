@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\06. Reverse Array of Strings\bin\Debug\_06.Reverse_Array_of_Strings.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\06. Reverse Array of Strings\bin\Debug\_06.Reverse_Array_of_Strings.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\06. Reverse Array of Strings\bin\Debug\_06.Reverse_Array_of_Strings.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\06. Reverse Array of Strings\obj\Debug\06. Reverse Array of Strings.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\06. Reverse Array of Strings\obj\Debug\06. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\06. Reverse Array of Strings\obj\Debug\_06.Reverse_Array_of_Strings.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\06. Reverse Array of Strings\obj\Debug\_06.Reverse_Array_of_Strings.pdb

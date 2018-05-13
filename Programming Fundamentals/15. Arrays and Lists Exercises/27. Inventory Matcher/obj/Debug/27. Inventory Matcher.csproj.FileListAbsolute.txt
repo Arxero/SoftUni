@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\27. Inventory Matcher\bin\Debug\_27.Inventory_Matcher.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\27. Inventory Matcher\bin\Debug\_27.Inventory_Matcher.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\27. Inventory Matcher\bin\Debug\_27.Inventory_Matcher.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\27. Inventory Matcher\obj\Debug\27. Inventory Matcher.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\27. Inventory Matcher\obj\Debug\27. Inventory Matcher.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\27. Inventory Matcher\obj\Debug\_27.Inventory_Matcher.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\27. Inventory Matcher\obj\Debug\_27.Inventory_Matcher.pdb

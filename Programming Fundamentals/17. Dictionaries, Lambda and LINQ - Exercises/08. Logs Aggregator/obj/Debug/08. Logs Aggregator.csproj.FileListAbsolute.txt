@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\bin\Debug\_08.Logs_Aggregator.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\bin\Debug\_08.Logs_Aggregator.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\bin\Debug\_08.Logs_Aggregator.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\obj\Debug\08. Logs Aggregator.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\obj\Debug\08. Logs Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\obj\Debug\_08.Logs_Aggregator.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries, Lambda and LINQ - Exercises\08. Logs Aggregator\obj\Debug\_08.Logs_Aggregator.pdb

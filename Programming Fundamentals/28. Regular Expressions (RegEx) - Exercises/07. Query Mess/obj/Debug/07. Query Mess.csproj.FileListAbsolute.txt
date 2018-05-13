@@ -1,0 +1,7 @@
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\07. Query Mess\bin\Debug\_07.Query_Mess.exe.config
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\07. Query Mess\bin\Debug\_07.Query_Mess.exe
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\07. Query Mess\bin\Debug\_07.Query_Mess.pdb
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\07. Query Mess\obj\Debug\07. Query Mess.csprojResolveAssemblyReference.cache
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\07. Query Mess\obj\Debug\07. Query Mess.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\07. Query Mess\obj\Debug\_07.Query_Mess.exe
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\07. Query Mess\obj\Debug\_07.Query_Mess.pdb

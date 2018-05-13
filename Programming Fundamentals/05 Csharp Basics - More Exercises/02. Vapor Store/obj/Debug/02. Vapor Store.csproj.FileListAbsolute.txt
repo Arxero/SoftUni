@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\02. Vapor Store\bin\Debug\_02.Vapor_Store.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\02. Vapor Store\bin\Debug\_02.Vapor_Store.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\02. Vapor Store\bin\Debug\_02.Vapor_Store.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\02. Vapor Store\obj\Debug\02. Vapor Store.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\02. Vapor Store\obj\Debug\_02.Vapor_Store.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\02. Vapor Store\obj\Debug\_02.Vapor_Store.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\02. Vapor Store\obj\Debug\02. Vapor Store.csprojResolveAssemblyReference.cache

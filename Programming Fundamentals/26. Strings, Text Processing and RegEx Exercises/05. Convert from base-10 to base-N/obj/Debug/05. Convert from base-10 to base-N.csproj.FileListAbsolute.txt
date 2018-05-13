@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\05. Convert from base-10 to base-N\bin\Debug\_05.Convert_from_base_10_to_base_N.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\05. Convert from base-10 to base-N\bin\Debug\_05.Convert_from_base_10_to_base_N.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\05. Convert from base-10 to base-N\bin\Debug\_05.Convert_from_base_10_to_base_N.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\05. Convert from base-10 to base-N\obj\Debug\05. Convert from base-10 to base-N.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\05. Convert from base-10 to base-N\obj\Debug\05. Convert from base-10 to base-N.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\05. Convert from base-10 to base-N\obj\Debug\_05.Convert_from_base_10_to_base_N.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\05. Convert from base-10 to base-N\obj\Debug\_05.Convert_from_base_10_to_base_N.pdb

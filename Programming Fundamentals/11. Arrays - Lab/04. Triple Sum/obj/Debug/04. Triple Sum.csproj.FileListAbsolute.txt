@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Lab\04. Triple Sum\bin\Debug\_04.Triple_Sum.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Lab\04. Triple Sum\bin\Debug\_04.Triple_Sum.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Lab\04. Triple Sum\bin\Debug\_04.Triple_Sum.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Lab\04. Triple Sum\obj\Debug\04. Triple Sum.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Lab\04. Triple Sum\obj\Debug\04. Triple Sum.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Lab\04. Triple Sum\obj\Debug\_04.Triple_Sum.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Lab\04. Triple Sum\obj\Debug\_04.Triple_Sum.pdb

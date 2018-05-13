@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\29. Jump Around\bin\Debug\_29.Jump_Around.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\29. Jump Around\bin\Debug\_29.Jump_Around.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\29. Jump Around\bin\Debug\_29.Jump_Around.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\29. Jump Around\obj\Debug\29. Jump Around +.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\29. Jump Around\obj\Debug\29. Jump Around +.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\29. Jump Around\obj\Debug\_29.Jump_Around.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\29. Jump Around\obj\Debug\_29.Jump_Around.pdb

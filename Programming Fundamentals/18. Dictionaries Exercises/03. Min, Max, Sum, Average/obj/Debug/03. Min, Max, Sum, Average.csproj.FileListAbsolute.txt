@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\03. Min, Max, Sum, Average\obj\Debug\03. Min, Max, Sum, Average.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.pdb

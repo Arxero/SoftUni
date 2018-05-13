@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\21. Trainers\bin\Debug\_21.Trainers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\21. Trainers\bin\Debug\_21.Trainers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\21. Trainers\bin\Debug\_21.Trainers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\21. Trainers\obj\Debug\21. Trainers.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\21. Trainers\obj\Debug\21. Trainers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\21. Trainers\obj\Debug\_21.Trainers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\21. Trainers\obj\Debug\_21.Trainers.pdb

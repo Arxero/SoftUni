@@ -1,0 +1,7 @@
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Exercises\04. Average Grades\bin\Debug\_04.Average_Grades.exe.config
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Exercises\04. Average Grades\bin\Debug\_04.Average_Grades.exe
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Exercises\04. Average Grades\bin\Debug\_04.Average_Grades.pdb
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Exercises\04. Average Grades\obj\Debug\04. Average Grades.csprojResolveAssemblyReference.cache
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Exercises\04. Average Grades\obj\Debug\04. Average Grades.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Exercises\04. Average Grades\obj\Debug\_04.Average_Grades.exe
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Exercises\04. Average Grades\obj\Debug\_04.Average_Grades.pdb

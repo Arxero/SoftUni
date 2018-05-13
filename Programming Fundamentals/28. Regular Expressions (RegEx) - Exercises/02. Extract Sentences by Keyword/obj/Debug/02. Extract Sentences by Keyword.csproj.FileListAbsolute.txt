@@ -1,0 +1,6 @@
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.exe.config
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.exe
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.pdb
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\02. Extract Sentences by Keyword.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\_02.Extract_Sentences_by_Keyword.exe
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\02. Extract Sentences by Keyword\obj\Debug\_02.Extract_Sentences_by_Keyword.pdb

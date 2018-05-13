@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\05. Short Words Sorted\bin\Debug\_05.Short_Words_Sorted.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\05. Short Words Sorted\obj\Debug\05. Short Words Sorted.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\05. Short Words Sorted\obj\Debug\05. Short Words Sorted.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\05. Short Words Sorted\obj\Debug\_05.Short_Words_Sorted.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\05. Short Words Sorted\obj\Debug\_05.Short_Words_Sorted.pdb

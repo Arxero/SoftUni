@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\34. Sort Numbers\bin\Debug\_34.Sort_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\34. Sort Numbers\bin\Debug\_34.Sort_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\34. Sort Numbers\bin\Debug\_34.Sort_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\34. Sort Numbers\obj\Debug\34. Sort Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\34. Sort Numbers\obj\Debug\34. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\34. Sort Numbers\obj\Debug\_34.Sort_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\34. Sort Numbers\obj\Debug\_34.Sort_Numbers.pdb

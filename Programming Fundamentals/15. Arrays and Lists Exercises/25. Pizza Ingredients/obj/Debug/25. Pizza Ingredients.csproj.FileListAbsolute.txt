@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\25. Pizza Ingredients\bin\Debug\_25.Pizza_Ingredients.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\25. Pizza Ingredients\bin\Debug\_25.Pizza_Ingredients.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\25. Pizza Ingredients\bin\Debug\_25.Pizza_Ingredients.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\25. Pizza Ingredients\obj\Debug\25. Pizza Ingredients.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\25. Pizza Ingredients\obj\Debug\25. Pizza Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\25. Pizza Ingredients\obj\Debug\_25.Pizza_Ingredients.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\25. Pizza Ingredients\obj\Debug\_25.Pizza_Ingredients.pdb

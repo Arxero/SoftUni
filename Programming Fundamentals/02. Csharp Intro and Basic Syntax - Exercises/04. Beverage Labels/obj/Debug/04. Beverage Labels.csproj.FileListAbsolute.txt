@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\04. Beverage Labels.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.pdb

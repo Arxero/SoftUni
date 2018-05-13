@@ -1,0 +1,7 @@
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\06. Replace a Tag\bin\Debug\_06.Replace_a_Tag.exe.config
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\06. Replace a Tag\bin\Debug\_06.Replace_a_Tag.exe
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\06. Replace a Tag\bin\Debug\_06.Replace_a_Tag.pdb
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\06. Replace a Tag.csprojResolveAssemblyReference.cache
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\06. Replace a Tag.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\_06.Replace_a_Tag.exe
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\06. Replace a Tag\obj\Debug\_06.Replace_a_Tag.pdb

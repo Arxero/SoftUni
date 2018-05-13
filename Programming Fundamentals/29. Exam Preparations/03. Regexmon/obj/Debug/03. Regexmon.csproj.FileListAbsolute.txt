@@ -1,0 +1,7 @@
+c:\users\maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\03. Regexmon\bin\Debug\_03.Regexmon.exe.config
+c:\users\maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\03. Regexmon\bin\Debug\_03.Regexmon.exe
+c:\users\maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\03. Regexmon\bin\Debug\_03.Regexmon.pdb
+c:\users\maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\03. Regexmon\obj\Debug\03. Regexmon.csprojResolveAssemblyReference.cache
+c:\users\maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\03. Regexmon\obj\Debug\03. Regexmon.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\03. Regexmon\obj\Debug\_03.Regexmon.exe
+c:\users\maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\03. Regexmon\obj\Debug\_03.Regexmon.pdb

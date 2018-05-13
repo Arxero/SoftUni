@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Exercises\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Exercises\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Exercises\07. Cake Ingredients\bin\Debug\_07.Cake_Ingredients.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Exercises\07. Cake Ingredients\obj\Debug\07. Cake Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Exercises\07. Cake Ingredients\obj\Debug\_07.Cake_Ingredients.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Exercises\07. Cake Ingredients\obj\Debug\_07.Cake_Ingredients.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Exercises\07. Cake Ingredients\obj\Debug\07. Cake Ingredients.csprojResolveAssemblyReference.cache

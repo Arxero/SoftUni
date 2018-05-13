@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\_05.Special_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\_05.Special_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\_05.Special_Numbers.pdb

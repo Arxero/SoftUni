@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\31. Morse Code Upgraded\bin\Debug\_31.Morse_Code_Upgraded.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\31. Morse Code Upgraded\bin\Debug\_31.Morse_Code_Upgraded.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\31. Morse Code Upgraded\bin\Debug\_31.Morse_Code_Upgraded.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\31. Morse Code Upgraded\obj\Debug\31. Morse Code Upgraded.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\31. Morse Code Upgraded\obj\Debug\_31.Morse_Code_Upgraded.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\31. Morse Code Upgraded\obj\Debug\_31.Morse_Code_Upgraded.pdb

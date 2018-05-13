@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\12. Fold and Sum\bin\Debug\_12.Fold_and_Sum.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\12. Fold and Sum\bin\Debug\_12.Fold_and_Sum.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\12. Fold and Sum\bin\Debug\_12.Fold_and_Sum.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\12. Fold and Sum\obj\Debug\12. Fold and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\12. Fold and Sum\obj\Debug\12. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\12. Fold and Sum\obj\Debug\_12.Fold_and_Sum.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\12. Fold and Sum\obj\Debug\_12.Fold_and_Sum.pdb

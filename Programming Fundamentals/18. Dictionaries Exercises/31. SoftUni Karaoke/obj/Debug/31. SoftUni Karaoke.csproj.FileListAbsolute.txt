@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\31. SoftUni Karaoke\bin\Debug\_31.SoftUni_Karaoke.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\31. SoftUni Karaoke\bin\Debug\_31.SoftUni_Karaoke.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\31. SoftUni Karaoke\bin\Debug\_31.SoftUni_Karaoke.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\31. SoftUni Karaoke\obj\Debug\31. SoftUni Karaoke.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\31. SoftUni Karaoke\obj\Debug\31. SoftUni Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\31. SoftUni Karaoke\obj\Debug\_31.SoftUni_Karaoke.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\31. SoftUni Karaoke\obj\Debug\_31.SoftUni_Karaoke.pdb

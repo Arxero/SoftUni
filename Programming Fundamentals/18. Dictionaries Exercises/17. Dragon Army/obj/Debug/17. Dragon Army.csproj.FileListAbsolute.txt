@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\17. Dragon Army\bin\Debug\_17.Dragon_Army.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\17. Dragon Army\bin\Debug\_17.Dragon_Army.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\17. Dragon Army\bin\Debug\_17.Dragon_Army.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\17. Dragon Army\obj\Debug\17. Dragon Army.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\17. Dragon Army\obj\Debug\17. Dragon Army.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\17. Dragon Army\obj\Debug\_17.Dragon_Army.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\17. Dragon Army\obj\Debug\_17.Dragon_Army.pdb

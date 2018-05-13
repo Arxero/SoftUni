@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Exercises\02. Practice Floating Points\bin\Debug\_02.Practice_Floating_Points.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\02. Practice Floating Points.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\02. Practice Floating Points.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Exercises\02. Practice Floating Points\obj\Debug\_02.Practice_Floating_Points.pdb

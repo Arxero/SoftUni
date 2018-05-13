@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\36. Worm Ipsum\bin\Debug\_36.Worm_Ipsum.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\36. Worm Ipsum\bin\Debug\_36.Worm_Ipsum.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\36. Worm Ipsum\bin\Debug\_36.Worm_Ipsum.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\36. Worm Ipsum\obj\Debug\36. Worm Ipsum.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\36. Worm Ipsum\obj\Debug\36. Worm Ipsum.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\36. Worm Ipsum\obj\Debug\_36.Worm_Ipsum.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\36. Worm Ipsum\obj\Debug\_36.Worm_Ipsum.pdb

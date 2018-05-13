@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\bin\Debug\_03.Match_Hexadecimal_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\obj\Debug\03. Match Hexadecimal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\obj\Debug\03. Match Hexadecimal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\obj\Debug\_03.Match_Hexadecimal_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\03. Match Hexadecimal Numbers\obj\Debug\_03.Match_Hexadecimal_Numbers.pdb

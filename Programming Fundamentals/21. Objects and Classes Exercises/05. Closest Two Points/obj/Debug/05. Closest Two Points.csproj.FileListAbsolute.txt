@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.exe
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\05. Closest Two Points\bin\Debug\_05.Closest_Two_Points.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\05. Closest Two Points\obj\Debug\05. Closest Two Points.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\05. Closest Two Points\obj\Debug\05. Closest Two Points.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.exe
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\05. Closest Two Points\obj\Debug\_05.Closest_Two_Points.pdb

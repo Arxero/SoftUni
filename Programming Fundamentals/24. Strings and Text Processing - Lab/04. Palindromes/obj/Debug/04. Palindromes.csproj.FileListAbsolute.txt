@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\_04.Palindromes.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\_04.Palindromes.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings and Text Processing - Lab\04. Palindromes\bin\Debug\_04.Palindromes.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\04. Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\_04.Palindromes.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\_04.Palindromes.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings and Text Processing - Lab\04. Palindromes\obj\Debug\04. Palindromes.csprojResolveAssemblyReference.cache

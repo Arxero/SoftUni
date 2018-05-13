@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.exe
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\02. Append Lists\obj\Debug\02. Append Lists.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\02. Append Lists\obj\Debug\_02.Append_Lists.exe
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\02. Append Lists\obj\Debug\_02.Append_Lists.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Lists - Lab\02. Append Lists\obj\Debug\02. Append Lists.csprojResolveAssemblyReference.cache

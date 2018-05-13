@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\08. Greater of Two Values\bin\Debug\_08.Greater_of_Two_Values.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\08. Greater of Two Values\bin\Debug\_08.Greater_of_Two_Values.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\08. Greater of Two Values\bin\Debug\_08.Greater_of_Two_Values.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\08. Greater of Two Values\obj\Debug\08. Greater of Two Values.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\08. Greater of Two Values\obj\Debug\08. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\08. Greater of Two Values\obj\Debug\_08.Greater_of_Two_Values.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\08. Greater of Two Values\obj\Debug\_08.Greater_of_Two_Values.pdb

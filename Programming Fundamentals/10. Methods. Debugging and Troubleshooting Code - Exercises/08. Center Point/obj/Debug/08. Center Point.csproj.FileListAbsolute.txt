@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\08. Center Point\bin\Debug\_08.Center_Point.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\08. Center Point\bin\Debug\_08.Center_Point.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\08. Center Point\bin\Debug\_08.Center_Point.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\08. Center Point\obj\Debug\08. Center Point.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\08. Center Point\obj\Debug\08. Center Point.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\08. Center Point\obj\Debug\_08.Center_Point.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\08. Center Point\obj\Debug\_08.Center_Point.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\30. Remove Negatives and Reverse\bin\Debug\_30.Remove_Negatives_and_Reverse.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\30. Remove Negatives and Reverse\bin\Debug\_30.Remove_Negatives_and_Reverse.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\30. Remove Negatives and Reverse\bin\Debug\_30.Remove_Negatives_and_Reverse.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\30. Remove Negatives and Reverse\obj\Debug\30. Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\30. Remove Negatives and Reverse\obj\Debug\30. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\30. Remove Negatives and Reverse\obj\Debug\_30.Remove_Negatives_and_Reverse.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\30. Remove Negatives and Reverse\obj\Debug\_30.Remove_Negatives_and_Reverse.pdb

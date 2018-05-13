@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\39. Phoenix Grid\bin\Debug\_39.Phoenix_Grid.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\39. Phoenix Grid\bin\Debug\_39.Phoenix_Grid.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\39. Phoenix Grid\bin\Debug\_39.Phoenix_Grid.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\39. Phoenix Grid\obj\Debug\39. Phoenix Grid.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\39. Phoenix Grid\obj\Debug\_39.Phoenix_Grid.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\39. Phoenix Grid\obj\Debug\_39.Phoenix_Grid.pdb

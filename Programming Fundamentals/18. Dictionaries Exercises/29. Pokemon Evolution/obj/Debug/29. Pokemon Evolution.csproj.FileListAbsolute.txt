@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\29. Pokemon Evolution\bin\Debug\_29.Pokemon_Evolution.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\29. Pokemon Evolution\bin\Debug\_29.Pokemon_Evolution.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\29. Pokemon Evolution\bin\Debug\_29.Pokemon_Evolution.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\29. Pokemon Evolution\obj\Debug\29. Pokemon Evolution.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\29. Pokemon Evolution\obj\Debug\29. Pokemon Evolution.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\29. Pokemon Evolution\obj\Debug\_29.Pokemon_Evolution.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\29. Pokemon Evolution\obj\Debug\_29.Pokemon_Evolution.pdb

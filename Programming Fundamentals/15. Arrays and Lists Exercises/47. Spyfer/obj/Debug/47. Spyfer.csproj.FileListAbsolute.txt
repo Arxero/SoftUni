@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\47. Spyfer\bin\Debug\_47.Spyfer.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\47. Spyfer\bin\Debug\_47.Spyfer.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\47. Spyfer\bin\Debug\_47.Spyfer.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\47. Spyfer\obj\Debug\47. Spyfer.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\47. Spyfer\obj\Debug\47. Spyfer.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\47. Spyfer\obj\Debug\_47.Spyfer.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\47. Spyfer\obj\Debug\_47.Spyfer.pdb

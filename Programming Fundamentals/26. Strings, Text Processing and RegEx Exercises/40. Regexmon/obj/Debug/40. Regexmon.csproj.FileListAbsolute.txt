@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\40. Regexmon\bin\Debug\_40.Regexmon.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\40. Regexmon\bin\Debug\_40.Regexmon.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\40. Regexmon\bin\Debug\_40.Regexmon.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\40. Regexmon\obj\Debug\40. Regexmon.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\40. Regexmon\obj\Debug\_40.Regexmon.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\40. Regexmon\obj\Debug\_40.Regexmon.pdb

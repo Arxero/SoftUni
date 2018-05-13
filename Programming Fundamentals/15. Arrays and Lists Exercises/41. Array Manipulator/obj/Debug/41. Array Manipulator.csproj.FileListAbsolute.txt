@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\41. Array Manipulator\bin\Debug\_41.Array_Manipulator.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\41. Array Manipulator\bin\Debug\_41.Array_Manipulator.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\41. Array Manipulator\bin\Debug\_41.Array_Manipulator.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\41. Array Manipulator\obj\Debug\41. Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\41. Array Manipulator\obj\Debug\41. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\41. Array Manipulator\obj\Debug\_41.Array_Manipulator.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\41. Array Manipulator\obj\Debug\_41.Array_Manipulator.pdb

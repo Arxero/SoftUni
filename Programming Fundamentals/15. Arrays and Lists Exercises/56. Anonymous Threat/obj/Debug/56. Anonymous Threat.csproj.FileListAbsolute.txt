@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\56. Anonymous Threat\bin\Debug\_56.Anonymous_Threat.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\56. Anonymous Threat\bin\Debug\_56.Anonymous_Threat.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\56. Anonymous Threat\bin\Debug\_56.Anonymous_Threat.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\56. Anonymous Threat\obj\Debug\56. Anonymous Threat.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\56. Anonymous Threat\obj\Debug\56. Anonymous Threat.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\56. Anonymous Threat\obj\Debug\_56.Anonymous_Threat.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\56. Anonymous Threat\obj\Debug\_56.Anonymous_Threat.pdb

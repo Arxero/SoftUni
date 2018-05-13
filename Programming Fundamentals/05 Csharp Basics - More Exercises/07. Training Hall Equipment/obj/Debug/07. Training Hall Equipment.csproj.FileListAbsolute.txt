@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\07. Training Hall Equipment\bin\Debug\_07.Training_Hall_Equipment.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\07. Training Hall Equipment\obj\Debug\07. Training Hall Equipment.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\07. Training Hall Equipment\obj\Debug\07. Training Hall Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\07. Training Hall Equipment\obj\Debug\_07.Training_Hall_Equipment.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\07. Training Hall Equipment\obj\Debug\_07.Training_Hall_Equipment.pdb

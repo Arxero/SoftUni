@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\18. Sort Times\bin\Debug\_18.Sort_Times.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\18. Sort Times\bin\Debug\_18.Sort_Times.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\18. Sort Times\bin\Debug\_18.Sort_Times.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\18. Sort Times\obj\Debug\18. Sort Times.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\18. Sort Times\obj\Debug\18. Sort Times.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\18. Sort Times\obj\Debug\_18.Sort_Times.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\18. Sort Times\obj\Debug\_18.Sort_Times.pdb

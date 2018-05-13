@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\37. Population Aggregation\bin\Debug\_37.Population_Aggregation.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\37. Population Aggregation\bin\Debug\_37.Population_Aggregation.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\37. Population Aggregation\bin\Debug\_37.Population_Aggregation.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\37. Population Aggregation\obj\Debug\37. Population Aggregation.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\37. Population Aggregation\obj\Debug\37. Population Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\37. Population Aggregation\obj\Debug\_37.Population_Aggregation.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\37. Population Aggregation\obj\Debug\_37.Population_Aggregation.pdb

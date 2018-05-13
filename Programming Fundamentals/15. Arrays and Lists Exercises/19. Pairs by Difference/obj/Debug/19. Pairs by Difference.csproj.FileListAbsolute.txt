@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\19. Pairs by Difference\bin\Debug\_19.Pairs_by_Difference.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\19. Pairs by Difference\bin\Debug\_19.Pairs_by_Difference.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\19. Pairs by Difference\bin\Debug\_19.Pairs_by_Difference.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\19. Pairs by Difference\obj\Debug\19. Pairs by Difference.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\19. Pairs by Difference\obj\Debug\19. Pairs by Difference.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\19. Pairs by Difference\obj\Debug\_19.Pairs_by_Difference.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\19. Pairs by Difference\obj\Debug\_19.Pairs_by_Difference.pdb

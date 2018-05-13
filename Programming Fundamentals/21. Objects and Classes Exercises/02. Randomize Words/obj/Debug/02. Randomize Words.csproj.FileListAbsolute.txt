@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\02. Randomize Words\bin\Debug\_02.Randomize_Words.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\02. Randomize Words\bin\Debug\_02.Randomize_Words.exe
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\02. Randomize Words\bin\Debug\_02.Randomize_Words.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\02. Randomize Words\obj\Debug\02. Randomize Words.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\02. Randomize Words\obj\Debug\_02.Randomize_Words.exe
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\02. Randomize Words\obj\Debug\_02.Randomize_Words.pdb

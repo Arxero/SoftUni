@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\22. Parking Validation\bin\Debug\_22.Parking_Validation.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\22. Parking Validation\bin\Debug\_22.Parking_Validation.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\22. Parking Validation\bin\Debug\_22.Parking_Validation.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\22. Parking Validation\obj\Debug\22. Parking Validation.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\22. Parking Validation\obj\Debug\22. Parking Validation.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\22. Parking Validation\obj\Debug\_22.Parking_Validation.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\22. Parking Validation\obj\Debug\_22.Parking_Validation.pdb

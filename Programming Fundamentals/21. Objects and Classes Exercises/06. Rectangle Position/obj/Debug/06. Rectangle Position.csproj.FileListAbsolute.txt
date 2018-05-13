@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.exe
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\06. Rectangle Position\bin\Debug\_06.Rectangle_Position.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\06. Rectangle Position\obj\Debug\06. Rectangle Position.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\06. Rectangle Position\obj\Debug\06. Rectangle Position.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\06. Rectangle Position\obj\Debug\_06.Rectangle_Position.exe
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\06. Rectangle Position\obj\Debug\_06.Rectangle_Position.pdb

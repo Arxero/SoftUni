@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\20. Extract Emails\bin\Debug\_20.Extract_Emails.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\20. Extract Emails\bin\Debug\_20.Extract_Emails.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\20. Extract Emails\bin\Debug\_20.Extract_Emails.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\20. Extract Emails\obj\Debug\20. Extract Emails.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\20. Extract Emails\obj\Debug\_20.Extract_Emails.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\20. Extract Emails\obj\Debug\_20.Extract_Emails.pdb

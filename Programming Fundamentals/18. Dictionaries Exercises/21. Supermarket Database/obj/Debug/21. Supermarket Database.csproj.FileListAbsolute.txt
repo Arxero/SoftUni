@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\21. Supermarket Database\bin\Debug\_21.Supermarket_Database.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\21. Supermarket Database\bin\Debug\_21.Supermarket_Database.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\21. Supermarket Database\bin\Debug\_21.Supermarket_Database.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\21. Supermarket Database\obj\Debug\21. Supermarket Database.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\21. Supermarket Database\obj\Debug\21. Supermarket Database.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\21. Supermarket Database\obj\Debug\_21.Supermarket_Database.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\21. Supermarket Database\obj\Debug\_21.Supermarket_Database.pdb

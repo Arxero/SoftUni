@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\01. Hello, Name!\bin\Debug\_01.Hello__Name_.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\01. Hello, Name!\bin\Debug\_01.Hello__Name_.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\01. Hello, Name!\bin\Debug\_01.Hello__Name_.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\01. Hello, Name!\obj\Debug\01. Hello, Name!.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\01. Hello, Name!\obj\Debug\01. Hello, Name!.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\01. Hello, Name!\obj\Debug\_01.Hello__Name_.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\01. Hello, Name!\obj\Debug\_01.Hello__Name_.pdb

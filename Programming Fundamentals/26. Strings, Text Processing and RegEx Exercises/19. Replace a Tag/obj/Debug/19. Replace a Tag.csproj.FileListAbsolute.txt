@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\19. Replace a Tag\bin\Debug\_19.Replace_a_Tag.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\19. Replace a Tag\bin\Debug\_19.Replace_a_Tag.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\19. Replace a Tag\bin\Debug\_19.Replace_a_Tag.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\19. Replace a Tag\obj\Debug\19. Replace a Tag.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\19. Replace a Tag\obj\Debug\_19.Replace_a_Tag.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\19. Replace a Tag\obj\Debug\_19.Replace_a_Tag.pdb

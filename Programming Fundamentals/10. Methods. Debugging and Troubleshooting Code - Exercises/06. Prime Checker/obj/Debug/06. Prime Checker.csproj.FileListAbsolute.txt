@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\bin\Debug\_06.Prime_Checker.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\06. Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\_06.Prime_Checker.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\_06.Prime_Checker.pdb

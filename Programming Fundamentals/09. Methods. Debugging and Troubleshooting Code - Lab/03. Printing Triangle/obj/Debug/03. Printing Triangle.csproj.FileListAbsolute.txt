@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\obj\Debug\03. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.pdb

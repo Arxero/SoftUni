@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\14. Logs Aggregator\bin\Debug\_14.Logs_Aggregator.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\14. Logs Aggregator\bin\Debug\_14.Logs_Aggregator.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\14. Logs Aggregator\bin\Debug\_14.Logs_Aggregator.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\14. Logs Aggregator\obj\Debug\14. Logs Aggregator.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\14. Logs Aggregator\obj\Debug\14. Logs Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\14. Logs Aggregator\obj\Debug\_14.Logs_Aggregator.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\14. Logs Aggregator\obj\Debug\_14.Logs_Aggregator.pdb

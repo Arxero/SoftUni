@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Lab\Csharp Intro and Basic Syntax - Lab\bin\Debug\Csharp Intro and Basic Syntax - Lab.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Lab\Csharp Intro and Basic Syntax - Lab\bin\Debug\Csharp Intro and Basic Syntax - Lab.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Lab\Csharp Intro and Basic Syntax - Lab\bin\Debug\Csharp Intro and Basic Syntax - Lab.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Lab\Csharp Intro and Basic Syntax - Lab\obj\Debug\Csharp Intro and Basic Syntax - Lab.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Lab\Csharp Intro and Basic Syntax - Lab\obj\Debug\Csharp Intro and Basic Syntax - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Lab\Csharp Intro and Basic Syntax - Lab\obj\Debug\Csharp Intro and Basic Syntax - Lab.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Lab\Csharp Intro and Basic Syntax - Lab\obj\Debug\Csharp Intro and Basic Syntax - Lab.pdb

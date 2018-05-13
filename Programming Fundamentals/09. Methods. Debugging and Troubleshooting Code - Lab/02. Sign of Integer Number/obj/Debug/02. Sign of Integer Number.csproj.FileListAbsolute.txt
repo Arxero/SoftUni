@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\bin\Debug\_02.Sign_of_Integer_Number.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\obj\Debug\02. Sign of Integer Number.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\obj\Debug\_02.Sign_of_Integer_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\02. Sign of Integer Number\obj\Debug\_02.Sign_of_Integer_Number.pdb

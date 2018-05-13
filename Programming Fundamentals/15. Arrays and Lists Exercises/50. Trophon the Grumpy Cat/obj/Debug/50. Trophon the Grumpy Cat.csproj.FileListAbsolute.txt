@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\50. Trophon the Grumpy Cat\bin\Debug\_50.Trophon_the_Grumpy_Cat.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\50. Trophon the Grumpy Cat\bin\Debug\_50.Trophon_the_Grumpy_Cat.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\50. Trophon the Grumpy Cat\bin\Debug\_50.Trophon_the_Grumpy_Cat.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\50. Trophon the Grumpy Cat\obj\Debug\50. Trophon the Grumpy Cat.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\50. Trophon the Grumpy Cat\obj\Debug\50. Trophon the Grumpy Cat.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\50. Trophon the Grumpy Cat\obj\Debug\_50.Trophon_the_Grumpy_Cat.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\50. Trophon the Grumpy Cat\obj\Debug\_50.Trophon_the_Grumpy_Cat.pdb

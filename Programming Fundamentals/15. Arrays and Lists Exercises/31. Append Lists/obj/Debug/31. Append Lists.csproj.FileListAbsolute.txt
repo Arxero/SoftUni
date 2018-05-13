@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\31. Append Lists\bin\Debug\_31.Append_Lists.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\31. Append Lists\bin\Debug\_31.Append_Lists.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\31. Append Lists\bin\Debug\_31.Append_Lists.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\31. Append Lists\obj\Debug\31. Append Lists.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\31. Append Lists\obj\Debug\31. Append Lists.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\31. Append Lists\obj\Debug\_31.Append_Lists.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\31. Append Lists\obj\Debug\_31.Append_Lists.pdb

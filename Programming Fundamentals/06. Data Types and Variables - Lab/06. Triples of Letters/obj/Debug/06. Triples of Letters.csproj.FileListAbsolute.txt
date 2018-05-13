@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\06. Triples of Letters\bin\Debug\_06.Triples_of_Letters.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\06. Triples of Letters.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\_06.Triples_of_Letters.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\06. Triples of Letters\obj\Debug\_06.Triples_of_Letters.pdb

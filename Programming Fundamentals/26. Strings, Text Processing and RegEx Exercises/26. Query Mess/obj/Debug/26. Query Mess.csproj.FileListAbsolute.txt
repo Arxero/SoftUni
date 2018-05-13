@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\26. Query Mess\bin\Debug\_26.Query_Mess.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\26. Query Mess\bin\Debug\_26.Query_Mess.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\26. Query Mess\bin\Debug\_26.Query_Mess.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\26. Query Mess\obj\Debug\26. Query Mess.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\26. Query Mess\obj\Debug\_26.Query_Mess.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\26. Query Mess\obj\Debug\_26.Query_Mess.pdb

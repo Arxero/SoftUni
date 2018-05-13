@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Exercises\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Exercises\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Exercises\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Exercises\02. Rotate and Sum\obj\Debug\02. Rotate and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Exercises\02. Rotate and Sum\obj\Debug\02. Rotate and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Exercises\02. Rotate and Sum\obj\Debug\_02.Rotate_and_Sum.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays - Exercises\02. Rotate and Sum\obj\Debug\_02.Rotate_and_Sum.pdb

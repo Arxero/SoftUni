@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\02. Odd Occurrences\obj\Debug\02. Odd Occurrences.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\02. Odd Occurrences\obj\Debug\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\02. Odd Occurrences\obj\Debug\_02.Odd_Occurrences.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\02. Odd Occurrences\obj\Debug\_02.Odd_Occurrences.pdb

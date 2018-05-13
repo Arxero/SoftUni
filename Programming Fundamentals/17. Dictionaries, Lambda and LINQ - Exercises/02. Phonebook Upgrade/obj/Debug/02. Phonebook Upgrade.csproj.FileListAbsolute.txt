@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\02. Phonebook Upgrade.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries, Lambda and LINQ - Exercises\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.pdb

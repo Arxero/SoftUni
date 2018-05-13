@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\25. Worms World Party\bin\Debug\_25.Worms_World_Party.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\25. Worms World Party\bin\Debug\_25.Worms_World_Party.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\25. Worms World Party\bin\Debug\_25.Worms_World_Party.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\25. Worms World Party\obj\Debug\25. Worms World Party.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\25. Worms World Party\obj\Debug\25. Worms World Party.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\25. Worms World Party\obj\Debug\_25.Worms_World_Party.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\25. Worms World Party\obj\Debug\_25.Worms_World_Party.pdb

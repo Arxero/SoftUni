@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\10. Fix Emails\bin\Debug\_10.Fix_Emails.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\10. Fix Emails\bin\Debug\_10.Fix_Emails.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\10. Fix Emails\bin\Debug\_10.Fix_Emails.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\10. Fix Emails\obj\Debug\10. Fix Emails.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\10. Fix Emails\obj\Debug\_10.Fix_Emails.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\10. Fix Emails\obj\Debug\_10.Fix_Emails.pdb

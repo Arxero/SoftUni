@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\54. Endurance Rally\bin\Debug\_54.Endurance_Rally.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\54. Endurance Rally\bin\Debug\_54.Endurance_Rally.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\54. Endurance Rally\bin\Debug\_54.Endurance_Rally.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\54. Endurance Rally\obj\Debug\54. Endurance Rally.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\54. Endurance Rally\obj\Debug\54. Endurance Rally.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\54. Endurance Rally\obj\Debug\_54.Endurance_Rally.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\54. Endurance Rally\obj\Debug\_54.Endurance_Rally.pdb

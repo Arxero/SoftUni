@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\13. Melrah Shake\bin\Debug\_13.Melrah_Shake.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\13. Melrah Shake\bin\Debug\_13.Melrah_Shake.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\13. Melrah Shake\bin\Debug\_13.Melrah_Shake.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\13. Melrah Shake\obj\Debug\13. Melrah Shake.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\13. Melrah Shake\obj\Debug\_13.Melrah_Shake.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\13. Melrah Shake\obj\Debug\_13.Melrah_Shake.pdb

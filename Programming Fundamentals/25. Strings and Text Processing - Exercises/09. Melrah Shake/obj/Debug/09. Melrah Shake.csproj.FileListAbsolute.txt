@@ -1,0 +1,7 @@
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.exe.config
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.exe
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\09. Melrah Shake\bin\Debug\_09.Melrah_Shake.pdb
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\09. Melrah Shake.csprojResolveAssemblyReference.cache
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\09. Melrah Shake.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\_09.Melrah_Shake.exe
+c:\users\maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\09. Melrah Shake\obj\Debug\_09.Melrah_Shake.pdb

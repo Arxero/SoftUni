@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\13. Charity Marathon\bin\Debug\_13.Charity_Marathon.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\13. Charity Marathon\bin\Debug\_13.Charity_Marathon.exe
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\13. Charity Marathon\bin\Debug\_13.Charity_Marathon.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\13. Charity Marathon\obj\Debug\13. Charity Marathon.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\13. Charity Marathon\obj\Debug\13. Charity Marathon.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\13. Charity Marathon\obj\Debug\_13.Charity_Marathon.exe
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\13. Charity Marathon\obj\Debug\_13.Charity_Marathon.pdb

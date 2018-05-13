@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\33. Email Statistics\bin\Debug\_33.Email_Statistics.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\33. Email Statistics\bin\Debug\_33.Email_Statistics.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\33. Email Statistics\bin\Debug\_33.Email_Statistics.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\33. Email Statistics\obj\Debug\33. Email Statistics.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\33. Email Statistics\obj\Debug\_33.Email_Statistics.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\33. Email Statistics\obj\Debug\_33.Email_Statistics.pdb

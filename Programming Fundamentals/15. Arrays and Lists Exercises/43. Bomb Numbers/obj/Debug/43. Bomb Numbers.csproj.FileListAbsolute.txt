@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\43. Bomb Numbers\bin\Debug\_43.Bomb_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\43. Bomb Numbers\bin\Debug\_43.Bomb_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\43. Bomb Numbers\bin\Debug\_43.Bomb_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\43. Bomb Numbers\obj\Debug\43. Bomb Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\43. Bomb Numbers\obj\Debug\43. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\43. Bomb Numbers\obj\Debug\_43.Bomb_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\43. Bomb Numbers\obj\Debug\_43.Bomb_Numbers.pdb

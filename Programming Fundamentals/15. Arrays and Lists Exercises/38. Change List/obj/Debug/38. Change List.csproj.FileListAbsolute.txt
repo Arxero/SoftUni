@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\38. Change List\bin\Debug\_38.Change_List.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\38. Change List\bin\Debug\_38.Change_List.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\38. Change List\bin\Debug\_38.Change_List.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\38. Change List\obj\Debug\38. Change List.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\38. Change List\obj\Debug\38. Change List.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\38. Change List\obj\Debug\_38.Change_List.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\38. Change List\obj\Debug\_38.Change_List.pdb

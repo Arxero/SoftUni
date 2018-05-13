@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\35. SoftUni Coffee Supplies\bin\Debug\_35.SoftUni_Coffee_Supplies.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\35. SoftUni Coffee Supplies\bin\Debug\_35.SoftUni_Coffee_Supplies.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\35. SoftUni Coffee Supplies\bin\Debug\_35.SoftUni_Coffee_Supplies.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\35. SoftUni Coffee Supplies\obj\Debug\35. SoftUni Coffee Supplies.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\35. SoftUni Coffee Supplies\obj\Debug\35. SoftUni Coffee Supplies.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\35. SoftUni Coffee Supplies\obj\Debug\_35.SoftUni_Coffee_Supplies.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\35. SoftUni Coffee Supplies\obj\Debug\_35.SoftUni_Coffee_Supplies.pdb

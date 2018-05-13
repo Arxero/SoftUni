@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\55. Ladybugs\bin\Debug\_55.Ladybugs.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\55. Ladybugs\bin\Debug\_55.Ladybugs.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\55. Ladybugs\bin\Debug\_55.Ladybugs.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\55. Ladybugs\obj\Debug\55. Ladybugs.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\55. Ladybugs\obj\Debug\55. Ladybugs.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\55. Ladybugs\obj\Debug\_55.Ladybugs.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\55. Ladybugs\obj\Debug\_55.Ladybugs.pdb

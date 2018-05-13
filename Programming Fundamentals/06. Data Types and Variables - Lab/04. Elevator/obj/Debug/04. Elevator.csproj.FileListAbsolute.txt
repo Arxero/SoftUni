@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\04. Elevator\bin\Debug\_04.Elevator.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\04. Elevator\bin\Debug\_04.Elevator.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\04. Elevator\bin\Debug\_04.Elevator.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\04. Elevator\obj\Debug\04. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\04. Elevator\obj\Debug\_04.Elevator.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\04. Elevator\obj\Debug\_04.Elevator.pdb

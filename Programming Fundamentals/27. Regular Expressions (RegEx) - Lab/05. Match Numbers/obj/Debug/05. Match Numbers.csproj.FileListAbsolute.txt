@@ -1,0 +1,7 @@
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\05. Match Numbers\bin\Debug\_05.Match_Numbers.exe.config
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\05. Match Numbers\bin\Debug\_05.Match_Numbers.exe
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\05. Match Numbers\bin\Debug\_05.Match_Numbers.pdb
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\05. Match Numbers\obj\Debug\05. Match Numbers.csprojResolveAssemblyReference.cache
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\05. Match Numbers\obj\Debug\05. Match Numbers.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\05. Match Numbers\obj\Debug\_05.Match_Numbers.exe
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Lab\05. Match Numbers\obj\Debug\_05.Match_Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\24. Key Replacer\bin\Debug\_24.Key_Replacer.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\24. Key Replacer\bin\Debug\_24.Key_Replacer.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\24. Key Replacer\bin\Debug\_24.Key_Replacer.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\24. Key Replacer\obj\Debug\24. Key Replacer.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\24. Key Replacer\obj\Debug\_24.Key_Replacer.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\24. Key Replacer\obj\Debug\_24.Key_Replacer.pdb

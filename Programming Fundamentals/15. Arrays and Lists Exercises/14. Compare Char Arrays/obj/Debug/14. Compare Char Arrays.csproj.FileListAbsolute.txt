@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\14. Compare Char Arrays\obj\Debug\14. Compare Char Arrays.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\14. Compare Char Arrays\obj\Debug\14. Compare Char Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\14. Compare Char Arrays\bin\Debug\_14.Compare_Char_Arrays.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\14. Compare Char Arrays\bin\Debug\_14.Compare_Char_Arrays.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\14. Compare Char Arrays\bin\Debug\_14.Compare_Char_Arrays.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\14. Compare Char Arrays\obj\Debug\_14.Compare_Char_Arrays.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\14. Compare Char Arrays\obj\Debug\_14.Compare_Char_Arrays.pdb

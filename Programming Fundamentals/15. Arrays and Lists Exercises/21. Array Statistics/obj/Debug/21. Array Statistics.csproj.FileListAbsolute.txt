@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\21. Array Statistics\bin\Debug\_21.Array_Statistics.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\21. Array Statistics\bin\Debug\_21.Array_Statistics.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\21. Array Statistics\bin\Debug\_21.Array_Statistics.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\21. Array Statistics\obj\Debug\21. Array Statistics.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\21. Array Statistics\obj\Debug\21. Array Statistics.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\21. Array Statistics\obj\Debug\_21.Array_Statistics.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\21. Array Statistics\obj\Debug\_21.Array_Statistics.pdb

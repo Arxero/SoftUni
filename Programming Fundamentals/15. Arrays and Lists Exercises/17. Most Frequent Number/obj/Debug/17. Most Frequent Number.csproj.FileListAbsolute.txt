@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\17. Most Frequent Number\bin\Debug\_17.Most_Frequent_Number.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\17. Most Frequent Number\bin\Debug\_17.Most_Frequent_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\17. Most Frequent Number\bin\Debug\_17.Most_Frequent_Number.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\17. Most Frequent Number\obj\Debug\17. Most Frequent Number.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\17. Most Frequent Number\obj\Debug\17. Most Frequent Number.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\17. Most Frequent Number\obj\Debug\_17.Most_Frequent_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\17. Most Frequent Number\obj\Debug\_17.Most_Frequent_Number.pdb

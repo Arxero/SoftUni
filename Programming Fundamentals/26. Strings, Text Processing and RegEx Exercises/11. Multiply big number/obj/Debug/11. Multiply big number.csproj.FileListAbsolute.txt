@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\11. Multiply big number\bin\Debug\_11.Multiply_big_number.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\11. Multiply big number\bin\Debug\_11.Multiply_big_number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\11. Multiply big number\bin\Debug\_11.Multiply_big_number.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\11. Multiply big number\obj\Debug\11. Multiply big number.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\11. Multiply big number\obj\Debug\11. Multiply big number.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\11. Multiply big number\obj\Debug\_11.Multiply_big_number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\11. Multiply big number\obj\Debug\_11.Multiply_big_number.pdb

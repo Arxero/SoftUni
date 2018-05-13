@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\_14.Magic_Letter.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Exercises\14. Magic Letter\bin\Debug\_14.Magic_Letter.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\14. Magic Letter.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\_14.Magic_Letter.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Exercises\14. Magic Letter\obj\Debug\_14.Magic_Letter.pdb

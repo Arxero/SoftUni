@@ -1,0 +1,7 @@
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\03. Camera View\bin\Debug\_03.Camera_View.exe.config
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\03. Camera View\bin\Debug\_03.Camera_View.exe
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\03. Camera View\bin\Debug\_03.Camera_View.pdb
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\03. Camera View.csprojResolveAssemblyReference.cache
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\03. Camera View.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\_03.Camera_View.exe
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\03. Camera View\obj\Debug\_03.Camera_View.pdb

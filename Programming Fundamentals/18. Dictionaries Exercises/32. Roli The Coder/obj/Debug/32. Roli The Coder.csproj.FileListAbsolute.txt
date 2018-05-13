@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\32. Roli The Coder\bin\Debug\_32.Roli_The_Coder.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\32. Roli The Coder\bin\Debug\_32.Roli_The_Coder.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\32. Roli The Coder\bin\Debug\_32.Roli_The_Coder.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\32. Roli The Coder\obj\Debug\32. Roli The Coder.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\32. Roli The Coder\obj\Debug\32. Roli The Coder.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\32. Roli The Coder\obj\Debug\_32.Roli_The_Coder.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\32. Roli The Coder\obj\Debug\_32.Roli_The_Coder.pdb

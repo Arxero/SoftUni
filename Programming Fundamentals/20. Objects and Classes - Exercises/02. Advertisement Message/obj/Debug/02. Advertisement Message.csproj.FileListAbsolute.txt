@@ -1,0 +1,6 @@
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe.config
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.pdb
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\02. Advertisement Message.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.exe
+c:\users\maverick\OneDrive\C# Projects\Objects and Classes - Exercises\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.pdb

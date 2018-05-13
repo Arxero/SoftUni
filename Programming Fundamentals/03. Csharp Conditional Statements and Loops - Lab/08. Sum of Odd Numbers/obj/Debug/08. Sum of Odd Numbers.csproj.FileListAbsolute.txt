@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\08. Sum of Odd Numbers\bin\Debug\_08.Sum_of_Odd_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\08. Sum of Odd Numbers\bin\Debug\_08.Sum_of_Odd_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\08. Sum of Odd Numbers\bin\Debug\_08.Sum_of_Odd_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\08. Sum of Odd Numbers\obj\Debug\08. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\08. Sum of Odd Numbers\obj\Debug\_08.Sum_of_Odd_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Conditional Statements and Loops - Lab\08. Sum of Odd Numbers\obj\Debug\_08.Sum_of_Odd_Numbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\49. Icarus\bin\Debug\_49.Icarus.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\49. Icarus\bin\Debug\_49.Icarus.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\49. Icarus\bin\Debug\_49.Icarus.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\49. Icarus\obj\Debug\49. Icarus.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\49. Icarus\obj\Debug\49. Icarus.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\49. Icarus\obj\Debug\_49.Icarus.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\49. Icarus\obj\Debug\_49.Icarus.pdb

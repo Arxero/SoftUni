@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\53. Hornet Assault\bin\Debug\_53.Hornet_Assault.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\53. Hornet Assault\bin\Debug\_53.Hornet_Assault.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\53. Hornet Assault\bin\Debug\_53.Hornet_Assault.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\53. Hornet Assault\obj\Debug\53. Hornet Assault.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\53. Hornet Assault\obj\Debug\53. Hornet Assault.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\53. Hornet Assault\obj\Debug\_53.Hornet_Assault.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\53. Hornet Assault\obj\Debug\_53.Hornet_Assault.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\Csharp Intro and Basic Syntax - Exercises\bin\Debug\Csharp Intro and Basic Syntax - Exercises.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\Csharp Intro and Basic Syntax - Exercises\bin\Debug\Csharp Intro and Basic Syntax - Exercises.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\Csharp Intro and Basic Syntax - Exercises\bin\Debug\Csharp Intro and Basic Syntax - Exercises.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\Csharp Intro and Basic Syntax - Exercises\obj\Debug\01. Debit Card Number.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\Csharp Intro and Basic Syntax - Exercises\obj\Debug\01. Debit Card Number.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\Csharp Intro and Basic Syntax - Exercises\obj\Debug\Csharp Intro and Basic Syntax - Exercises.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\Csharp Intro and Basic Syntax - Exercises\obj\Debug\Csharp Intro and Basic Syntax - Exercises.pdb

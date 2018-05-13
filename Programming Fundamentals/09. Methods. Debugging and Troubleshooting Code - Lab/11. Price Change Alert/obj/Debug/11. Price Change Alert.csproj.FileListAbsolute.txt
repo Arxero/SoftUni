@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\11. Price Change Alert\bin\Debug\_11.Price_Change_Alert.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\11. Price Change Alert\bin\Debug\_11.Price_Change_Alert.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\11. Price Change Alert\bin\Debug\_11.Price_Change_Alert.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\11. Price Change Alert\obj\Debug\11. Price Change Alert.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\11. Price Change Alert\obj\Debug\11. Price Change Alert.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\11. Price Change Alert\obj\Debug\_11.Price_Change_Alert.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\11. Price Change Alert\obj\Debug\_11.Price_Change_Alert.pdb

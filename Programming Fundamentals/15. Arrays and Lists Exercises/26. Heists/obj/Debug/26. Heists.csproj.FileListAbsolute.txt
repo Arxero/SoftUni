@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\26. Heists\bin\Debug\_26.Heists.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\26. Heists\bin\Debug\_26.Heists.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\26. Heists\bin\Debug\_26.Heists.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\26. Heists\obj\Debug\26. Heists.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\26. Heists\obj\Debug\26. Heists.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\26. Heists\obj\Debug\_26.Heists.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\26. Heists\obj\Debug\_26.Heists.pdb

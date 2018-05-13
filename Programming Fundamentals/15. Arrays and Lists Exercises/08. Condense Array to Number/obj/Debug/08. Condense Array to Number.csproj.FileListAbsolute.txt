@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\08. Condense Array to Number\bin\Debug\_08.Condense_Array_to_Number.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\08. Condense Array to Number\obj\Debug\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\08. Condense Array to Number\obj\Debug\_08.Condense_Array_to_Number.pdb

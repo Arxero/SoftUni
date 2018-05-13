@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\37. Spy Gram\bin\Debug\_37.Spy_Gram.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\37. Spy Gram\bin\Debug\_37.Spy_Gram.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\37. Spy Gram\bin\Debug\_37.Spy_Gram.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\37. Spy Gram\obj\Debug\37. Spy Gram +.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\37. Spy Gram\obj\Debug\_37.Spy_Gram.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\37. Spy Gram\obj\Debug\_37.Spy_Gram.pdb

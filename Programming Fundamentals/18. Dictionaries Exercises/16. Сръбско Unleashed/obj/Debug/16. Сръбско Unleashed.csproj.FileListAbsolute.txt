@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\16. Сръбско Unleashed\bin\Debug\_16.Сръбско_Unleashed.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\16. Сръбско Unleashed\bin\Debug\_16.Сръбско_Unleashed.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\16. Сръбско Unleashed\bin\Debug\_16.Сръбско_Unleashed.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\16. Сръбско Unleashed\obj\Debug\16. Сръбско Unleashed.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\16. Сръбско Unleashed\obj\Debug\16. Сръбско Unleashed.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\16. Сръбско Unleashed\obj\Debug\_16.Сръбско_Unleashed.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\16. Сръбско Unleashed\obj\Debug\_16.Сръбско_Unleashed.pdb

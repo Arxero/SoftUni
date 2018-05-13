@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\35. Square Numbers\bin\Debug\_35.Square_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\35. Square Numbers\bin\Debug\_35.Square_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\35. Square Numbers\bin\Debug\_35.Square_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\35. Square Numbers\obj\Debug\35. Square Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\35. Square Numbers\obj\Debug\35. Square Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\35. Square Numbers\obj\Debug\_35.Square_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\35. Square Numbers\obj\Debug\_35.Square_Numbers.pdb

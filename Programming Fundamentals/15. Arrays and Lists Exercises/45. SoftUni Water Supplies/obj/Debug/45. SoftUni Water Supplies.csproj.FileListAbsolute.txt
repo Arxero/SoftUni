@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\45. SoftUni Water Supplies\bin\Debug\_45.SoftUni_Water_Supplies.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\45. SoftUni Water Supplies\bin\Debug\_45.SoftUni_Water_Supplies.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\45. SoftUni Water Supplies\bin\Debug\_45.SoftUni_Water_Supplies.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\45. SoftUni Water Supplies\obj\Debug\45. SoftUni Water Supplies.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\45. SoftUni Water Supplies\obj\Debug\45. SoftUni Water Supplies.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\45. SoftUni Water Supplies\obj\Debug\_45.SoftUni_Water_Supplies.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\45. SoftUni Water Supplies\obj\Debug\_45.SoftUni_Water_Supplies.pdb

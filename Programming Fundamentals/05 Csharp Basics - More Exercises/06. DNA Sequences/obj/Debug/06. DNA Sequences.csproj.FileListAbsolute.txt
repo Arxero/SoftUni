@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\06. DNA Sequences\bin\Debug\_06.DNA_Sequences.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\06. DNA Sequences\bin\Debug\_06.DNA_Sequences.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\06. DNA Sequences\bin\Debug\_06.DNA_Sequences.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\06. DNA Sequences\obj\Debug\06. DNA Sequences.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\06. DNA Sequences\obj\Debug\06. DNA Sequences.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\06. DNA Sequences\obj\Debug\_06.DNA_Sequences.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\06. DNA Sequences\obj\Debug\_06.DNA_Sequences.pdb

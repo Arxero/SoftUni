@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\15. Match Phone Number\bin\Debug\_15.Match_Phone_Number.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\15. Match Phone Number\bin\Debug\_15.Match_Phone_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\15. Match Phone Number\bin\Debug\_15.Match_Phone_Number.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\15. Match Phone Number\obj\Debug\15. Match Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\15. Match Phone Number\obj\Debug\_15.Match_Phone_Number.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\15. Match Phone Number\obj\Debug\_15.Match_Phone_Number.pdb

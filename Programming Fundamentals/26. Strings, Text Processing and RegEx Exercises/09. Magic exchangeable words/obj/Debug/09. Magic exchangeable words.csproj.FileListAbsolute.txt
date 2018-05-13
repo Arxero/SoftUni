@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\09. Magic exchangeable words\bin\Debug\_09.Magic_exchangeable_words.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\09. Magic exchangeable words\bin\Debug\_09.Magic_exchangeable_words.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\09. Magic exchangeable words\bin\Debug\_09.Magic_exchangeable_words.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\09. Magic exchangeable words\obj\Debug\09. Magic exchangeable words.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\09. Magic exchangeable words\obj\Debug\_09.Magic_exchangeable_words.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\09. Magic exchangeable words\obj\Debug\_09.Magic_exchangeable_words.pdb

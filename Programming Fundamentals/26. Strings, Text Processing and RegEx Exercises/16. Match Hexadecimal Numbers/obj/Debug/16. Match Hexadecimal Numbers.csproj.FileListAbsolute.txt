@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\16. Match Hexadecimal Numbers\bin\Debug\_16.Match_Hexadecimal_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\16. Match Hexadecimal Numbers\bin\Debug\_16.Match_Hexadecimal_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\16. Match Hexadecimal Numbers\bin\Debug\_16.Match_Hexadecimal_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\16. Match Hexadecimal Numbers\obj\Debug\16. Match Hexadecimal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\16. Match Hexadecimal Numbers\obj\Debug\_16.Match_Hexadecimal_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\16. Match Hexadecimal Numbers\obj\Debug\_16.Match_Hexadecimal_Numbers.pdb

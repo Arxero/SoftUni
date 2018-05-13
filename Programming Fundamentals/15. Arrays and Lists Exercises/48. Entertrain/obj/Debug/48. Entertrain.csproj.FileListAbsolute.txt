@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\48. Entertrain\bin\Debug\_48.Entertrain.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\48. Entertrain\bin\Debug\_48.Entertrain.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\48. Entertrain\bin\Debug\_48.Entertrain.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\48. Entertrain\obj\Debug\48. Entertrain.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\48. Entertrain\obj\Debug\48. Entertrain.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\48. Entertrain\obj\Debug\_48.Entertrain.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\48. Entertrain\obj\Debug\_48.Entertrain.pdb

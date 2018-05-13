@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\32. Only Letters\bin\Debug\_32.Only_Letters.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\32. Only Letters\bin\Debug\_32.Only_Letters.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\32. Only Letters\bin\Debug\_32.Only_Letters.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\32. Only Letters\obj\Debug\32. Only Letters.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\32. Only Letters\obj\Debug\_32.Only_Letters.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\32. Only Letters\obj\Debug\_32.Only_Letters.pdb

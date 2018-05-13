@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\06. Fold and Sum\bin\Debug\_06.Fold_and_Sum.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\06. Fold and Sum\obj\Debug\06. Fold and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\06. Fold and Sum\obj\Debug\06. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\06. Fold and Sum\obj\Debug\_06.Fold_and_Sum.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\06. Fold and Sum\obj\Debug\_06.Fold_and_Sum.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\bin\Debug\_09.Refactor_Special_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\bin\Debug\_09.Refactor_Special_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\bin\Debug\_09.Refactor_Special_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\obj\Debug\09. Refactor Special Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\obj\Debug\09. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\obj\Debug\_09.Refactor_Special_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\obj\Debug\_09.Refactor_Special_Numbers.pdb

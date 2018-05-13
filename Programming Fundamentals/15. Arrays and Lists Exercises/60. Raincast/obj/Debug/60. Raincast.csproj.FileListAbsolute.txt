@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\60. Raincast\bin\Debug\_60.Raincast.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\60. Raincast\bin\Debug\_60.Raincast.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\60. Raincast\bin\Debug\_60.Raincast.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\60. Raincast\obj\Debug\60. Raincast.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\60. Raincast\obj\Debug\60. Raincast.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\60. Raincast\obj\Debug\_60.Raincast.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\60. Raincast\obj\Debug\_60.Raincast.pdb

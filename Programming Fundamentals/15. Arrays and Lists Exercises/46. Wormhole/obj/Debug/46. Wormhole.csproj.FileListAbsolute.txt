@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\46. Wormhole\bin\Debug\_46.Wormhole.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\46. Wormhole\bin\Debug\_46.Wormhole.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\46. Wormhole\bin\Debug\_46.Wormhole.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\46. Wormhole\obj\Debug\46. Wormhole.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\46. Wormhole\obj\Debug\46. Wormhole.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\46. Wormhole\obj\Debug\_46.Wormhole.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\46. Wormhole\obj\Debug\_46.Wormhole.pdb

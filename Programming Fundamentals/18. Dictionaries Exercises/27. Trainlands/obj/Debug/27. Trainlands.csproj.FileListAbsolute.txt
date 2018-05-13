@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\27. Trainlands\bin\Debug\_27.Trainlands.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\27. Trainlands\bin\Debug\_27.Trainlands.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\27. Trainlands\bin\Debug\_27.Trainlands.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\27. Trainlands\obj\Debug\27. Trainlands.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\27. Trainlands\obj\Debug\27. Trainlands.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\27. Trainlands\obj\Debug\_27.Trainlands.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\27. Trainlands\obj\Debug\_27.Trainlands.pdb

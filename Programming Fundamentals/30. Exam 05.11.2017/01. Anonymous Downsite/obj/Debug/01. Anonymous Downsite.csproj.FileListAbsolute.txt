@@ -1,0 +1,7 @@
+c:\users\maverick\OneDrive\C# Projects\Exam Preparation 10.12.17\01. Anonymous Downsite\bin\Debug\_01.Anonymous_Downsite.exe.config
+c:\users\maverick\OneDrive\C# Projects\Exam Preparation 10.12.17\01. Anonymous Downsite\bin\Debug\_01.Anonymous_Downsite.exe
+c:\users\maverick\OneDrive\C# Projects\Exam Preparation 10.12.17\01. Anonymous Downsite\bin\Debug\_01.Anonymous_Downsite.pdb
+c:\users\maverick\OneDrive\C# Projects\Exam Preparation 10.12.17\01. Anonymous Downsite\obj\Debug\01. Anonymous Downsite.csprojResolveAssemblyReference.cache
+c:\users\maverick\OneDrive\C# Projects\Exam Preparation 10.12.17\01. Anonymous Downsite\obj\Debug\01. Anonymous Downsite.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Exam Preparation 10.12.17\01. Anonymous Downsite\obj\Debug\_01.Anonymous_Downsite.exe
+c:\users\maverick\OneDrive\C# Projects\Exam Preparation 10.12.17\01. Anonymous Downsite\obj\Debug\_01.Anonymous_Downsite.pdb

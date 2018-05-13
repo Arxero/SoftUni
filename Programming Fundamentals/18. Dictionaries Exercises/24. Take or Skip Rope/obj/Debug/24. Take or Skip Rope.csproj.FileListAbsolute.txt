@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\24. Take or Skip Rope\bin\Debug\_24.Take_or_Skip_Rope.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\24. Take or Skip Rope\bin\Debug\_24.Take_or_Skip_Rope.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\24. Take or Skip Rope\bin\Debug\_24.Take_or_Skip_Rope.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\24. Take or Skip Rope\obj\Debug\24. Take or Skip Rope.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\24. Take or Skip Rope\obj\Debug\_24.Take_or_Skip_Rope.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\24. Take or Skip Rope\obj\Debug\_24.Take_or_Skip_Rope.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\24. Take or Skip Rope\obj\Debug\24. Take or Skip Rope.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\21. Extract Sentences by Keyword\bin\Debug\_21.Extract_Sentences_by_Keyword.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\21. Extract Sentences by Keyword\bin\Debug\_21.Extract_Sentences_by_Keyword.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\21. Extract Sentences by Keyword\bin\Debug\_21.Extract_Sentences_by_Keyword.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\21. Extract Sentences by Keyword\obj\Debug\21. Extract Sentences by Keyword.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\21. Extract Sentences by Keyword\obj\Debug\_21.Extract_Sentences_by_Keyword.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\21. Extract Sentences by Keyword\obj\Debug\_21.Extract_Sentences_by_Keyword.pdb

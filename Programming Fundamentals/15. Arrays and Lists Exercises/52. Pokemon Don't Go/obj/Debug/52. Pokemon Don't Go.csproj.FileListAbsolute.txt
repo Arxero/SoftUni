@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\52. Pokemon Don't Go\bin\Debug\_52.Pokemon_Don_t_Go.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\52. Pokemon Don't Go\bin\Debug\_52.Pokemon_Don_t_Go.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\52. Pokemon Don't Go\bin\Debug\_52.Pokemon_Don_t_Go.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\52. Pokemon Don't Go\obj\Debug\52. Pokemon Don't Go.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\52. Pokemon Don't Go\obj\Debug\52. Pokemon Don't Go.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\52. Pokemon Don't Go\obj\Debug\_52.Pokemon_Don_t_Go.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\52. Pokemon Don't Go\obj\Debug\_52.Pokemon_Don_t_Go.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\02. Rectangle Area\obj\Debug\02. Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.pdb

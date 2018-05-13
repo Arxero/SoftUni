@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\10. SoftUni Karaoke\bin\Debug\_10.SoftUni_Karaoke.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\10. SoftUni Karaoke\bin\Debug\_10.SoftUni_Karaoke.exe
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\10. SoftUni Karaoke\bin\Debug\_10.SoftUni_Karaoke.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\10. SoftUni Karaoke\obj\Debug\10. SoftUni Karaoke.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\10. SoftUni Karaoke\obj\Debug\10. SoftUni Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\10. SoftUni Karaoke\obj\Debug\_10.SoftUni_Karaoke.exe
+C:\Users\Maverick\OneDrive\C# Projects\Programming Fundamentals Exam - 09 July 2017 Part 1\10. SoftUni Karaoke\obj\Debug\_10.SoftUni_Karaoke.pdb

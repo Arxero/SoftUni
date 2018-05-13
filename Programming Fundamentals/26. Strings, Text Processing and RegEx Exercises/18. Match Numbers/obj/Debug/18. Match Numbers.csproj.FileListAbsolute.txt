@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\18. Match Numbers\bin\Debug\_18.Match_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\18. Match Numbers\bin\Debug\_18.Match_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\18. Match Numbers\bin\Debug\_18.Match_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\18. Match Numbers\obj\Debug\18. Match Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\18. Match Numbers\obj\Debug\_18.Match_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\18. Match Numbers\obj\Debug\_18.Match_Numbers.pdb

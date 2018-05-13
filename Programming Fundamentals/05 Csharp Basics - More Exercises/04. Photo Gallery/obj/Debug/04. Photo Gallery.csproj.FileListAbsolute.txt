@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\04. Photo Gallery\bin\Debug\_04.Photo_Gallery.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\04. Photo Gallery\obj\Debug\04. Photo Gallery.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\04. Photo Gallery\obj\Debug\04. Photo Gallery.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\04. Photo Gallery\obj\Debug\_04.Photo_Gallery.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\04. Photo Gallery\obj\Debug\_04.Photo_Gallery.pdb

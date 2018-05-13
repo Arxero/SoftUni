@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\08. Character Multiplier\bin\Debug\_08.Character_Multiplier.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\08. Character Multiplier\bin\Debug\_08.Character_Multiplier.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\08. Character Multiplier\bin\Debug\_08.Character_Multiplier.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\08. Character Multiplier\obj\Debug\08. Character Multiplier +.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\08. Character Multiplier\obj\Debug\08. Character Multiplier +.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\08. Character Multiplier\obj\Debug\_08.Character_Multiplier.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\08. Character Multiplier\obj\Debug\_08.Character_Multiplier.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\42. Sum Reversed Numbers\bin\Debug\_42.Sum_Reversed_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\42. Sum Reversed Numbers\bin\Debug\_42.Sum_Reversed_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\42. Sum Reversed Numbers\bin\Debug\_42.Sum_Reversed_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\42. Sum Reversed Numbers\obj\Debug\42. Sum Reversed Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\42. Sum Reversed Numbers\obj\Debug\42. Sum Reversed Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\42. Sum Reversed Numbers\obj\Debug\_42.Sum_Reversed_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\42. Sum Reversed Numbers\obj\Debug\_42.Sum_Reversed_Numbers.pdb

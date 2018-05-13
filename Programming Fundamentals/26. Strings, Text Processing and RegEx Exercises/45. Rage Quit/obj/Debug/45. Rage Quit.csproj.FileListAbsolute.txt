@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\45. Rage Quit\bin\Debug\_45.Rage_Quit.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\45. Rage Quit\bin\Debug\_45.Rage_Quit.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\45. Rage Quit\bin\Debug\_45.Rage_Quit.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\45. Rage Quit\obj\Debug\45. Rage Quit.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\45. Rage Quit\obj\Debug\45. Rage Quit.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\45. Rage Quit\obj\Debug\_45.Rage_Quit.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\45. Rage Quit\obj\Debug\_45.Rage_Quit.pdb

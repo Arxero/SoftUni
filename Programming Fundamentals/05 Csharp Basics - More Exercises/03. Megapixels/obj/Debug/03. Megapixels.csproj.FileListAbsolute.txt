@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\03. Megapixels\bin\Debug\_03.Megapixels.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\03. Megapixels\bin\Debug\_03.Megapixels.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\03. Megapixels\bin\Debug\_03.Megapixels.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\03. Megapixels\obj\Debug\03. Megapixels.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\03. Megapixels\obj\Debug\_03.Megapixels.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\03. Megapixels\obj\Debug\_03.Megapixels.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Basics - More Exercises\03. Megapixels\obj\Debug\03. Megapixels.csprojResolveAssemblyReference.cache

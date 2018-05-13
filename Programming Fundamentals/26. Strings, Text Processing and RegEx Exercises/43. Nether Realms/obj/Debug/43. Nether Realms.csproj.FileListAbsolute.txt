@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\43. Nether Realms\bin\Debug\_43.Nether_Realms.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\43. Nether Realms\bin\Debug\_43.Nether_Realms.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\43. Nether Realms\bin\Debug\_43.Nether_Realms.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\43. Nether Realms\obj\Debug\43. Nether Realms.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\43. Nether Realms\obj\Debug\43. Nether Realms.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\43. Nether Realms\obj\Debug\_43.Nether_Realms.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\43. Nether Realms\obj\Debug\_43.Nether_Realms.pdb

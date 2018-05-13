@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\28. CODE Phoenix Oscar Romeo November\bin\Debug\_28.CODE_Phoenix_Oscar_Romeo_November.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\28. CODE Phoenix Oscar Romeo November\bin\Debug\_28.CODE_Phoenix_Oscar_Romeo_November.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\28. CODE Phoenix Oscar Romeo November\bin\Debug\_28.CODE_Phoenix_Oscar_Romeo_November.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\28. CODE Phoenix Oscar Romeo November\obj\Debug\28. CODE Phoenix Oscar Romeo November.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\28. CODE Phoenix Oscar Romeo November\obj\Debug\28. CODE Phoenix Oscar Romeo November.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\28. CODE Phoenix Oscar Romeo November\obj\Debug\_28.CODE_Phoenix_Oscar_Romeo_November.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\28. CODE Phoenix Oscar Romeo November\obj\Debug\_28.CODE_Phoenix_Oscar_Romeo_November.pdb

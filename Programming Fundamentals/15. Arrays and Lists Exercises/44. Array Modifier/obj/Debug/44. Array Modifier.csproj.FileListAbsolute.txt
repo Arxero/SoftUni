@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\44. Array Modifier\bin\Debug\_44.Array_Modifier.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\44. Array Modifier\bin\Debug\_44.Array_Modifier.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\44. Array Modifier\bin\Debug\_44.Array_Modifier.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\44. Array Modifier\obj\Debug\44. Array Modifier.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\44. Array Modifier\obj\Debug\44. Array Modifier.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\44. Array Modifier\obj\Debug\_44.Array_Modifier.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\44. Array Modifier\obj\Debug\_44.Array_Modifier.pdb

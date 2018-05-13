@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\06. Sum big numbers\bin\Debug\_06.Sum_big_numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\06. Sum big numbers\obj\Debug\06. Sum big numbers.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\06. Sum big numbers\obj\Debug\06. Sum big numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\06. Sum big numbers\obj\Debug\_06.Sum_big_numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings and Text Processing - Exercises\06. Sum big numbers\obj\Debug\_06.Sum_big_numbers.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\24. Grab and Go\bin\Debug\_24.Grab_and_Go.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\24. Grab and Go\bin\Debug\_24.Grab_and_Go.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\24. Grab and Go\bin\Debug\_24.Grab_and_Go.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\24. Grab and Go\obj\Debug\24. Grab and Go.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\24. Grab and Go\obj\Debug\24. Grab and Go.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\24. Grab and Go\obj\Debug\_24.Grab_and_Go.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\24. Grab and Go\obj\Debug\_24.Grab_and_Go.pdb

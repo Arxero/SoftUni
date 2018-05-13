@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\20. Immune System\bin\Debug\_20.Immune_System.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\20. Immune System\bin\Debug\_20.Immune_System.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\20. Immune System\bin\Debug\_20.Immune_System.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\20. Immune System\obj\Debug\20. Immune System.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\20. Immune System\obj\Debug\20. Immune System.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\20. Immune System\obj\Debug\_20.Immune_System.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\20. Immune System\obj\Debug\_20.Immune_System.pdb

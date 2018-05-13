@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\61. RainAir\bin\Debug\_61.RainAir.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\61. RainAir\bin\Debug\_61.RainAir.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\61. RainAir\bin\Debug\_61.RainAir.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\61. RainAir\obj\Debug\61. RainAir.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\61. RainAir\obj\Debug\61. RainAir.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\61. RainAir\obj\Debug\_61.RainAir.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\61. RainAir\obj\Debug\_61.RainAir.pdb

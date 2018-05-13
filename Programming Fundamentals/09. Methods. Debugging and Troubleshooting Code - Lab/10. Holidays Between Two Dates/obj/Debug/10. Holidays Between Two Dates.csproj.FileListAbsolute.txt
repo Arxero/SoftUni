@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\bin\Debug\_10.Holidays_Between_Two_Dates.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\bin\Debug\_10.Holidays_Between_Two_Dates.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\bin\Debug\_10.Holidays_Between_Two_Dates.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\obj\Debug\10. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\obj\Debug\_10.Holidays_Between_Two_Dates.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\obj\Debug\_10.Holidays_Between_Two_Dates.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Lab\10. Holidays Between Two Dates\obj\Debug\10. Holidays Between Two Dates.csprojResolveAssemblyReference.cache

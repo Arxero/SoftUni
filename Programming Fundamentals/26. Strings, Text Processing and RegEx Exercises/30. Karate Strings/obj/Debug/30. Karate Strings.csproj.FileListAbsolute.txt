@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\30. Karate Strings\bin\Debug\_30.Karate_Strings.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\30. Karate Strings\bin\Debug\_30.Karate_Strings.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\30. Karate Strings\bin\Debug\_30.Karate_Strings.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\30. Karate Strings\obj\Debug\30. Karate Strings.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\30. Karate Strings\obj\Debug\_30.Karate_Strings.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\30. Karate Strings\obj\Debug\_30.Karate_Strings.pdb

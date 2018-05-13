@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\26. NSA\bin\Debug\_26.NSA.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\26. NSA\bin\Debug\_26.NSA.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\26. NSA\bin\Debug\_26.NSA.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\26. NSA\obj\Debug\26. NSA.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\26. NSA\obj\Debug\26. NSA.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\26. NSA\obj\Debug\_26.NSA.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\26. NSA\obj\Debug\_26.NSA.pdb

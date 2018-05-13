@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\obj\Debug\03. English Name of Last Digit.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\obj\Debug\03. English Name of Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\obj\Debug\_03.English_Name_of_Last_Digit.exe
+C:\Users\Maverick\OneDrive\C# Projects\Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\obj\Debug\_03.English_Name_of_Last_Digit.pdb

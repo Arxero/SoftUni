@@ -1,0 +1,7 @@
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\06. Valid Usernames\bin\Debug\_06.Valid_Usernames.exe.config
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\06. Valid Usernames\bin\Debug\_06.Valid_Usernames.exe
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\06. Valid Usernames\bin\Debug\_06.Valid_Usernames.pdb
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\06. Valid Usernames\obj\Debug\06. Valid Usernames.csprojResolveAssemblyReference.cache
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\06. Valid Usernames\obj\Debug\06. Valid Usernames.csproj.CoreCompileInputs.cache
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\06. Valid Usernames\obj\Debug\_06.Valid_Usernames.exe
+c:\users\maverick\OneDrive\C# Projects\Regular Expressions (RegEx) - Exercises\06. Valid Usernames\obj\Debug\_06.Valid_Usernames.pdb

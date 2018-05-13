@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\51. Command Interpreter\bin\Debug\_51.Command_Interpreter.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\51. Command Interpreter\bin\Debug\_51.Command_Interpreter.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\51. Command Interpreter\bin\Debug\_51.Command_Interpreter.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\51. Command Interpreter\obj\Debug\51. Command Interpreter ++.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\51. Command Interpreter\obj\Debug\_51.Command_Interpreter.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\51. Command Interpreter\obj\Debug\_51.Command_Interpreter.pdb

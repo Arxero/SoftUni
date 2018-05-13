@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\05. Character Stats.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\05. Character Stats.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\_05.Character_Stats.exe
+C:\Users\Maverick\OneDrive\C# Projects\Csharp Intro and Basic Syntax - Exercises\05. Character Stats\obj\Debug\_05.Character_Stats.pdb

@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\12. Letters Change Numbers\bin\Debug\_12.Letters_Change_Numbers.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\12. Letters Change Numbers\bin\Debug\_12.Letters_Change_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\12. Letters Change Numbers\bin\Debug\_12.Letters_Change_Numbers.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\12. Letters Change Numbers\obj\Debug\12. Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\12. Letters Change Numbers\obj\Debug\_12.Letters_Change_Numbers.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\12. Letters Change Numbers\obj\Debug\_12.Letters_Change_Numbers.pdb

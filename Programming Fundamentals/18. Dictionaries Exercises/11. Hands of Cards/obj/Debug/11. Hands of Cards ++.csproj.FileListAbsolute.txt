@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\11. Hands of Cards\bin\Debug\_11.Hands_of_Cards.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\11. Hands of Cards\bin\Debug\_11.Hands_of_Cards.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\11. Hands of Cards\bin\Debug\_11.Hands_of_Cards.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\11. Hands of Cards\obj\Debug\11. Hands of Cards ++.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\11. Hands of Cards\obj\Debug\11. Hands of Cards ++.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\11. Hands of Cards\obj\Debug\_11.Hands_of_Cards.exe
+C:\Users\Maverick\OneDrive\C# Projects\Dictionaries Exercises\11. Hands of Cards\obj\Debug\_11.Hands_of_Cards.pdb

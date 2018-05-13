@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\44. Cubic Messages\bin\Debug\_44.Cubic_Messages.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\44. Cubic Messages\bin\Debug\_44.Cubic_Messages.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\44. Cubic Messages\bin\Debug\_44.Cubic_Messages.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\44. Cubic Messages\obj\Debug\44. Cubic Messages.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\44. Cubic Messages\obj\Debug\44. Cubic Messages.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\44. Cubic Messages\obj\Debug\_44.Cubic_Messages.exe
+C:\Users\Maverick\OneDrive\C# Projects\Strings, Text Processing and RegEx Exercises\44. Cubic Messages\obj\Debug\_44.Cubic_Messages.pdb

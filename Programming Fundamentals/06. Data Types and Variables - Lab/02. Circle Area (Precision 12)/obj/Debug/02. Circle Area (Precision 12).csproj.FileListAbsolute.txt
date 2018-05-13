@@ -1,0 +1,6 @@
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\bin\Debug\_02.Circle_Area__Precision_12_.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\bin\Debug\_02.Circle_Area__Precision_12_.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\bin\Debug\_02.Circle_Area__Precision_12_.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\obj\Debug\02. Circle Area (Precision 12).csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\obj\Debug\_02.Circle_Area__Precision_12_.exe
+C:\Users\Maverick\OneDrive\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\obj\Debug\_02.Circle_Area__Precision_12_.pdb

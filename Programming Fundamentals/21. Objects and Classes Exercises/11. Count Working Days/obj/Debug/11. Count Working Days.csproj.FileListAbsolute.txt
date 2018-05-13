@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\11. Count Working Days\bin\Debug\_11.Count_Working_Days.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\11. Count Working Days\bin\Debug\_11.Count_Working_Days.exe
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\11. Count Working Days\bin\Debug\_11.Count_Working_Days.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\11. Count Working Days\obj\Debug\11. Count Working Days.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\11. Count Working Days\obj\Debug\11. Count Working Days.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\11. Count Working Days\obj\Debug\_11.Count_Working_Days.exe
+C:\Users\Maverick\OneDrive\C# Projects\Objects and Classes Exercises\11. Count Working Days\obj\Debug\_11.Count_Working_Days.pdb

@@ -1,0 +1,7 @@
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\59. Rainer\bin\Debug\_59.Rainer.exe.config
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\59. Rainer\bin\Debug\_59.Rainer.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\59. Rainer\bin\Debug\_59.Rainer.pdb
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\59. Rainer\obj\Debug\59. Rainer.csprojResolveAssemblyReference.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\59. Rainer\obj\Debug\59. Rainer.csproj.CoreCompileInputs.cache
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\59. Rainer\obj\Debug\_59.Rainer.exe
+C:\Users\Maverick\OneDrive\C# Projects\Arrays and Lists Exercises\59. Rainer\obj\Debug\_59.Rainer.pdb
