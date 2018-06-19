@@ -1,0 +1,20 @@
+    <h1>Add New Book</h1>
+    {{{message}}}
+    <div class="container">
+        <form action="/addBook" method="POST" enctype="multipart/form-data">
+            <label for="bookTitle">Title</label>
+            <input type="text" id="bookTitle" name="bookTitle" placeholder="The title of the book">
+
+            <label for="bookYear">Year</label>
+            <input type="text" id="bookYear" name="bookYear" placeholder="Year of release">
+
+            <label for="bookPoster">Poster URL</label>
+            <input type="file" id="bookPoster" name="bookPoster" placeholder="Link to a poster" accept=".jpg, .png, .gif, .jpeg">
+
+            <label for="bookAuthor">Book author</label>
+            <input type="text" id="bookAuthor" name="bookAuthor" placeholder="Book author">
+
+            <input type="submit" value="Submit">
+
+        </form>
+    </div>

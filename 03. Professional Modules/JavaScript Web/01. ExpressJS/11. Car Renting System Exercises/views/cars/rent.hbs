@@ -1,0 +1,17 @@
+<div class="car-container">
+    <section>
+        <img src="{{car.imageUrl}}" alt='car-image' />
+    </section>
+    <section class="info">
+        <strong>{{car.make}}</strong>
+        <span class="rented">Price per Day:
+            <strong>{{car.dailyPrice}}</strong>
+        </span>
+    </section>
+    <section>
+        <form method="POST">
+            <input type="number" name="rentDays" placeholder="days">
+            <input type="submit" value="RENT">
+        </form>
+    </section>
+</div>`

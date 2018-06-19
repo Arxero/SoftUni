@@ -1,0 +1,19 @@
+<h1>Delete Product</h1>
+<div class="catalog">
+    <div class="column">
+        <img src="{{product.image}}">
+    </div>
+    <div class="column">
+        <h2>{{product.category}} doner, {{product.size}}cm</h2>
+        <h3>{{order.date}}</h3>
+        <div class="toppings" style="text-transform: capitalize">
+            {{#each product.topings}} 
+                {{this}}
+                <br>
+            {{/each}}
+            <form method="POST">
+                <input class="button" type="submit" value="Delete" style="border:0">
+            </form>
+        </div>
+    </div>
+</div>

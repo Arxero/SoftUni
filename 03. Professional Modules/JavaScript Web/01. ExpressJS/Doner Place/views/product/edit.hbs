@@ -1,0 +1,32 @@
+<h1>Edit Product</h1>
+<div class="catalog">
+    <div class="column">
+        <img src="{{product.image}}">
+    </div>
+    <div class="column">
+        <h2>{{product.category}} doner, {{product.size}}cm</h2>
+        <h3>{{order.date}}</h3>
+        <div class="toppings" style="text-transform: capitalize">
+            <br>
+            <form method="POST">
+                Category:
+                <br>
+                <input type="text" name="category" value="{{product.category}}">
+                <br>
+                Size:
+                <br>
+                <input type="text" name="size" value="{{product.size}}">
+                <br>
+                Image:
+                <br>
+                <input type="text" name="image" value="{{product.image}}">
+                <br>
+                Toppings:
+                <br>
+                <textarea name="topings" id="" cols="21" rows="4">{{product.topings}}</textarea>
+                <br>
+                <input class="button" type="submit" value="Save Changes" style="border:0">
+            </form>
+        </div>
+    </div>
+</div>

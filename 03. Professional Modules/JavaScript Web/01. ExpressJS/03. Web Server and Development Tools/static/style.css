@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(87, 204, 19);
+    font-family: "Open", sans-serif;
+}
+body {
+    background: #111111;
+    font-family: "Open", sans-serif;
+    font-size: 18px;
+    line-height: 140%
+}
+p {
+    color: #dadada;
+}
+a {
+    color: #51A0CB;
+}
+a:hover {
+    color: rgb(98, 181, 226);
+}

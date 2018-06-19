@@ -1,0 +1,34 @@
+<center>
+    <h2>Profile</h2>
+    <section>
+        <h3>Articles history for {{username}}</h3>
+        <table>
+           {{#if articles}}
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Content</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+            {{/if}}
+            <tbody>
+                {{#each articles}}
+                <tr>
+                    <td>{{title}}</td>
+                    <td>{{content}}</td>
+                    <td>{{date}}</td>
+                </tr>
+                {{else}}
+                <tr>
+                    <td colspan="2">
+                        <i>No articles
+                            <a href="/article/create">Post New Article</a>
+                        </i>
+                    </td>
+                </tr>
+                {{/each}}
+            </tbody>
+        </table>
+    </section>
+</center>

@@ -1,0 +1,20 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "authentication lab",
+  "main": "index.js",
+  "engine": "10.1.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maverick",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6"
+  }
+}

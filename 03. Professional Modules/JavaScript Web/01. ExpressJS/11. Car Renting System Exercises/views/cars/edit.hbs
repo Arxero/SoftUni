@@ -1,0 +1,9 @@
+<h1>Edit a car</h1>
+<form method="post" enctype="multipart/form-data">
+    <input name="make" placeholder="enter make" value="{{car.make}}" />
+    <input name="model" placeholder="enter model"  value="{{car.model}}"/>
+    <input type="file" name="imageUrl" placeholder="enter image url" value="{{car.imageUrl}}" accept=".jpg, .png, .gif, .jpeg"/>
+    <input name="color", placeholder="enter color (optional)" value="{{car.color}}"/>
+     <input type="number" name="dailyPrice", placeholder="price per day" value="{{car.dailyPrice}}"/>
+    <input id="submit" type="submit" value="EDIT" />
+</form>

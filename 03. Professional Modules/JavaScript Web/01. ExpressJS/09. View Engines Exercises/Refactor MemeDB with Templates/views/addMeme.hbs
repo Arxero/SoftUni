@@ -1,0 +1,23 @@
+<h1>Add New Meme</h1>
+    <div class="container">
+        <form action="/addMeme" enctype=multipart/form-data method="POST">
+            <label for="movieTitle">Title</label>
+            <input type="text" id="movieTitle" name="memeTitle" placeholder="The title of the meme">
+
+            <select name='genreSelect' id="genreSelect">
+                {{{content}}}
+            </select>
+
+
+            <label for="moviePoster">Poster URL</label>
+            <input type="file" id="moviePoster" name="meme" placeholder="Link to a poster" accept=".jpg,.jpeg,.png, .gif">
+
+            <input type="checkbox" name='status' id='status' checked> public
+
+            <label for="movieDescription">Meme description</label>
+            <textarea id="movieDescription" name="memeDescription" placeholder="Meme description" rows="10" cols="10"></textarea>
+
+            <input type="submit" value="Submit">
+
+        </form>
+    </div>

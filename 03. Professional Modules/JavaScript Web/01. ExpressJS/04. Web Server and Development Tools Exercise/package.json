@@ -1,0 +1,22 @@
+{
+  "name": "web_server_exercise",
+  "version": "1.0.0",
+  "description": "web server exercise",
+  "main": "index.js",
+  "engine": "10.1.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "node.js"
+  ],
+  "author": "Maverick",
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-rename": "^1.2.3"
+  }
+}
