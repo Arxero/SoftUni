@@ -1,0 +1,45 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+
+div {
+    width: 100%;
+    text-align: center;
+}
+
+#users {
+    font-family:'Noto Sans', sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+}
+
+#users td, #users th {
+    border: 0px solid #278FE8;
+    padding: 10px;
+}
+
+#users tr:nth-child(even){background-color: #222222;}
+
+#users tr:hover {background-color: #444444;}
+
+#users th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #278FE8;
+    color: #e7e7e7;
+}
+
+#users img {
+    width: 50px;
+    border-radius: 2px;
+}
+
+#users i {
+    cursor: pointer;
+    margin: 3px;
+    font-size: 20px;
+}
+
+#editUserIcon, #deleteUserIcon{
+    color: #dadada;
+}

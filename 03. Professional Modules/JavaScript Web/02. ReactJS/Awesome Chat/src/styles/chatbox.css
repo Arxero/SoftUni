@@ -1,0 +1,128 @@
+fieldset {
+    border-color: #278FE8;
+    border-radius: 4px;
+    margin:  auto;
+    margin-top: 40px;
+    margin-bottom: 35px;
+    border-width: 1px;
+    
+}
+textarea {
+    width: 100%;
+    height: 100px;
+    border-radius: 4px;
+    background-color: #222222;
+    color: #D0D0D0;
+    border: none;
+    text-decoration: none;
+    outline: none;
+    overflow: auto;
+    box-shadow: none;
+    font-size: 17px;
+    resize: vertical;
+}
+
+#content {
+    width: 100%
+}
+
+textarea:disabled {
+    
+    cursor:not-allowed;
+    color: #dadada86;
+}
+
+/* bardefault */
+#barDefault {
+    text-align: left;
+    background-color: #111111;
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+#barDefault  img {
+    width: 50px;
+    margin: 10px;
+    float: left;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+#barDefault p {
+    position: absolute;
+    text-align: left;
+    margin-left: 75px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+#barDefault #status {
+    float: left;
+    text-align: left;
+    margin-left: 75px;
+    margin-top: 31px;
+    font-size: 18px;
+    color: #49A0CC;
+}
+
+
+/* user messages style */
+#userMessage {
+    text-align: left;
+    background-color: #111111;
+    float: left;
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+
+
+#userMessage img {
+    width: 50px;
+    margin: 10px;
+    float: left;
+    border-radius: 2px;
+}
+
+#userMessage p {
+    position: absolute;
+    text-align: left;
+    margin-left: 75px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+#userNameColor {
+    color: #2AC400;
+}
+
+#userMessage #userMessageText {
+    position: relative;
+    text-align: left;
+    margin-left: 75px;
+    margin-top: 35px;
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+#messageDate {
+    color: #8A8A8A;
+    font-size: 80%;
+    line-height: 1.0em;
+    text-align: right;
+    float: right;
+    padding: 0 0.5em;
+    padding-bottom: 5px;
+    padding-right: 10px;
+}
+
+#editIcon {
+    color: #8A8A8A;
+    line-height: 1.0em;
+    float: right;
+    bottom: 5px;
+    position: relative;
+   
+}
+

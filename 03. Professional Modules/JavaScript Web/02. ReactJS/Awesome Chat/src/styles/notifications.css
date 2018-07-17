@@ -1,0 +1,56 @@
+#notifications {
+    float: left;
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: center;
+    margin: 1em;
+}
+
+#notifications:hover {
+    color: black;
+}
+
+.notification {
+    font-size: 1.5em;
+    color: #ffffff;
+    text-align: right;
+    transition: 1.0s;
+}
+
+.notification:hover {
+    color: black;
+    transition: 1.0s;
+}
+
+.notification>span {
+    display: inline-block;
+    padding:  0.4em 0.8em 0.4em 0.8em;
+    border-radius: 3px;
+}
+
+#loadingBox>span {
+    background: #7CB3E9;
+}
+#infoBox>span {
+    background: rgb(43, 206, 49);
+}
+#errorBox>span {
+    background: #f44336;
+}
+
+.closebtn {
+    margin-top: 5px;
+    margin-left: 10px;
+    color: white;
+    font-weight: bold;
+    float: right;
+    font-size: 32px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 1.0s;
+}
+
+.closebtn:hover {
+    color: black;
+}
