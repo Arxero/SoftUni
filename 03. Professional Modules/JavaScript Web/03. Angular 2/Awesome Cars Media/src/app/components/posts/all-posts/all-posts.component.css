@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.a-center {
+    text-align: center;
+}
+
+.pagination-allposts /deep/ .ngx-pagination.responsive {
+    /* float: none !important; */
+    width: 100% !important;
+    text-align: center !important;
+
+}
+
+.pagination-allposts /deep/ .ngx-pagination a {
+    color: #dadada;
+}
+
+.pagination-allposts /deep/ .ngx-pagination a:hover {
+    background-color: #333333;
+}
+
+.pagination-allposts /deep/ .ngx-pagination .disabled {
+    color: #727272;
+}
+

@@ -1,0 +1,15 @@
+.bottom {
+    margin-top: 18px;
+}
+
+.image-centered {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+}
+
+button:disabled {
+    background-color: #333333;
+}

@@ -1,0 +1,38 @@
+.users-table {
+    border-collapse: collapse;
+    width: 100%;
+    text-align: left;
+}
+
+.users-table td, .users-table th {
+    border: 0px solid #278FE8;
+    padding: 10px;
+    border-radius: 0px !important;
+}
+
+.users-table tr:nth-child(even){background-color: #222222;}
+
+.users-table tr:hover {background-color: #444444;}
+
+.users-table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #278FE8;
+    color: #e7e7e7;
+}
+
+.users-table img {
+    width: 50px;
+    border-radius: 2px;
+}
+
+.users-table i {
+    cursor: pointer;
+    margin: 3px;
+    font-size: 20px;
+}
+
+.action-link {
+    color: #dadada;
+}

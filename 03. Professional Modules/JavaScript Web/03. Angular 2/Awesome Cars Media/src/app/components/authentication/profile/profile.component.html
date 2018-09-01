@@ -1,0 +1,32 @@
+<form (ngSubmit)='edit()' #editProfileForm='ngForm' *ngIf="model" class="modal-content">
+    <div class="container">
+        <h1>Edit Profile</h1>
+        <b>New Username</b>
+        <input [(ngModel)]='model.username' #username='ngModel' type="text" placeholder="Enter Username" name="username" required
+        minlength="3"
+        maxlength="20">
+        <div [hidden]="username.valid || username.pristine" class="alert-danger" >
+            Username must have at least 3 characters
+        </div>
+
+        <b>New Email</b>
+        <input [(ngModel)]='model.email' #email='ngModel' type="text" placeholder="Enter Email" name="email" required
+        email>
+        <div [hidden]="email.valid || email.pristine" class="alert-danger" >
+            Email address must be correct
+        </div>
+
+        <b>New Password</b>
+        <input [(ngModel)]='model.password' #password='ngModel' type="password" placeholder="Enter Password" name="password" required
+        minlength="4"
+        maxlength="20">
+        <div [hidden]="password.valid || password.pristine" class="alert-danger" >
+            Password must have at least 4 characters
+        </div>
+
+        <div class="clearfix">
+            <a routerLink="/"><button type="button" class="cancelbtn">Cancel</button></a>
+            <button [disabled]='editProfileForm.form.invalid' type="submit" class="signupbtn">Submit</button>
+        </div>
+    </div>
+</form>

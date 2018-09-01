@@ -1,0 +1,49 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('https://pro.fontawesome.com/releases/v5.0.10/css/all.css');
+@import url('https://use.fontawesome.com/releases/v5.2.0/css/all.css');
+
+
+
+body {
+    background-color: #111111;
+    font-family: 'Noto Sans', sans-serif;
+    color: #dadada;
+    margin: 0px;
+}
+
+h1 {
+    font-weight: 200;
+}
+
+
+h2 {
+    font-weight: 200;
+}
+
+.loader {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    z-index: 1;
+    margin: -0px 0 0 -75px;
+    border: 16px solid #dadada;
+    border-radius: 50%;
+    border-top: 16px solid #278FE7;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 1s linear infinite; /* Safari */
+    animation: spin 1s linear infinite;
+  }
+  
+  /* Safari */
+  @-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }

@@ -1,0 +1,30 @@
+<div *ngIf="!users" class="loader"></div>
+
+<div *ngIf="users">
+    <h1 >All Users</h1>
+
+    <table class="users-table">
+        <tbody>
+            <tr>
+                <th>Username</th>
+                <th>Contact</th>
+                <th>Joined</th>
+                <th>Action</th>
+            </tr>
+            <tr *ngFor="let user of users">
+                <ng-container *ngIf="user.username !== authService.user().username">
+                    <td>{{user.username}}</td>
+                    <td>{{user.email}}</td>
+                    <td>{{dateFormat(user._kmd)}}</td>
+                    <td>
+                        <a title="email this user" class="action-link" href="mailto:{{user.email}}"><i class="far fa-envelope"></i></a>
+                        <a title="make user an admin" *ngIf="authService.user().role" class="action-link" (click)='adminUser(user._id, user.username)'><i class="fal fa-arrow-square-up"></i></a>
+                        <a title="unadmin this user" *ngIf="authService.user().role" class="action-link" (click)='unAdminUser(user._id, user.username)'><i class="fal fa-arrow-square-down"></i></a>
+                        <a title="edit user profile" *ngIf="authService.user().role" class="action-link" routerLink="../edit/{{user._id}}"><i class="fas fa-user-edit"></i></a>
+                        <a title="delete user" *ngIf="authService.user().role" class="action-link" (click)='deleteUser(user._id, user.username)'><i class="fas fa-trash-alt"></i></a>
+                    </td>
+                </ng-container>
+            </tr>
+        </tbody>
+    </table>
+</div>

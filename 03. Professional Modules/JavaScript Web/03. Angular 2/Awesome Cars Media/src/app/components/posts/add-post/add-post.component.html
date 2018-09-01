@@ -1,0 +1,47 @@
+<form (ngSubmit)='create()' #createPostForm='ngForm' class="modal-content">
+    <div class="container">
+        <h1>Create Post</h1>
+
+        <b>Title</b>
+        <input [(ngModel)]='model.title' #title='ngModel' type="text" placeholder="Enter Title" name="title" required minlength="3"
+            maxlength="30">
+        <div [hidden]="title.valid || title.pristine" class="alert-danger">
+            Title must be at least 3 and less than 30 characters long.
+        </div>
+
+        <b>Image</b>
+        <input [(ngModel)]='model.image' #image='ngModel' type="text" placeholder="Enter Image URL" name="image" required minlength="10">
+        <div [hidden]="image.valid || image.pristine" class="alert-danger">
+            Image URL must be at least 10 and less than 100 characters long.
+        </div>
+        <div class="image-preview">
+            <img *ngIf="image.valid" src="{{model.image}}" alt="Image preview">
+            <img *ngIf="!image.valid" src="../../../../assets/images/no-image-avaiable.png" alt="Image preview">
+        </div>
+
+        <br>
+        <b>Description</b>
+        <input [(ngModel)]='model.description' #description='ngModel' type="text" placeholder="Enter Description" name="description"
+            required minlength="10" maxlength="140">
+        <div [hidden]="description.valid || description.pristine" class="alert-danger">
+            Description must be at least 10 and less than 140 characters long.
+        </div>
+
+        <b>Map</b>
+        <br>
+        <select [(ngModel)]='model.map' #map='ngModel' name="map" required>
+            <option *ngFor="let map of maps" [value]="map">{{map}}</option>
+        </select>
+
+
+
+
+
+        <div class="clearfix">
+            <a routerLink="/">
+                <button type="button" class="cancelbtn">Cancel</button>
+            </a>
+            <button [disabled]='createPostForm.form.invalid' type="submit" class="signupbtn">Submit</button>
+        </div>
+    </div>
+</form>

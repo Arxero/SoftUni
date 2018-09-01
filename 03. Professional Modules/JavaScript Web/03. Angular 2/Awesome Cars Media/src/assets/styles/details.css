@@ -1,0 +1,32 @@
+.mediaTop > * {
+    max-width: 100%
+}
+
+.editbtn {
+    width: 100px;
+    background-color: #278FE8;
+    float: right;
+}
+
+.deletebtn {
+    width: 100px;
+    background-color: #C6011E;
+    float: right;
+    margin-left: 15px;
+}
+
+.defaultbtn {
+    background-color: #111111;
+    margin-right: 15px;
+    display: inline-block;
+    padding-bottom: 16px;
+}
+
+.defaultbtn:hover:enabled {
+    opacity:1;
+}
+
+
+.blue-color-i {
+    color: #7cc5fb;
+}

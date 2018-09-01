@@ -1,0 +1,24 @@
+<h1>Awesome Cars Media</h1>
+
+<div class="topnav" id="myTopnav">
+    <a routerLink="/"><i class="fa fa-home"></i> Home</a>
+    <a *ngIf="authService.isAuthenticated()" routerLink="/posts/add"><i class="fas fa-plus-circle"></i> Add</a>
+    <a *ngIf="authService.isAuthenticated()" routerLink="/posts/myposts" ><i class="far fa-image"></i> My Posts</a>
+    <a *ngIf="authService.isAuthenticated()" routerLink="/users/all" ><i class="fas fa-users"></i> Users</a>
+    <div class="dropdown">
+        <div class="dropbtn"><i class="fa fa-link"></i> Links
+            <i class="fa fa-caret-down"></i>
+        </div>
+        <div class="dropdown-content">
+            <a target="_blank" href="https://github.com/Arxero/Awesome-Cars-Media/">GitHub</a>
+            <a target="_blank" href="http://awesomecs.syntrwave.com/">Our Forum</a>
+        </div>
+    </div>
+    <a class="icon" (click)="myFunction()"><i class="fa fa-bars"></i></a>
+
+    <a *ngIf="!authService.isAuthenticated()" id="login" routerLink="/login"><i class="fa fa-power-off"></i> Login</a>
+    <a *ngIf="!authService.isAuthenticated()" id="register" routerLink="/register"><i class="fa fa-edit"></i> Register</a>
+
+    <a *ngIf="authService.isAuthenticated()" id="logout" (click)='logout()'><i class="fa fa-power-off"></i> Logout</a>
+    <a *ngIf="authService.isAuthenticated()" id="username" routerLink="/profile"><i class="fa fa-user"></i> {{authService.user().username}}</a>
+</div>

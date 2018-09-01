@@ -1,0 +1,13 @@
+<form (ngSubmit)='editComment()' #editCommentForm='ngForm' class="modal-content" *ngIf="commentModel">
+        <div class="container">
+            <h1>Edit Comment</h1>
+            
+            <textarea [(ngModel)]='commentModel.comment' #comment='ngModel' class="edit-textarea" type="text" name="comment" required>
+            </textarea>
+    
+            <div class="clearfix">
+                <a routerLink="/"><button type="button" class="cancelbtn">Cancel</button></a>
+                <button [disabled]='editCommentForm.form.invalid' type="submit" class="signupbtn">Submit</button>
+            </div>
+        </div>
+    </form>

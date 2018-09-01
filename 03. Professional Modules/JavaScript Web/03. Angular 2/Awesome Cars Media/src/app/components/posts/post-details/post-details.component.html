@@ -1,0 +1,56 @@
+<div *ngIf="!p" class="loader"></div>
+
+<!-- <div *ngIf='post | async as p' class="mediaTop"> -->
+
+<div *ngIf="p">
+    <div class="mediaTop">
+        <div class="image-centered">
+            <img src="{{p.image}}" alt="p.title">
+        </div>
+        <button *ngIf="authService.user().role" (click)='deletePost(p._id, p.title)' class="deletebtn">Delete</button>
+        <a *ngIf="authService.user().username === p.author || authService.user().role" routerLink="../../edit/{{p._id}}">
+            <button class="editbtn">Edit</button>
+        </a>
+
+        <a routerLink="../../map/{{p.map}}">
+            <button class="defaultbtn">
+                <i class="fas fa-map"></i>&nbsp;&nbsp;{{p.map}}</button>
+        </a>
+        <a routerLink="../../author/{{p.author}}">
+            <button class="defaultbtn">
+                <i class="fas fa-user"></i>&nbsp;&nbsp;{{p.author}}</button>
+        </a>
+        <button class="defaultbtn">
+            <i class="far fa-calendar-alt"></i>&nbsp;&nbsp;{{dateFormat(p._kmd)}}</button>
+        <a href="{{p.image}}" target="_blank">
+            <button class="defaultbtn">
+                <i class="fas fa-external-link-alt"></i>&nbsp;&nbsp;FULL SIZE</button>
+        </a>
+
+        <h2>{{p.title}}</h2>
+        <i class="blue-color-i">{{p.description}}</i>
+    </div>
+
+
+    <div>
+        <form (ngSubmit)='createComment()' #createCommentForm='ngForm' class="comment-form">
+            <textarea [(ngModel)]='model.comment' #comment='ngModel' name="comment" placeholder="comment..." required maxlength="280"></textarea>
+            <br>
+            <button [disabled]='createCommentForm.form.invalid' type="submit">POST</button>
+        </form>
+    </div>
+
+
+    <div *ngFor="let comment of comments | async" class="user-message">
+        <div class="user-message-author">{{comment.author}}</div>
+        <div class="comment-buttons">
+            <button *ngIf="authService.user().role" (click)='deleteComment(comment._id)' class="btn-delete-comment">Delete</button>
+            <a *ngIf="authService.user().username === comment.author || authService.user().role" routerLink="../../comment/edit/{{comment._id}}">
+                <button class="btn-edit-comment">Edit</button>
+            </a>
+        </div>
+        <br>
+        <p class="user-message-content">{{comment.comment}}</p>
+        <div class="user-message-date">{{calcTime(comment._kmd.ect)}} ago</div>
+    </div>
+</div>
