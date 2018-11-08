@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('./reset.css');
+@import url('./typography.css');
+@import url('./navigation.css');
+@import url('./forms.css');
+@import url('./elements.css');
+@import url('./movie.css');
+@import url('./tables.css');
+@import url('./about.css');
+body {
+    background-color: #111111;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4' viewBox='0 0 4 4'%3E%3Cpath fill='%23111111' fill-opacity='0.4' d='M1 3h1v1H1V3zm2-2h1v1H3V1z'%3E%3C/path%3E%3C/svg%3E");
+    color: #dadada;
+    max-width: 65rem;
+    margin: 0 auto;
+}
+
+.site {
+    background: #222222;
+    padding: 0.7rem 2rem;
+}
+
+header {
+    border-bottom: 2px solid #dadada;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding-bottom: 0.7rem;
+    flex-wrap: wrap;
+    flex: 1 0 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.site-title {
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.site-title a {
+    text-decoration: none;
+    color: #2693E6;
+}
+
+.site-title a:hover {
+    color: white;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main>h2 {
+    margin: 1rem 0;
+}
+
+/* FOOTER */
+
+footer img {
+    width: 300px;
+    max-width: 100%;
+}
+
+footer {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}

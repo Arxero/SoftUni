@@ -1,0 +1,125 @@
+.single-movie-container {
+    background: #111111;
+    margin-bottom: 1.2rem;
+    padding-bottom: 2rem;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.single-movie-container img {
+    margin: 2rem;
+    border-radius: 3px;
+    box-shadow: 0px 0px 22px 2px rgba(0, 0, 0, 0.4);
+    /* flex-basis: 25%; */
+}
+
+.single-movie-container img:hover {
+    filter: brightness(1.2);
+}
+
+.movie-title {
+    color: #FFBA00;
+    font-size: 2rem;
+    margin-top: 2rem;
+    flex: 0 0 100%;
+    /* background: red; */
+    text-align: center;
+}
+
+.movie-genre {
+    color: #2693E6;
+    font-size: 1.3rem;
+    flex: 1 0 100%;
+    /* background: green; */
+    text-align: center;
+}
+
+.single-movie-wrapper {
+    display: flex;
+    flex: 1 0 68.8%;
+    flex-wrap: wrap;
+    margin: 2rem 2rem 2rem 0rem;
+}
+
+.single-movie-info {
+    display: flex;
+    justify-content: space-between;
+    /* background: rgb(161, 59, 59); */
+    flex: 1 0 100%;
+    padding: 1.7rem;
+    text-align: center;
+    font-size: 2rem;
+    line-height: 1;
+}
+
+.single-movie-wrapper .actors {
+    /* background: green; */
+    flex: 1 0 100%;
+    padding-left: 1.2rem;
+}
+
+.single-movie-wrapper .description {
+    /* background: blue; */
+    flex: 1 0 100%;
+    padding-left: 1.2rem;
+    color: #7a8288;
+}
+
+.video{
+    text-align: center;
+    flex: 0 0 100%;
+}
+
+.video iframe {
+    /* margin: 0.8rem auto; */
+    max-width: 100%;
+    box-shadow: 0px 0px 22px 2px rgba(0, 0, 0, 0.4);
+}
+
+iframe:hover, iframe::selection {
+    box-shadow: 0px 0px 22px 2px rgba(221, 10, 10, 0.4);
+
+}
+
+.single-movie-info small {
+    font-size: 1rem;
+    color: #7a8288;
+}
+
+.single-movie-info .year, .single-movie-info .duration {
+    color: #2693E6;
+}
+
+.single-movie-info .year {
+    align-items: center;
+    border: 2px solid green;
+    width: 6.25rem;
+    height: 6.25rem;
+    border-radius: 50%;
+    padding-top: 25px;
+}
+
+.single-movie-info .duration {
+    align-items: center;
+    border: 2px solid green;
+    width: 6.25rem;
+    height: 6.25rem;
+    border-radius: 50%;
+    padding-top: 25px;
+}
+
+.single-movie-info .rating {
+    color: #FFBA00;
+    align-items: center;
+    border: 2px solid green;
+    width: 6.25rem;
+    height: 6.25rem;
+    border-radius: 50%;
+    padding-top: 25px;
+}
+
+.single-movie-info .rating a {
+    color: #FFBA00;
+    text-decoration: none;
+}

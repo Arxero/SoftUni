@@ -1,0 +1,179 @@
+form {
+    font-size: 1.3rem;
+    /* background: #111111; */
+    padding: 1rem;
+    border-radius: 3px;
+    z-index: 0;
+    position: relative;
+}
+
+form fieldset p {
+    margin: 1.5rem;
+}
+
+form a {
+    color: dodgerblue;
+}
+
+form input {
+    padding: 0.9rem;
+    border-top-right-radius: 2px;
+    border-bottom-right-radius: 2px;
+    border: none;
+    outline: none;
+    background: rgb(224, 224, 224);
+    font-size: 1.3rem;
+}
+
+
+input[type=text], input[type=password], input[type=number] {
+    width: 100%;
+}
+
+input[type=submit] {
+    background: #2693E6;
+    color: white;
+    text-transform: uppercase;
+    width: 40%;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background: rgb(224, 224, 224);
+    color: #2693E6;
+}
+
+fieldset {
+    position: relative;
+    padding: 1rem;
+    box-shadow: 0px 0px 22px 2px rgba(0, 0, 0, 0.68);
+}
+
+fieldset, legend {
+    background: #111111;
+    border-radius: 3px;
+    border: 2px solid #2693E6;
+}
+
+legend {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+}
+
+hr {
+    margin: 1.2rem;
+}
+
+.input-container {
+    display: block;
+    display: flex;
+    margin: 1.5rem;
+    margin-top: 0.3rem;
+    /* width: 100%; */
+    /* margin-bottom: 1rem; */
+}
+
+.icon {
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 2px;
+    padding: 1rem;
+    background: #2693E6;
+    text-align: center;
+    min-width: 3rem;
+}
+
+label:not(:first-of-type) {
+    margin-left: 1.4rem;
+}
+
+
+/* CONTACT FORM */
+.contact-form {
+    background: #111111;
+    border-radius: 5px;
+    width: 50rem;
+    margin: 3rem 0;
+}
+
+.contact-form label:not(:first-of-type) {
+    margin-left: 0;
+}
+
+textarea {
+    background: #dadada;
+    width: 100%;
+    height: 12rem;
+    font-size: 1.3rem;
+    font-family: 'Roboto', sans-serif;
+    padding: 0.5rem;
+    outline: none;
+    border: none;
+    resize: vertical;
+    border-radius: 2px;
+}
+
+.contact-form p {
+    margin: 1.5rem;
+}
+
+.contact-form h1 {
+    margin-left: 1.2rem;
+}
+
+/* ADD MOVIE FORM  */
+.add-movie-container {
+    background: #111111;
+    border-radius: 3px;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.add-movie-container form {
+    width: 20rem;
+    flex: 0 1 60%;
+    padding-top: 0;
+    padding-bottom: 2rem;
+}
+
+.add-movie-container input[type=submit] {
+    margin-top: 0.5rem;
+}
+
+.add-movie-container input[type=text], .add-movie-container input[type=number] {
+    border-radius: 2px;
+}
+
+.add-movie-container p {
+    margin-bottom: 1rem;
+}
+
+/* REQUEST MOVIE FORM */
+.request-movie-container {
+    background: #111111;
+    border-radius: 3px;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+.request-movie-container form {
+    width: 20rem;
+    flex: 0 1 60%;
+    padding-top: 0;
+    padding-bottom: 2rem;
+}
+
+.request-movie-container input[type=submit] {
+    width: 100%;
+}
+
+.request-movie-container input[type=text], .add-movie-container input[type=number] {
+    border-radius: 2px;
+}
+
+.request-movie-container p {
+    margin-top: 1.5rem;
+}
+

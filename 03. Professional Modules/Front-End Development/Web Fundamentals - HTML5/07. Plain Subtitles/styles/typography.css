@@ -1,0 +1,18 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+ul li, ol li {
+    list-style-position: inside;
+}
+
+ul li {list-style-type: square;}
+ul ul li {list-style-type: disc;}
+ul ul ul li {list-style-type: circle;}
+
+hr {
+    margin: 2rem 0;
+}
+

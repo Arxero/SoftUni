@@ -1,0 +1,102 @@
+nav ul {
+    display: block;
+    margin: 0;
+    padding: 0.5rem 0 0.5rem 0.5rem;
+    font-size: 1.2rem;
+}
+
+nav>ul {
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+
+nav li {
+    display: block;
+    list-style: none;
+    position: relative;
+}
+
+nav ul li ul {
+    position: absolute;
+    width: 14rem;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.1s ease-out, transform 0.1s ease-in;
+    transform: translateY(2rem);
+}
+
+nav>ul>li>ul {
+    top: 100%;
+    left: -7rem;
+    padding-top: 0.7rem;
+}
+
+nav a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    background: #2693E6;
+    border-radius: 3px;
+}
+
+nav>ul>li:not(:last-child) {
+    padding-right: 0.8rem;
+}
+
+nav>ul>li>ul>li:not(:last-child) {
+    /* padding-bottom: 0.8rem; added margin after recommendation from the teacher*/
+    margin-bottom: 0.8rem;
+}
+
+nav li:hover>a, nav a:hover {
+    background: white;
+    color: #2693E6;
+}
+
+#nav-toggle {
+    display: none;
+}
+
+#toggle {
+    padding-top: 0.9rem;
+}
+
+@media screen and (max-width: 800px) {
+    nav {
+        display: none;
+    }
+    nav>ul {
+        display: block;
+    }
+    #nav-toggle:checked+header nav {
+        display: block;
+        flex: 1 0 100%;
+    }
+    nav ul li ul {
+        opacity: 1;
+        pointer-events: inherit;
+        width: auto;
+        position: static;
+        transform: translate(0, 0);
+        padding: 0.5rem 0 0.5rem 1.5rem;
+    }
+    nav>ul>li:not(:last-child) {
+        padding: 0 0 0.5rem 0;
+    }
+    nav ul li ul li a {
+        background: #111111;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    #toggle {
+        display: none;
+    }
+    nav li:hover>ul {
+        /* display: block; */
+        opacity: 1;
+        pointer-events: inherit;
+        transform: translateY(0);
+    }
+}
