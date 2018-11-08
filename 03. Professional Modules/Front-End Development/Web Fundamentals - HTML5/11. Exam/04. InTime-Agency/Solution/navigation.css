@@ -1,0 +1,87 @@
+header {
+    padding: 2rem 0;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* background: green; */
+}
+
+header nav ul {
+    display: flex;
+}
+
+header nav ul li {
+    list-style: none;
+}
+
+header nav ul li:not(:last-child) {
+    margin-right: 2rem;
+}
+
+header nav li:first-of-type {
+    border-bottom: 3px solid #008CBA;
+    padding-bottom: .3rem;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #111111;
+}
+.logo {
+    font-size: 1.5rem;
+}
+.logo span {
+    color: #008CBA;
+}
+
+/* FOOTER */
+
+footer {
+    background: #2F3539;
+    color: #eeeeee;
+    padding: 2.3rem;
+}
+
+footer a {
+    color: #eeeeee;
+    text-decoration: none;
+}
+
+footer li {
+    list-style: none;
+}
+
+.footer-wrapper {
+    width: 70%;
+    /* background: green; */
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+footer nav {
+    /* background: red; */
+    margin: 1rem;
+    flex: 1 0 20%;
+}
+
+footer h3 {
+    padding-bottom: 1rem;
+}
+
+footer nav ul li:not(:last-child) {
+    padding-bottom: 1rem;
+}
+
+.fallow-links ul {
+    display: flex;
+}
+.fallow-links ul li:not(:last-child) {
+    padding-right: .7rem;
+}
+
+body > footer > div > nav.address-links > ul > li:nth-child(1) {
+    padding-bottom: 2rem;
+}

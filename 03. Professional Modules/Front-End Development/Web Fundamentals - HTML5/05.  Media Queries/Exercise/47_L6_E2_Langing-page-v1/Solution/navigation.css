@@ -1,0 +1,25 @@
+.navigation.main ul{
+    display: flex;
+}
+
+.navigation.main li {
+    list-style: none;
+}
+
+.navigation.main li:not(:last-child) {
+    margin-right: 2rem;
+}
+
+.navigation.main a {
+    text-decoration: none;
+    color: black;
+}
+
+.navigation.main li:hover {
+    border-bottom: 1px solid purple;
+}
+
+.navigation.main ul {
+    margin: 0;
+}
+

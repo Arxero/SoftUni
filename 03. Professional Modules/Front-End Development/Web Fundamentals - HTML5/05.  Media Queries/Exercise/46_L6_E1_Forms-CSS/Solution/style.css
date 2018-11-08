@@ -1,0 +1,81 @@
+@import url('https://use.fontawesome.com/releases/v5.3.1/css/all.css');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    font-family: 'Notos-Sans', sans-serif;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+}
+
+form {
+    flex: 1 0 100%;
+}
+
+fieldset legend {
+    padding: 0.7rem 7rem 0.7rem 1rem;
+    margin-left: -0.8rem;
+}
+
+legend, fieldset {
+    background: #F8F8F8;
+    border-radius: 3px;
+    border: 1px solid black;
+    box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.2);
+}
+
+form label {
+    display: block;
+    flex: 0 0 6rem;
+}
+
+input {
+    padding: 0.7rem;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    padding-left: 2rem;
+    font-size: 1rem;
+    flex: 1 0 auto;
+}
+
+input[type=submit] {
+    border: none;
+    padding: 0.6rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    background: rgb(45, 45, 45);
+    color: white;
+    font-weight: bold;
+    width: 5rem
+}
+
+form span {
+    flex: 1 0 auto;
+    display: flex;
+    position: relative;
+    align-items: center;
+}
+
+form p {
+    display: flex;
+    align-items: center;
+}
+
+form .fas {
+    position: absolute;
+    top: 30%;
+    left: 0.7rem;
+}
+
+@media screen and (max-width: 600px) {
+    form p {
+        display: block;
+    }
+}

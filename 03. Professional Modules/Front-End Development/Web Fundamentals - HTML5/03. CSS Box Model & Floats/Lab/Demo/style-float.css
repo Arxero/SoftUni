@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 4rem;
+}
+
+.site {
+    background: lightcoral;
+    /* padding-right: 1rem; */
+    padding-bottom: 2rem;
+}
+
+.site::after {
+    display: block;
+    height: 0;
+    content: '';
+    clear: both;
+}
+
+main {
+    background: lightskyblue;
+    float: left;
+    width: 70%;
+}
+
+main, aside {
+    height: 200px;
+    padding: 2rem;
+}
+
+aside {
+    float: left;
+    width: 30%;
+    background:lightgreen;
+}
+
+
+

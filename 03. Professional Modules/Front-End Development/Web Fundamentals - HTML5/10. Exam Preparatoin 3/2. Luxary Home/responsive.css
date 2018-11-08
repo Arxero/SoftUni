@@ -1,0 +1,128 @@
+@media only screen and (max-width: 480px) {
+    /* body {
+        background: red;
+    } */
+    .div-logo {
+        display: none;
+    }
+    body>header>div>ul {
+        display: none;
+    }
+    img.logo-center {
+        width: 50%;
+    }
+    button.button-header {
+        margin: 45px 0 50px 0;
+    }
+    section.options {
+        flex-wrap: wrap;
+        /* justify-content: center;
+        align-items: center; */
+    }
+    section.options article {
+        text-align: center;
+        flex-basis: 100%;
+    }
+    section.gallery {
+        flex-wrap: wrap;
+    }
+
+    section.gallery > article > div {
+        margin-bottom: 1rem;
+    }
+
+    body > main > section.blog > article > img {
+        display: none;
+    }
+    section.blog {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    section.blog > div {
+        padding: 40px 0 0 65px;
+    }
+    section.blog > div > h4 {
+        font-size: 2rem;
+        padding-bottom: 2rem;
+    }
+    body > main > section.blog > div > h4 > span {
+        display: none;
+    }
+    body > main > section.blog > div > a {
+        display: none;
+    }
+    div#about-blog {
+        background: white;
+        width: 90%;
+        height: 90%;
+        margin-top: 45px;
+    }
+    div#about-blog > h3 {
+        width: 100%;
+    }
+    /* MAGAZINE */
+    section.magazine{
+        padding-top: 25px;
+    }
+
+    body > main > section.magazine > div > a {
+        display: none;
+    }
+    section.magazine > div > h4 {
+        font-size: 1.7rem;
+    }
+    section.magazine > div {
+        padding: 40px 0 0 6px;
+        width: 95vw;
+    }
+    div.magazine-title {
+        flex-wrap: wrap;
+        margin: 0;
+    }
+    section.magazine > div > h4 > span {
+        padding-left: 15px;
+    }
+    section.magazine > article {
+        flex-wrap: wrap;
+    }
+    img#magazine-img {
+        width: 100%;
+        padding-left: 140px;
+        border: none;
+        margin-top: 0px;
+    }
+    section.magazine > article > div > img {
+        width: 100vw;
+        text-align: center;
+    }
+    section.magazine > article > div {
+        text-align: center;
+    }
+    section.magazine > article > div > h3 {
+        margin: 1rem 0;
+    }
+    section.magazine > article > div > p {
+        margin: 1rem 1rem;
+    }
+    body > main > section.magazine > article > div {
+        margin-left: 120px;
+    }
+    /* body > main > section.magazine > div {
+        margin: 0;
+    } */
+    body > main > footer {
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.4rem;
+    }
+
+    footer .icons {
+        display: flex;
+        flex-direction: column;
+    }
+    body > main > footer i {
+        margin-top: 1rem;
+    }
+    
+}

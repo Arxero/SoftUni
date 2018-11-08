@@ -1,0 +1,31 @@
+@import url('https://use.fontawesome.com/releases/v5.3.1/css/all.css');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('./reset.css');
+@import url('./typography.css');
+@import url('./buttons.css');
+@import url('./forms.css');
+@import url('./navigation.css');
+
+
+.site-title a{
+    font-family: 'Lato', sans-serif;
+    font-size: 2rem;
+    text-decoration: none;
+    color: purple;
+    font-weight: bold;
+}
+
+.site-title {
+    padding: 0;
+}
+
+.site-decsription {
+    text-transform: uppercase;
+    padding: 0;
+}
+
+.site-header .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

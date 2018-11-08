@@ -1,0 +1,25 @@
+header {
+    padding: 1.2rem 0;
+}
+nav li {
+    list-style: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: #E56152;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #111111;
+}
+
+header nav ul {
+    display: flex;
+    justify-content: center;
+}
+
+header nav li:not(:last-child) {
+    margin-right: 3rem;
+}

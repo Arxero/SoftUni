@@ -1,0 +1,256 @@
+@import url('https://use.fontawesome.com/releases/v5.5.0/css/all.css');
+@import url('./navigation.css');
+html {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+/* CALL TO ACTION */
+
+.slider {
+    background-image: url('../images/slide2.jpg');
+    height: 33rem;
+    background-size: cover;
+    position: relative;
+}
+
+.call-to-action {
+    background: rgba(0, 0, 0, 0.5);
+    width: 20rem;
+    color: #eeeeee;
+    font-size: 1.8rem;
+    /* opacity: .7; */
+    padding: .5rem;
+    position: absolute;
+    top: 60%;
+    left: 20%;
+}
+
+.start {
+    background: #008CBA;
+    border: none;
+    outline: none;
+    padding: .6rem 2.4rem;
+    border-radius: 20px;
+    color: #eeeeee;
+    margin: .5rem;
+    cursor: pointer;
+}
+
+.start:hover {
+    background: rgb(0, 167, 223);
+}
+
+/* INTRO */
+
+.intro {
+    padding: 2rem;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+.line {
+    display: flex;
+    justify-content: center;
+}
+
+.line hr {
+    width: 5rem;
+    background: #008CBA;
+    border: none;
+    height: 3px;
+    margin-bottom: 1rem;
+    margin-top: .2rem;
+}
+
+.read-more-top {
+    background: #454545;
+    border: none;
+    outline: none;
+    padding: 1rem 2.4rem;
+    border-radius: 30px;
+    color: #eeeeee;
+    margin: .5rem;
+    margin-top: 1.7rem;
+    cursor: pointer;
+}
+
+.read-more-top:hover {
+    background: rgb(0, 167, 223);
+}
+
+/* SERVICES */
+
+.services {
+    padding: 2rem;
+    padding-bottom: 2.9rem;
+    text-align: center;
+    margin: 0 auto;
+    background: #EEF0F1;
+}
+
+.services-wrapper {
+    /* background: green; */
+    width: 70%;
+    margin: 0 auto;
+}
+
+.line-gray {
+    display: flex;
+    justify-content: center;
+}
+
+.line-gray hr {
+    width: 5rem;
+    background: #454545;
+    border: none;
+    height: 3px;
+    margin-bottom: 1rem;
+    margin-top: .2rem;
+}
+
+.gallery {
+    margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.service {
+    flex: 1 0 30%;
+    background: white;
+    padding-bottom: .5rem;
+    margin-right: 1rem;
+    border-radius: 5px;
+}
+
+.service img {
+    margin-bottom: 1rem;
+    width: 100%;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.service h3 {
+    font-weight: 300;
+    margin: 1rem 0;
+}
+
+.service p {
+    padding: .5rem 1rem;
+}
+
+.read-more-bottom {
+    background: #454545;
+    border: none;
+    outline: none;
+    padding: .7rem 1.4rem;
+    border-radius: 5px;
+    color: #eeeeee;
+    margin: .5rem;
+    margin-top: 1.7rem;
+    cursor: pointer;
+    font-size: .9rem;
+}
+
+.read-more-bottom:hover {
+    background: #008CBA;
+}
+
+/* NEWSLETTER */
+
+.line-white {
+    display: flex;
+    justify-content: center;
+}
+
+.line-white hr {
+    width: 5rem;
+    background: #eeeeee;
+    border: none;
+    height: 3px;
+    margin-bottom: 1rem;
+    margin-top: .2rem;
+}
+
+.newsletter {
+    /* background: red; */
+    text-align: center;
+    background: #393F43;
+    color: #eeeeee;
+}
+
+.newsletter-wrapper {
+    /* background: green; */
+    width: 70%;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+.newsletter-wrapper p {
+    padding-bottom: .6rem;
+}
+
+.newsletter h2 {
+    font-weight: 300;
+    font-size: 1.7rem;
+    /* padding-top: 2rem; */
+}
+
+form {
+    padding: 1rem;
+    font-family: Helvetica, sans-serif;
+}
+
+input[type=text] {
+    padding: .7rem;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background: #545A5E;
+    width: 30rem;
+    color: #eeeeee;
+    font-size: 1.2rem;
+}
+
+input[type=text]::placeholder {
+    font-style: italic;
+}
+input[type=submit] {
+    padding: .7rem 2.2rem;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background: #6BBFFF;
+    color: #eeeeee;
+    font-size: 1.2rem;
+    margin-left: .5rem;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background: #545A5E;
+}
+
+/* COPYRIGHT */
+
+.copyright {
+    text-align: center;
+    padding: 1rem;
+    background: #262B2F;
+    color: #eeeeee;
+}
+
+.copyright a {
+    text-decoration: none;
+    color: #008CBA;
+}

@@ -1,0 +1,28 @@
+body {
+    background: rgb(238, 238, 238);
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+ul {
+    padding: 0;
+}
+
+.gallery {
+    width: 70rem;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+img {
+    border: 0.3rem solid rgb(0, 0, 0);
+    padding: 1rem;
+    width: 100%;
+    max-width: 300px;
+    margin: 0.5rem;
+}

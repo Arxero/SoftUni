@@ -1,0 +1,120 @@
+@import url('https://use.fontawesome.com/releases/v5.5.0/css/all.css');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+html {
+    box-sizing: border-box;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: sans-serif;
+    line-height: 1.2;
+
+}
+
+header {
+    width: 60rem;
+    margin: 0 auto;
+    /* background: red; */
+}
+
+header h1{
+    text-transform: uppercase;
+    margin-top: 1.5rem;
+    font-size: 1.7rem;
+    color: rgb(78, 78, 78);
+}
+
+hr {
+    background: #1996A9;
+    width: 6rem;
+    border: none;
+    height: 2px;
+    margin-bottom: 1rem;
+}
+
+header p {
+    color: gray;
+}
+
+main {
+    width: 60rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+/* TABLES */
+table {
+    border: 1px solid rgba(156, 156, 156, 0.274);
+    border-top: none;
+    margin: 2rem 0;
+    /* border-collapse: collapse; */
+    flex-basis: 30%;
+    text-align: center;
+    color: rgb(112, 112, 112);
+}
+
+/* tbody {
+    border: 1px solid rgba(156, 156, 156, 0.274);
+} */
+table th {
+    background:  #333333;
+    color: white;
+    padding: .7rem 0;
+}
+
+.price {
+    padding: .4rem 0;
+    background: #F6F6F6;
+    font-size: 2rem;
+    color: rgb(75, 75, 75);
+    border: none;
+
+}
+.price td {
+    border: none;
+}
+
+body > main > table:nth-child(2) > thead > tr > th {
+    background: #1996A9;
+}
+table td {
+    /* border: 1px solid gray; */
+    padding: .7rem 0;
+    font-size: .9rem;
+    border-bottom: dotted 1px rgb(161, 161, 161);
+}
+
+.description {
+    font-size: .7rem;
+}
+
+button {
+    padding: .7rem 1.7rem;
+    border-radius: 2px;
+    margin: .5rem 0;
+    border: none;
+    outline: none;
+    background: #008CBA;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #333333;
+}
+
+body > main > table:nth-child(1) > tbody > tr:nth-child(6) > td {
+    border-bottom: none;
+}
+body > main > table:nth-child(2) > tbody > tr:nth-child(6) > td {
+    border-bottom: none;
+}
+body > main > table:nth-child(3) > tbody > tr:nth-child(6) > td {
+    border-bottom: none;
+}
+

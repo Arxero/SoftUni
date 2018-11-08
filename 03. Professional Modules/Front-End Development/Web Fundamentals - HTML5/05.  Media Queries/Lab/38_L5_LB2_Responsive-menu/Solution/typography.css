@@ -1,0 +1,140 @@
+html {
+    font: 12px/1.5 Helvetica, sans-serif;
+}
+
+@media screen and (min-width: 500px) {
+    html {
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+@media screen and (min-width: 1300px) {
+    html {
+        font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 1800px) {
+    html {
+        font-size: 21px;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font: 1em/1.1 Georgia, serif;
+    margin: 1em 0 0.5em 0;
+    padding: 0;
+}
+
+h1 {font-size: 2.2rem;}
+h2 {font-size: 2.0rem;}
+h3 {font-size: 1.8rem;}
+h4 {font-size: 1.6rem;}
+h5 {font-size: 1.4rem;}
+h6 {font-size: 1.2rem;}
+
+p {
+    margin: 0;
+    padding-bottom: 1.5rem;
+}
+
+ol, ul, dl {
+    margin: 0 0 1.5rem 0
+}
+
+ul, ol {
+    padding: 0;
+    margin-left: 1.5rem;
+}
+
+ul li, ol li {
+    list-style-position: inside;
+}
+
+ul ul {
+    margin-top: 0.5rem;
+    margin-bottom: 0;
+}
+
+ul li {list-style-type: square;}
+ul ul li {list-style-type: disc;}
+ul ul ul li {list-style-type: circle;}
+
+
+hr {
+    margin: 2rem 0;
+}
+
+
+blockquote {
+    border-left: 4px solid rgb(221, 221, 221);
+    font-style: italic;
+    margin-bottom: 0 0 1.5rem 2rem;
+    padding: 1rem 2rem;
+    font-family: "Georgia", serif;
+    float: right;
+    width: 50%;
+    margin: 0 2rem;
+}
+
+blockquote .author {
+    text-align: right;
+}
+
+
+tbody tr:nth-child(odd) td{
+    background: rgb(241, 241, 241);
+}
+
+tbody tr:hover td {
+    background: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color:  transparent;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+    margin-bottom: 1.5rem;
+    border: 1px solid #CCC;
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+table td, table th {
+    border: 1px solid #CCC;
+    padding: 0.5rem 0.5rem;
+}
+
+table thead th {
+    text-align: left;
+    background: rgb(204, 204, 204);
+}
+
+img[class^="align-"] {
+    max-width: 100%;
+    height: auto;
+    background: rgb(255, 255, 255);
+    border: 0.2rem black solid;
+    padding: 0.6rem;
+    box-shadow: 0 0 2rem 0 rgba(0, 0, 0, 0.25);
+}
+
+.align-right {
+    float: right;
+    margin-left: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.align-left {
+    float: left;
+    margin-right: 1.5rem;
+    margin-bottom: 1rem;
+}
+

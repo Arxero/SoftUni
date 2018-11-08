@@ -1,0 +1,63 @@
+nav ul {
+    padding: 0.5rem;
+    background: rgb(65, 64, 64);
+    border-radius: 0.3rem;
+}
+
+nav>ul {
+    display: flex;
+}
+
+nav ul ul {
+    display: none;
+    position: absolute;
+    width: 12rem;
+}
+
+nav>ul>li>ul {
+    top: 100%;
+    left: -0.3rem;
+}
+
+/* level 3 */
+nav>ul>li>ul>li>ul {
+    top: -0.5rem;
+    right: 100%;
+}
+
+nav li {
+    display: block;
+    list-style: none;
+    position: relative;
+}
+
+nav li:hover>ul {
+    display: block;
+}
+
+nav>ul>li:not(:last-child) {
+    padding-right: 0.5rem;
+}
+
+nav>ul>li ul li:not(:last-child) {
+    padding-bottom: 0.5rem;
+}
+
+/* level 3 */
+/* nav>ul>li>ul>li>ul>li:not(:last-child) {
+    padding-bottom: 0.5rem;
+} */
+
+nav a {
+    display: block;
+    text-decoration: none;
+    color: rgb(241, 241, 241);
+    text-transform: uppercase;
+    background: #07a0b4;
+    border-radius: 0.3rem;
+    padding: 0.7rem 1rem;
+}
+
+nav li:hover>a, nav a:hover {
+    background: green;
+}

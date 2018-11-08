@@ -1,0 +1,20 @@
+@import url('https://use.fontawesome.com/releases/v5.3.1/css/all.css');
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+p:first-child {
+    background: rgb(0, 128, 0);
+}
+
+p:nth-child(2) {
+    background: rgb(255, 140, 0);
+}
+
+p {
+    width: 95px;
+    padding: 12px;
+    border-radius: 3px;
+}

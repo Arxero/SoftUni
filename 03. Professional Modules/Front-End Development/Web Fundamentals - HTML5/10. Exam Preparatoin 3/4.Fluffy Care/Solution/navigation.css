@@ -1,0 +1,75 @@
+header {
+    /* background: green; */
+    position: relative;
+}
+
+header nav a {
+    color: #111111;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+header nav ul li {
+    list-style: none;
+}
+
+.logo {
+    text-align: center;
+    margin-top: -.7rem;
+    color: #93D6EE;
+    font-size: 1.5rem;
+    /* background: green; */
+}
+
+.logo img {
+    width: 5rem;
+}
+
+.logo .title {
+    margin-top: -.8rem;
+    padding-bottom: .3rem;
+}
+
+.logo .subtitle {
+    text-transform: capitalize;
+    padding-bottom: .8rem;
+    font-size: 1.3rem;
+}
+
+.social-media {
+    position: absolute;
+    top: 9%;
+    right: 1%;
+}
+
+.social-media ul {
+    text-align: center;
+}
+
+.social-media li:not(:last-child) {
+    margin-bottom: .4rem;
+}
+
+.social-media i {
+    font-size: 1.4rem;
+}
+
+.main ul{
+    display: flex;
+    padding: 1.5rem;
+    justify-content: center;
+}
+
+.main a {
+    color: white;
+    font-size: 1.3rem;
+    /* font-weight: bold; */
+}
+
+.main ul li:not(:last-child) {
+    margin-right: 5rem;
+}
+
+.main {
+    background: #85CA9D;
+}

@@ -1,0 +1,26 @@
+body {
+    padding: 4rem;
+}
+
+#container {
+    background: lightgreen;
+    padding: 2rem;
+    position: relative;
+    height: 300vh;
+}
+
+#box {
+    background: lightskyblue;
+    position: sticky;
+    top: 0rem;
+    left: 0rem;
+    width: 5rem;
+    height: 5rem;
+}
+
+#box2 {
+    position: absolute;
+    top: 0; left: 1rem;
+    background: lightcoral;
+    z-index: 1;
+}

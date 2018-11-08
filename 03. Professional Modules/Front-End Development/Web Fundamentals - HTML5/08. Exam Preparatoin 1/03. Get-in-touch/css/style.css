@@ -1,0 +1,108 @@
+@import url('https://use.fontawesome.com/releases/v5.4.2/css/all.css');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-image: url('../images/bg-01.jpg');
+    font-family: 'Monstercat', sans-serif;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(133, 105, 219, 0.8);
+}
+
+section {
+    width: 55rem;
+    height: 60%;
+    background: #FBFCF7;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+aside {
+    flex: 1 0 50%;
+    text-align: center;
+}
+
+form {
+    flex: 1 0 50%;
+    font-weight: bold;
+    font-family: 'Monstercat', sans-serif;
+}
+
+form p:first-of-type {
+    font-weight: bolder;
+    margin-bottom: 1.8rem;
+}
+
+form p {
+    margin: 0.6rem 0;
+}
+
+.input-container {
+    display: flex;
+    background: #E6E6E6;
+    width: 20rem;
+    border-radius: 20px;
+    align-items: center;
+}
+
+.icon {
+    /* color: #E6E6E6; */
+    color: #7c7c7c;
+    min-width: 2.7rem;
+    text-align: center;
+}
+
+input, textarea {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 20rem;
+    background: #E6E6E6;
+    padding: 0.8rem 0;
+    outline: none;
+    border: none;
+    font-family: 'Monstercat', sans-serif;
+    font-weight: bolder;
+}
+
+input:focus + .icon {
+    color: rgba(133, 105, 219, 0.8);
+}
+
+textarea {
+    border-radius: 20px;
+    width: 20rem;
+    height: 8rem;
+    padding-left: 0.8rem;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background: rgba(133, 105, 219, 0.8);
+    color: #E6E6E6;
+    margin-top: 1rem;
+    border-radius: 20px;
+}
+
+input[type=submit]:hover {
+    background: #333333;
+}

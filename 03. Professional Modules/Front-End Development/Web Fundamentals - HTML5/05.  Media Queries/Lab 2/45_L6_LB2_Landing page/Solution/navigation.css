@@ -1,0 +1,150 @@
+nav.main ul {
+    margin: 0;
+    padding: 0.5rem;
+    border-radius: 5px;
+}
+
+nav.main>ul {
+    display: flex;
+}
+
+nav.main ul ul {
+    /* display: none; */
+    position: absolute;
+    width: 12rem;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.1s ease-out, transform 0.1s ease-in;
+    transform: translateY(2rem);
+}
+
+nav.main>ul>li>ul {
+    top: 100%;
+    left: -0.5rem;
+}
+
+nav.main>ul>li>ul>li>ul {
+    top: -0.5rem;
+    left: inherit;
+    right: 100%;
+}
+
+nav.main li {
+    display: block;
+    list-style: none;
+    text-transform: capitalize;
+    position: relative;
+}
+
+
+
+nav.main>ul>li:not(:last-child) {
+    padding-right: 0.5rem;
+}
+
+nav.main>ul ul li:not(:last-child) {
+    padding-bottom: 0.5rem;
+}
+
+nav.main a {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #333333;
+    text-decoration: none;
+    border-radius: 0.2rem;
+    border-bottom: 2px solid transparent;
+}
+
+nav.main li:hover>a, nav.main a:hover {
+    color: purple;
+    border-color: purple;
+}
+
+#main-nav-toggle {
+    display: none;
+}
+
+
+#toggle {
+    position: relative;
+    flex: 0 0 auto;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    padding: 1rem 0;
+}
+
+#toggle .fas {
+    display: inline-block;
+    margin-right: 0.5rem;
+}
+
+#toggle .fas.fa-times {
+    display: none;
+}
+
+@media screen and (max-width: 800px) {
+    #toggle {
+        display: flex;
+    }
+
+    nav.main {
+        display: none;
+        border-top: 2px solid black;
+        margin-top: 1rem;
+    }
+    nav.main>ul {
+        /* flex-direction: column; */
+        display: block;
+    }
+
+    nav.main ul li a {
+        text-align: center;
+    }
+
+    #main-nav-toggle:checked+header nav.main {
+        display: block;
+        flex: 1 0 100%;
+    }
+
+    #main-nav-toggle:checked+header #toggle .fa-times {
+        display: block;
+    }
+
+    #main-nav-toggle:checked+header #toggle .fa-bars {
+        display: none;
+    }
+
+    
+    nav.main ul ul {
+        opacity: 1;
+        pointer-events: inherit;
+        width: auto;
+        position: static;
+        transform: translate(0, 0);
+        padding: 0.5rem 0 0.5rem 1.5rem;
+    }
+
+    nav.main>ul>li:not(:last-child) {
+        padding: 0 0 0.5rem 0;
+    }
+
+    nav.main ul ul a {
+        background: #cccccc;
+        color: black;
+    }
+  
+}
+
+@media screen and (min-width: 800px) {
+    #toggle {
+        display: none;
+    }
+
+    nav.main li:hover>ul {
+        /* display: block; */
+        opacity: 1;
+        pointer-events: inherit;
+        transform: translateY(0);
+    }
+}

@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('./reset.css');
+/* @import url('../38_L5_LB2_Responsive-menu/Solution/typography.css'); */
+@import url('./navigation.css');
+body {
+    padding: 2rem;
+    background: #111111;
+    color: #dadada;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    border-bottom: 2px solid #dadada;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.site-title {
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1.5rem 0;
+}
