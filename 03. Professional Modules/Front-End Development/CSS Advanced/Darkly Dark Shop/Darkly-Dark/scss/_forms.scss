@@ -1,0 +1,91 @@
+.form-wrapper {
+    // background: var(--dark);
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    //this was added because I need on home page no padding on .site
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+    & form {
+        max-width: 30rem;
+        width: 30rem;
+        padding: 1rem;
+        & h1 {
+            padding-bottom: .5rem;
+        }
+        & p {
+            padding: .6rem 0;
+        }
+        & input[type=submit], input[type=password], input[type=text], textarea {
+            width: 100%;
+            padding: .8rem;
+            border-radius: 2px;
+            outline: none;
+            border: none;
+            background: rgb(224, 224, 224);
+            font-size: 1.1rem;
+        }
+        & input[type=submit] {
+            text-transform: uppercase;
+            cursor: pointer;
+            background: var(--nav-blue);
+            color: white;
+            &:hover {
+                background: rgb(224, 224, 224);
+                color: var(--nav-blue);
+            }
+        }
+
+        & textarea {
+            height: 12rem;
+            resize: vertical;
+        }
+
+        & label {
+           display: inline-block;
+           margin-bottom: .3rem; 
+        }
+
+    }
+}
+
+.newsletter {
+    form {
+        input[type=text] {
+            padding: .7rem;
+            border-radius: 5px;
+            border: none;
+            outline: none;
+            background: #545A5E;
+            width: 100%;
+            max-width: 30rem;
+            color: #eeeeee;
+            font-size: 1.2rem;
+            margin-bottom: .5rem;
+        }
+        
+        input[type=text]::placeholder {
+            font-style: italic;
+        }
+        input[type=submit] {
+            padding: .7rem 2.2rem;
+            border-radius: 5px;
+            border: none;
+            outline: none;
+            background: var(--nav-blue);
+            color: #eeeeee;
+            font-size: 1.2rem;
+            margin-left: .5rem;
+            text-transform: uppercase;
+            cursor: pointer;
+
+            &:hover {
+                background: #d80101;
+                transition: background-color .5s ease-in-out;
+            }
+        }
+    }
+}
+

@@ -1,0 +1,215 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    flex: 1 0 100%;
+    position: relative;
+    padding-bottom: 1rem; //this was added because I need on home page no padding on .site
+    margin-left: 2rem;
+    margin-right: 2rem;
+    & nav {
+        & ul {
+            padding: 0;
+            display: block;
+        }
+        &>ul {
+            display: flex;
+        }
+        & ul li ul {
+            position: absolute;
+            width: 10rem;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.1s ease-out, transform 0.1s ease-in;
+            transform: translateY(2rem);
+            background: #222222;
+            border-radius: 3px;
+        }
+        &>ul>li>ul {
+            top: 100%;
+            left: 0;
+            padding-top: .3rem;
+            & li {
+                width: 100%;
+            }
+        }
+        &>ul>li>ul>li:not(:last-child) {
+            margin-bottom: 1rem;
+        }
+        & li {
+            display: block;
+            list-style: none;
+            position: relative;
+            & a {
+                display: block;
+                padding: .7rem 1rem .7rem 1rem;
+                border-radius: 3px;
+                border-bottom: 2px solid rgba(0, 0, 0, 0);
+            }
+            & a:hover {
+                background: var(--dark);
+                border-bottom: 2px solid var(--nav-blue);
+                box-shadow: var(--default-box-shadow);
+            }
+        }
+        & li:not(:last-child) {
+            margin-right: .3rem;
+        }
+        & a {
+            color: var(--text-color);
+            text-decoration: none;
+            text-transform: uppercase;
+            &:hover {
+                text-decoration: none;
+            }
+        }
+        & i {
+            margin-right: .3rem;
+        }
+    }
+}
+
+.site-title {
+    font-size: 2rem;
+    font-weight: bold;
+    letter-spacing: .1rem;
+    & i {
+        color: var(--yellow);
+        margin-right: .5rem;
+    }
+    & a {
+        color: var(--nav-blue);
+        &:hover,
+        &:hover>i {
+            color: var(--text-color);
+            text-decoration: none;
+        }
+    }
+}
+
+#nav-toggle {
+    display: none;
+}
+
+@media screen and (max-width: 845px) {
+    header nav {
+        display: none;
+        & .first-level {
+            display: block;
+        }
+        & .first-level li ul {
+            opacity: 1;
+            pointer-events: inherit;
+            width: auto;
+            position: static;
+            transform: translate(0, 0);
+            padding: 0.5rem 0 0.5rem 1.5rem;
+        }
+        &>ul>li:not(:last-child) {
+            padding: 0 0 0.5rem 0;
+        }
+        &>ul>li>a {
+            background: var(--dark);
+        }
+        & ul li ul li a {
+            background: var(--dark);
+            filter: brightness(150%);
+            
+        }
+    }
+    #nav-toggle:checked+header nav {
+        display: block;
+        flex: 1 0 100%;
+    }
+    .fa-bars {
+        cursor: pointer;
+    }
+    #nav-toggle:checked+header .fa-bars:before {
+        content: '\f00d';
+        cursor: pointer;
+    }
+}
+
+@media screen and (min-width: 845px) {
+    #toggle {
+        display: none;
+    }
+    nav li:hover>ul {
+        display: block;
+        opacity: 1;
+        pointer-events: inherit;
+        transform: translateY(0);
+    }
+    ul li:last-child ul {
+        width: 8.4rem;
+    }
+}
+
+//footer
+footer {
+    box-shadow: var(--default-box-shadow);
+    .footer-container {
+        background: #222222;
+        display: flex;
+        flex-wrap: wrap;
+        padding: 2rem;
+        justify-content: space-around;
+        nav {
+            // flex: 1 0 16rem;
+            // padding-top: 1.5rem;
+            margin: 1rem;
+        }
+        ul {
+            padding: 0;
+        }
+        h3 {
+            text-transform: capitalize;
+        }
+        li {
+            list-style: none;
+            text-transform: capitalize;
+        }
+        .address li:nth-child(2) {
+            text-transform: initial;
+        }
+        .quick-links li:not(:last-child),
+        .address li:not(:last-child) {
+            margin-bottom: .5rem;
+        }
+        .follow-us ul {
+            display: flex;
+            li:not(:last-child) {
+                margin-right: .6rem;
+            }
+            a {
+                color: var(--text-color);
+                &:hover {
+                    color: var(--nav-blue);
+                }
+            }
+        }
+    }
+    @media screen and (max-width: 600px) {
+        .footer-container {
+            display: block;
+            nav {
+                margin-bottom: 2rem;
+                text-align: center;
+            }
+            .follow-us ul {
+                text-align: center;
+                display: block;
+
+                li:nth-child(1), li:nth-child(2) {
+                    margin: 0;
+                }
+            }
+        }
+    }
+    .copyright {
+        background: #1a1a1a;
+        padding: 1rem;
+        text-align: center;
+    }
+}

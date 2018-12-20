@@ -1,0 +1,55 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    font-size: var(--mobile-font-size);
+}
+
+
+@media screen and (min-width: 500px) {
+    html {
+        font-size: var(--default-font-size);
+    }
+}
+
+body, table, th, td, form, input, textarea, option, select {
+	font-family: inherit;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+	line-height: 1.2;
+	padding-bottom: 0.5em;
+}
+
+p, ul, ol {
+	padding-bottom: .5rem;
+}
+
+ul, ol {
+	padding-left: 2rem;
+}
+
+li {
+	list-style-position: inside;
+}
+
+blockquote {
+    border-left: 4px solid rgb(221, 221, 221);
+    font-style: italic;
+    padding: 1rem 2rem;
+    margin: 0 2rem 2rem 2rem;
+}
+
+blockquote .author {
+    text-align: right;
+    padding-top: 1rem;
+}
+

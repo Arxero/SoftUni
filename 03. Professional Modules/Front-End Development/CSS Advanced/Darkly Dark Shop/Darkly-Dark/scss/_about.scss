@@ -1,0 +1,102 @@
+//our team
+.team-container {
+    // background: var(--dark);
+    padding: 2rem;
+    border-radius: 3px;
+    //this was added because I need on home page no padding on .site
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+    & h2 {
+        text-align: center;
+        padding-bottom: 1.5rem;
+        color: var(--yellow);
+        font-size: 2rem;
+    }
+    ul, li, p {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+    & ul {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        grid-template-rows: 1fr 1fr;
+        grid-gap: 1rem;
+        justify-items: center;
+    }
+
+    & li {
+        text-align: center;
+         & .person-name {
+            padding-top: .5rem;
+            font-weight: bold;
+            font-size: 1.5rem;
+         }
+         & .person-role {
+             font-size: 1.3rem;
+         }
+    }
+
+    & img {
+        // width: 100%;
+        border-radius: 50%;
+        transition: transform 1.5s;
+        box-shadow: var(--default-box-shadow);
+        cursor: pointer;
+
+        &:hover {
+            filter: brightness(120%);
+            box-shadow: var(--blue-box-shadow);
+            transform: scale(1.1);
+        }
+    }
+}
+
+//the project
+.about-container {
+    // background: var(--dark);
+    padding: 1.5rem;
+    border-radius: 3px;
+    font-size: .96rem;
+    //this was added because I need on home page no padding on .site
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+    & .site-title {
+        color: var(--nav-blue);
+        text-align: center;
+        padding-bottom: 0rem;
+    }
+
+    & h2 {
+        padding-top: .7rem;
+        padding-bottom: .4rem;
+    }
+
+    & img {
+        max-width: 96%;
+        border-radius: 3px;
+        margin: 1rem 0;
+        margin-left: 2%;
+        transition: transform 1.5s;
+        cursor: pointer;
+
+        &:hover {
+            box-shadow: var(--blue-box-shadow);
+            transform: scale(1.02);
+        }
+    }
+
+    & p {
+        padding-bottom: 1.1rem;
+    }
+
+    & .site-description {
+        text-align: center;
+        font-style: italic;
+        font-size: .7rem;
+        padding-bottom: .5rem;
+    }
+}
+

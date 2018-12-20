@@ -1,0 +1,82 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+    <link rel="shortcut icon" href="..{{ site.baseurl }}/images/logos/shopping-cart-solid.png" type="image/x-icon">
+    <title>{{site.title}}</title>
+</head>
+
+<body>
+    <div class="site">
+        <input type="checkbox" name="nav-toggle" id="nav-toggle">
+        <header>
+            <p class="site-title"><a href="{{site.baseurl}}/"><i class="fas fa-shopping-cart"></i>{{site.title}}</a></p>
+            <label for="nav-toggle" id="toggle"><i class="fas fa-bars"></i></label>
+            <nav>
+                <ul class="first-level">
+                    <li><a href="{{site.baseurl}}/shop"><i class="fas fa-shopping-cart"></i>shop</a></li>
+                    <li><a href="{{site.baseurl}}/blog"><i class="far fa-newspaper"></i>blog</a></li>
+                    <li><a href="{{site.baseurl}}/gallery"><i class="far fa-images"></i>gallery</a></li>
+                    <li><a href="#"><i class="fas fa-info-circle"></i>about</a>
+                        <ul>
+                            <li><a href="{{site.baseurl}}/the-project"><i class="fas fa-book-open"></i>The Project</a></li>
+                            <li><a href="{{site.baseurl}}/our-team"><i class="fas fa-users"></i> Our Team</a></li>
+                            <li><a target="_blank" href="https://github.com/Arxero/Darkly-Dark"><i class="fas fa-external-link-alt"></i>GitHub
+                                    Page</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#"><i class="far fa-file-alt"></i>forms</a>
+                        <ul>
+                            <li><a href="{{site.baseurl}}/login"><i class="fas fa-power-off"></i>login</a></li>
+                            <li><a href="{{site.baseurl}}/register"><i class="fas fa-edit"></i>register</a></li>
+                            <li><a href="{{site.baseurl}}/contact"><i class="far fa-envelope"></i>contact</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            {{content}}
+        </main>
+        <footer>
+            <div class="footer-container">
+                <nav class="quick-links">
+                    <h3>quick links</h3>
+                    <ul>
+                        <li><a href="{{site.baseurl}}/login">login</a></li>
+                        <li><a href="{{site.baseurl}}/register">register</a></li>
+                        <li><a href="{{site.baseurl}}/contact">contact</a></li>
+                        <li><a href="{{site.baseurl}}/the-project">about us</a></li>
+                        <li><a href="{{site.baseurl}}/our-team">our team</a></li>
+                    </ul>
+                </nav>
+
+                <nav class="address">
+                    <h3>address</h3>
+                    <ul>
+                        <li>sofia, bulgaria</li>
+                        <li>admin@syntrwave.com</li>
+                        <li>+(359) 88 61 62 835</li>
+                    </ul>
+                </nav>
+
+                <nav class="follow-us">
+                    <h3>follow us</h3>
+                    <ul>
+                        <li><a target="_blank" href="https://www.youtube.com/user/feruchio599/"><i class="fab fa-youtube"></i></a></li>
+                        <li><a target="_blank" href="https://steamcommunity.com/groups/awesomecars"><i class="fab fa-steam"></i></a></li>
+                        <li><a target="_blank" href="https://github.com/Arxero/Darkly-Dark"><i class="fab fa-github"></i></a></li>
+                    </ul>
+                </nav>
+            </div>
+            <div class="copyright">
+                    Copyright © 2018 Darkly Dark. All Rights Reserved. <span><a href="#">Darkly Dark</a></span>
+                </div>
+        </footer>
+    </div>
+</body>
+
+</html>
